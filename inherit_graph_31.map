@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classShapeControlPainter.html" title="An object responsible to paint control points for a specific ShapeGraphicsItem. " alt="" coords="5,56,152,83"/>
+<area shape="rect" id="node2" href="$classEllipseControlPainter.html" title="Control painter for ellipses. " alt="" coords="205,5,352,32"/>
+<area shape="rect" id="node3" href="$classMeshControlPainter.html" title="Control painter for meshes. " alt="" coords="209,56,349,83"/>
+<area shape="rect" id="node4" href="$classPolygonControlPainter.html" title="Control painter for polygons. " alt="" coords="200,107,357,133"/>
+</map>

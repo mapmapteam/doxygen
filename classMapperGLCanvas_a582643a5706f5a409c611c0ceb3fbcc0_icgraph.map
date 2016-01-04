@@ -1,0 +1,5 @@
+<map id="MapperGLCanvas::getShapeGraphicsItemFromMappingId" name="MapperGLCanvas::getShapeGraphicsItemFromMappingId">
+<area shape="rect" id="node2" href="$classMapperGLCanvas.html#a6828b1fbd4c1a3e5d31ca00990a55517" title="MapperGLCanvas::getCurrent\lShapeGraphicsItem" alt="" coords="252,5,455,47"/>
+<area shape="rect" id="node3" href="$classMapperGLCanvas.html#a4caa5ec632e0b850b409007ae14d2233" title="MapperGLCanvas::drawForeground" alt="" coords="503,13,743,39"/>
+<area shape="rect" id="node4" href="$classOutputGLCanvas.html#a6a7e16c6f71da3bdba0e4949fd72d097" title="OutputGLCanvas::drawForeground" alt="" coords="791,13,1023,39"/>
+</map>

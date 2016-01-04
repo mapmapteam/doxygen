@@ -1,0 +1,6 @@
+<map id="MediaImpl::_updateRate" name="MediaImpl::_updateRate">
+<area shape="rect" id="node2" href="$classMediaImpl.html#a0116d6189357dad1862dc88260c2ba1b" title="MediaImpl::setRate" alt="" coords="221,31,360,57"/>
+<area shape="rect" id="node3" href="$classMedia.html#a9085d8c284463f26037575136898d5b6" title="Sets playback rate (in %). Negative values mean reverse playback. " alt="" coords="408,31,523,57"/>
+<area shape="rect" id="node4" href="$classMedia.html#a5924be75e60b0b7a8e20bc312a15b627" title="Media::Media" alt="" coords="618,5,725,32"/>
+<area shape="rect" id="node5" href="$classMainWindow.html#aec259be216a2b64fa1650900d365752a" title="MainWindow::setTextureRate" alt="" coords="571,56,772,83"/>
+</map>

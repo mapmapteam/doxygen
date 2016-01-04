@@ -1,0 +1,20 @@
+<map id="MShape::_rawSetVertex" name="MShape::_rawSetVertex">
+<area shape="rect" id="node2" href="$classMesh.html#a15595ae609c0ed4c38c400d67a07bdf4" title="Mesh::addColumn" alt="" coords="223,88,357,114"/>
+<area shape="rect" id="node5" href="$classMesh.html#acc8040820baddcdaea8f20faf4a5ce9a" title="Mesh::addRow" alt="" coords="852,12,967,38"/>
+<area shape="rect" id="node10" href="$classMShape.html#ac550bfa7936dd89fe2e8822872484c9a" title="MShape::setVertex" alt="" coords="221,189,359,216"/>
+<area shape="rect" id="node13" href="$classEllipse.html#aa7d8231b6ba44671a96fcb4050e17e0e" title="Ellipse::setVertex" alt="" coords="633,240,760,266"/>
+<area shape="rect" id="node18" href="$classPolygon.html#a4f720fa6f6b9f3c10f40b397b06f125a" title="Polygon::setVertex" alt="" coords="221,240,359,266"/>
+<area shape="rect" id="node19" href="$classMesh.html#aad7c33e24067bdaf002f7c48dd616002" title="Mesh::setVertex" alt="" coords="230,290,350,317"/>
+<area shape="rect" id="node3" href="$classMesh.html#a945fe5eeffe5ff1ea09a9098f879928e" title="Mesh::resize" alt="" coords="434,88,534,114"/>
+<area shape="rect" id="node4" href="$classMesh.html#ab3faecd22484a5c8f936c61faa39b683" title="Mesh::resizeVertices2d" alt="" coords="615,62,779,89"/>
+<area shape="rect" id="node6" href="$classMesh.html#a809c547e233cef00eef4d82b01addede" title="Mesh::init" alt="" coords="870,62,949,89"/>
+<area shape="rect" id="node8" href="$classMesh.html#a9475466f6bef517fa98a7ba4525f1901" title="Mesh::removeColumn" alt="" coords="832,164,987,190"/>
+<area shape="rect" id="node9" href="$classMesh.html#a1338ad70fbf3c9ef8b2375c87a440bdb" title="Mesh::removeRow" alt="" coords="841,113,977,140"/>
+<area shape="rect" id="node7" href="$classMesh.html#aad3f8fd75aeeea904f3ac37aa47cde1f" title="Mesh::Mesh" alt="" coords="1035,62,1131,89"/>
+<area shape="rect" id="node11" href="$classEllipse.html#a032b92370ae42a55292cc1a0b2395e50" title="Remaps points so as to make sure this is a correct ellipse, keeping vertices 0 and 2 as reference for..." alt="" coords="427,290,541,317"/>
+<area shape="rect" id="node14" href="$classMappingGui.html#ab627360aab415d69328bacaa1911d642" title="MappingGui::setValue" alt="" coords="407,349,561,376"/>
+<area shape="rect" id="node17" href="$classMShape.html#a7669a98ffb2a821be77ebcb1ee51b9f3" title="MShape::setVertex" alt="" coords="415,189,553,216"/>
+<area shape="rect" id="node12" href="$classEllipse.html#a16a74ad464ad2773b5e716a7af943277" title="Ellipse::Ellipse" alt="" coords="643,290,751,317"/>
+<area shape="rect" id="node15" href="$classMappingGui.html#abe779681d664fd52025bf1e90809c41d" title="Constructor. A mapper applies to a mapping. " alt="" coords="609,408,784,434"/>
+<area shape="rect" id="node16" href="$classMeshTextureMappingGui.html#a4d26a0ebd010a595c151b018d9d5778d" title="MeshTextureMappingGui\l::setValue" alt="" coords="609,342,784,383"/>
+</map>

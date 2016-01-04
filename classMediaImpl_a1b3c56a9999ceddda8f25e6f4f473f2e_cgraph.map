@@ -1,0 +1,18 @@
+<map id="MediaImpl::_checkMessages" name="MediaImpl::_checkMessages">
+<area shape="rect" id="node2" href="$classMediaImpl.html#a12c82a9e0d6e93f5742e386dfe43ec55" title="MediaImpl::_isMovieReady" alt="" coords="252,437,439,464"/>
+<area shape="rect" id="node3" href="$classMediaImpl.html#af426673c7e34bb887a3f970e599c59a2" title="MediaImpl::_setMovieReady" alt="" coords="1409,488,1604,515"/>
+<area shape="rect" id="node4" href="$classMediaImpl.html#a6c123a38664796c456cccdf8d312cde5" title="MediaImpl::resetMovie" alt="" coords="266,488,425,515"/>
+<area shape="rect" id="node5" href="$classMediaImpl.html#a364b93270719596ce67a92e6e84f804c" title="Loads a new movie file. " alt="" coords="487,235,643,261"/>
+<area shape="rect" id="node6" href="$classMediaImpl.html#a7a167513aaa53ad41682bb4f4d1aae82" title="MediaImpl::freeResources" alt="" coords="1417,133,1597,160"/>
+<area shape="rect" id="node8" href="$classMediaImpl.html#a5e614dc868027a41e41e725f1c55d94b" title="MediaImpl::gstNewSampleCallback" alt="" coords="691,57,927,84"/>
+<area shape="rect" id="node11" href="$classMediaImpl.html#ae12987ba7bf80e1b652338d92ce57083" title="FIXME: remove GOTO. " alt="" coords="694,184,923,211"/>
+<area shape="rect" id="node12" href="$MediaImpl_8cpp.html#a9c87772ea39153ef5690a82b83deb212" title="gstPollShmsrc" alt="" coords="755,336,863,363"/>
+<area shape="rect" id="node16" href="$classMediaImpl.html#ae4aa888270e1b711a72012dad8066d0c" title="MediaImpl::setPlayState" alt="" coords="975,285,1143,312"/>
+<area shape="rect" id="node17" href="$classMediaImpl.html#abd5433f176a1caf24b86203349241582" title="MediaImpl::unloadMovie" alt="" coords="1191,285,1361,312"/>
+<area shape="rect" id="node7" href="$classMediaImpl.html#a7a1c6e799797e81695ef694f8834cd3d" title="MediaImpl::_freeCurrentSample" alt="" coords="1652,57,1863,84"/>
+<area shape="rect" id="node9" href="$classMediaImpl.html#aa6dacd8d46dc17e988006369d08624b9" title="Locks mutex (default = no effect). " alt="" coords="982,32,1135,59"/>
+<area shape="rect" id="node10" href="$classMediaImpl.html#a6028642ec96f29d8c135d7bc5085a2b9" title="Unlocks mutex (default = no effect). " alt="" coords="975,83,1142,109"/>
+<area shape="rect" id="node13" href="$classMediaImpl.html#a6f3fc5fba4b1152ed0adeec327a5dc94" title="When using the shared memory source, returns whether or not we are attached to a shared memory socket..." alt="" coords="977,437,1141,464"/>
+<area shape="rect" id="node14" href="$classMediaImpl.html#a265a9c862f55511b35a903a9346b86c2" title="Returns the path to the media file being played. " alt="" coords="995,336,1122,363"/>
+<area shape="rect" id="node15" href="$classMediaImpl.html#a617aadbf02013ca3bd1f481049cd7cbe" title="Tells the MediaImpl that we are actually reading from a shmsrc. " alt="" coords="977,387,1140,413"/>
+</map>

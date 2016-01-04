@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQGraphicsItem.html" title="QGraphicsItem" alt="" coords="5,81,116,108"/>
+<area shape="rect" id="node2" href="$classShapeGraphicsItem.html" title="Represents a shape as part of a scene graph in one of the GL canvas. " alt="" coords="164,81,304,108"/>
+<area shape="rect" id="node3" href="$classColorGraphicsItem.html" title="ColorGraphicsItem" alt="" coords="359,56,493,83"/>
+<area shape="rect" id="node6" href="$classTextureGraphicsItem.html" title="Abstract class for texture graphics items. " alt="" coords="352,107,500,133"/>
+<area shape="rect" id="node4" href="$classEllipseColorGraphicsItem.html" title="Graphics item for colored polygons (eg. quad, triangle). " alt="" coords="561,5,734,32"/>
+<area shape="rect" id="node5" href="$classPolygonColorGraphicsItem.html" title="Graphics item for colored polygons (eg. quad, triangle). " alt="" coords="555,56,739,83"/>
+<area shape="rect" id="node7" href="$classEllipseTextureGraphicsItem.html" title="Graphics item for textured mesh. " alt="" coords="554,107,741,133"/>
+<area shape="rect" id="node8" href="$classPolygonTextureGraphicsItem.html" title="Graphics item for textured polygons (eg. triangles). " alt="" coords="548,157,747,184"/>
+<area shape="rect" id="node9" href="$classMeshTextureGraphicsItem.html" title="Graphics item for textured mesh. " alt="" coords="803,132,985,159"/>
+<area shape="rect" id="node10" href="$classTriangleTextureGraphicsItem.html" title="Graphics item for textured triangles. " alt="" coords="795,183,993,209"/>
+</map>

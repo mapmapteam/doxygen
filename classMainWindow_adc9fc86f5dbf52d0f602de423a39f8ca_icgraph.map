@@ -1,0 +1,4 @@
+<map id="MainWindow::getMappingGuiByMappingId" name="MainWindow::getMappingGuiByMappingId">
+<area shape="rect" id="node2" href="$classDestinationGLCanvas.html#a2cb035c3db3f046023ad02c4bfe60baa" title="DestinationGLCanvas\l::getShapeGraphicsItemFrom\lMappingId" alt="" coords="252,5,451,61"/>
+<area shape="rect" id="node3" href="$classSourceGLCanvas.html#a94f9e854c975b989b81798dde07c372e" title="SourceGLCanvas::getShape\lGraphicsItemFromMappingId" alt="" coords="253,85,449,126"/>
+</map>

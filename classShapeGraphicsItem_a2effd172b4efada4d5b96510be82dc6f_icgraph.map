@@ -1,0 +1,14 @@
+<map id="ShapeGraphicsItem::isOutput" name="ShapeGraphicsItem::isOutput">
+<area shape="rect" id="node2" href="$classTriangleTextureGraphicsItem.html#acdb0ce112cba4b749fc493dd93ce0783" title="TriangleTextureGraphicsItem\l::_doDrawOutput" alt="" coords="201,5,400,47"/>
+<area shape="rect" id="node3" href="$classMeshTextureGraphicsItem.html#a37548c26ad6a064019698df0f4ecf573" title="MeshTextureGraphicsItem\l::_doDrawOutput" alt="" coords="448,96,629,137"/>
+<area shape="rect" id="node4" href="$classTextureGraphicsItem.html#a444c9470ae70bf1c277baaf0d0d70475" title="Main paint function that needs to be overriden (called by paint()). " alt="" coords="227,123,375,164"/>
+<area shape="rect" id="node5" href="$classTextureGraphicsItem.html#ab4bf49309357593ce81a1b73a3c487fa" title="Can be overriden to perform operations before _doPaint() is called. " alt="" coords="227,188,375,229"/>
+<area shape="rect" id="node6" href="$classShapeGraphicsItem.html#a409347c0bb8c17579d9e789c8a786e4e" title="Returns pointer to GL canvas. " alt="" coords="227,253,375,295"/>
+<area shape="rect" id="node13" href="$classShapeGraphicsItem.html#ad848db2b75def8fdfdff526c4477df22" title="Built&#45;in function: paints the shape. " alt="" coords="227,319,375,360"/>
+<area shape="rect" id="node7" href="$classShapeControlPainter.html#a3f98d005fa8202d873bb34ada3e78ef0" title="ShapeControlPainter\l::_paintVertices" alt="" coords="465,223,612,264"/>
+<area shape="rect" id="node9" href="$classShapeGraphicsItem.html#a66a0f1cdddb3e00cc3fe6d30a601ddd0" title="Utility function: returns a stroke with rescaled width such that the stroke appears invariant to the ..." alt="" coords="450,320,627,361"/>
+<area shape="rect" id="node8" href="$classShapeControlPainter.html#acf7b5733ad7f7827960fa226d92dfacb" title="ShapeControlPainter\l::paint" alt="" coords="683,205,829,247"/>
+<area shape="rect" id="node10" href="$classPolygonControlPainter.html#adb676c3371605930d669701b65580f51" title="PolygonControlPainter\l::_paintShape" alt="" coords="677,271,835,312"/>
+<area shape="rect" id="node11" href="$classEllipseControlPainter.html#ad858b1c8f52a54245ca047619c4cef9e" title="EllipseControlPainter\l::_paintShape" alt="" coords="683,336,829,377"/>
+<area shape="rect" id="node12" href="$classMeshControlPainter.html#a6aebae0b4e8d9b49c53d8d8b9e3904e3" title="MeshControlPainter\l::_paintShape" alt="" coords="686,401,826,443"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ShapeGraphicsItem::paint" name="ShapeGraphicsItem::paint">
+<area shape="rect" id="node2" href="$classShapeGraphicsItem.html#a2a6f8de450ff9536f11bc06b4493c439" title="Main paint function that needs to be overriden (called by paint()). " alt="" coords="201,5,349,47"/>
+<area shape="rect" id="node3" href="$classShapeGraphicsItem.html#af90bd2493a1d44d13795c96f5ead967b" title="Can be overriden to perform operations after _doPaint() is called. " alt="" coords="201,71,349,112"/>
+<area shape="rect" id="node4" href="$classShapeGraphicsItem.html#ac7bc640d0be00fe77481e8379e7c6184" title="Can be overriden to perform operations before _doPaint() is called. " alt="" coords="201,136,349,177"/>
+<area shape="rect" id="node5" href="$classShapeGraphicsItem.html#adb2e44453f779d41661fa3067e0a2bc0" title="Returns the mapping. " alt="" coords="397,224,545,265"/>
+<area shape="rect" id="node6" href="$classShapeGraphicsItem.html#ad23f14605614232fc032b5ecd54701e5" title="Returns whether the mapping this shape is associated should be visible. " alt="" coords="201,253,349,295"/>
+<area shape="rect" id="node7" href="$classShapeGraphicsItem.html#a2effd172b4efada4d5b96510be82dc6f" title="Return whether the item is in the destination/output (true) or source/input (false). " alt="" coords="201,319,349,360"/>
+</map>

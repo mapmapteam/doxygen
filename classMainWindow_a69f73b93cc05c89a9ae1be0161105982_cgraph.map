@@ -1,0 +1,50 @@
+<map id="MainWindow::newFile" name="MainWindow::newFile">
+<area shape="rect" id="node2" href="$classMainWindow.html#a10533d699cd751d03b9599ae206b7f32" title="MainWindow::clearWindow" alt="" coords="212,586,399,612"/>
+<area shape="rect" id="node28" href="$classMainWindow.html#aa29287cd319fc301d4b49a07d13c0c3e" title="MainWindow::okToContinue" alt="" coords="208,888,403,915"/>
+<area shape="rect" id="node47" href="$classMainWindow.html#a3631bdedbef1d5d7e3ea87b62a80d94e" title="MainWindow::setCurrentFile" alt="" coords="1243,975,1434,1002"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a5bcadeee786003146ba7e00256ed9e31" title="Clears all mappings and paints. " alt="" coords="451,358,631,384"/>
+<area shape="rect" id="node4" href="$classMainWindow.html#a2c723d3de25039aa052596ab0bbb08fb" title="MainWindow::disconnectProject\lWidgets" alt="" coords="679,426,893,468"/>
+<area shape="rect" id="node7" href="$classMainWindow.html#a301d50489ecbfff26b1b75135d6c469f" title="MainWindow::removeCurrent\lMapping" alt="" coords="1797,213,1995,254"/>
+<area shape="rect" id="node9" href="$classMainWindow.html#a957facfa9072efcadc04d4e1aa53809d" title="MainWindow::removeCurrent\lPaint" alt="" coords="1797,65,1995,106"/>
+<area shape="rect" id="node22" href="$classMappingManager.html#a2182e7e79053192e651218750c609092" title="MappingManager::clearAll" alt="" coords="696,358,876,384"/>
+<area shape="rect" id="node23" href="$classMainWindow.html#aad007426e7c6ffa12708d89307dcecea" title="MainWindow::connectProject\lWidgets" alt="" coords="687,288,885,329"/>
+<area shape="rect" id="node26" href="$classMainWindow.html#a77f5c4fcd861b520121a276bfc9dc61f" title="MainWindow::windowModified" alt="" coords="683,559,889,586"/>
+<area shape="rect" id="node5" href="$classMainWindow.html#a65c6b2c81ee40a58a7d194d682674fae" title="MainWindow::handlePaintItem\lSelectionChanged" alt="" coords="1237,217,1441,258"/>
+<area shape="rect" id="node13" href="$classMainWindow.html#a635ea3e33d684d9450304ae32f7e1a56" title="MainWindow::handleItemSelected" alt="" coords="943,340,1171,367"/>
+<area shape="rect" id="node14" href="$classMainWindow.html#a9baa73344596713f6cb7bf55b5c084cf" title="MainWindow::handleMapping\lItemSelectionChanged" alt="" coords="1239,340,1439,381"/>
+<area shape="rect" id="node17" href="$classMainWindow.html#ab96da2c75f2863ec96b1a70103f8d6c9" title="MainWindow::handleMapping\lItemChanged" alt="" coords="957,558,1157,600"/>
+<area shape="rect" id="node20" href="$classMainWindow.html#ac1e0c160044271a0168a57c929aab338" title="MainWindow::handleMapping\lIndexesMoved" alt="" coords="957,493,1157,534"/>
+<area shape="rect" id="node6" href="$classMainWindow.html#a6eed84404b7bab6b22016d00499b49f7" title="MainWindow::getItemId" alt="" coords="2055,351,2217,378"/>
+<area shape="rect" id="node8" href="$classMainWindow.html#acd5e005a0ec47530f09b0cd608ccc874" title="MainWindow::setCurrentPaint" alt="" coords="1522,224,1721,251"/>
+<area shape="rect" id="node11" href="$classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="1516,427,1727,454"/>
+<area shape="rect" id="node10" href="$classMainWindow.html#a4658dbe8953b4536ec18c3bb22d493ac" title="MainWindow::getItemRowFromId" alt="" coords="1785,326,2007,352"/>
+<area shape="rect" id="node12" href="$classOutputGLWindow.html#a34496b89b9c541dd93ec0bf42b0aa129" title="OutputGLWindow::getCanvas" alt="" coords="1796,427,1996,454"/>
+<area shape="rect" id="node15" href="$classMappingManager.html#a5f725de7227d100962da39ad646e9a03" title="Returns mapping with given uid. " alt="" coords="1505,478,1737,504"/>
+<area shape="rect" id="node16" href="$classMainWindow.html#a277e3d3366c3c4f9f48a2f219997a21b" title="MainWindow::setCurrentMapping" alt="" coords="1511,326,1731,352"/>
+<area shape="rect" id="node18" href="$classMainWindow.html#a9b664428962d1fc0e883d8929eda8067" title="Sets visibility of mapping. " alt="" coords="1230,528,1447,555"/>
+<area shape="rect" id="node19" href="$classMainWindow.html#aeb868c14b8b36df1001736b97529dfb1" title="MainWindow::getItemFromId" alt="" coords="1524,528,1719,555"/>
+<area shape="rect" id="node21" href="$classMappingManager.html#a7bb2d9d9f7c8b2b8f6ef7d45bdf313a9" title="Reorders the mappings according to given list of uids. QVector needs to. " alt="" coords="1220,427,1457,454"/>
+<area shape="rect" id="node24" href="$classMainWindow.html#a3473ce527c5fa8605f56f6e34848935b" title="MainWindow::renameMappingItem" alt="" coords="941,138,1172,164"/>
+<area shape="rect" id="node25" href="$classMainWindow.html#a2b65e72a709c8e96352c593b2abad779" title="MainWindow::renamePaintItem" alt="" coords="952,188,1161,215"/>
+<area shape="rect" id="node27" href="$classMainWindow.html#ad62e8427ddc79384e22bccaa2eb1fa1b" title="MainWindow::updateStatusBar" alt="" coords="953,624,1160,651"/>
+<area shape="rect" id="node29" href="$classMainWindow.html#aa3d482e80b77965da25d42920f9e93c7" title="MainWindow::save" alt="" coords="471,888,610,915"/>
+<area shape="rect" id="node30" href="$classMainWindow.html#a29cf7bd0dd9c5ab61fe788a54953cc63" title="MainWindow::saveAs" alt="" coords="709,863,863,890"/>
+<area shape="rect" id="node31" href="$classMainWindow.html#a59484fd90f3f3fcc339315637168ae06" title="MainWindow::saveFile" alt="" coords="977,888,1137,915"/>
+<area shape="rect" id="node32" href="$classProjectWriter.html#a1284e0b85870c6bfbc80c549c08146fd" title="ProjectWriter::writeFile" alt="" coords="1260,851,1417,878"/>
+<area shape="rect" id="node33" href="$classMappingManager.html#a681d3e7a713c6f8402ed0fe857cd1e8c" title="Returns the number of paints. " alt="" coords="1532,731,1711,758"/>
+<area shape="rect" id="node34" href="$classProjectWriter.html#a984b289316164b617612129c019907df" title="ProjectWriter::writeItem" alt="" coords="1541,782,1701,808"/>
+<area shape="rect" id="node44" href="$classMappingManager.html#aef61397e0ebfebee3f98aa1bcef2e15b" title="Returns the i&#45;th paint in the vector. Good for iterating over all paints. " alt="" coords="1529,832,1713,859"/>
+<area shape="rect" id="node45" href="$classMappingManager.html#ad1ece7d9f58875c5f711748457436159" title="Returns the number of mappings. " alt="" coords="1521,883,1721,910"/>
+<area shape="rect" id="node46" href="$classMappingManager.html#a172f9d2600d9f8d0b5daa2bf8d4e2a5d" title="Returns the i&#45;th mapping in the vector. " alt="" coords="1519,934,1724,960"/>
+<area shape="rect" id="node35" href="$classPaint.html#a9ce271092b60f4ab1a6737cd202b637c" title="Paint::getId" alt="" coords="1851,630,1941,656"/>
+<area shape="rect" id="node36" href="$classPaint.html#a03222a7a35334458129ad3a9acace369" title="Paint::getType" alt="" coords="1841,680,1951,707"/>
+<area shape="rect" id="node37" href="$classMedia.html#a72b91edb335d45614b3e3bf49adc36fd" title="Media::getUri" alt="" coords="1845,731,1947,758"/>
+<area shape="rect" id="node38" href="$classTexture.html#a1b9d77401b6a113d8ff51f97f6e106f3" title="Texture::getX" alt="" coords="1843,782,1949,808"/>
+<area shape="rect" id="node39" href="$classTexture.html#a2f2145e1efb2e3a6604b85453ce8e87c" title="Texture::getY" alt="" coords="1843,832,1949,859"/>
+<area shape="rect" id="node40" href="$classMedia.html#adbd9f274384a6dacc87e97e56a23e805" title="Returns playback rate. " alt="" coords="1839,883,1953,910"/>
+<area shape="rect" id="node42" href="$classImage.html#a2c61d9466ffe4cf8b662617c03e7b8cf" title="Image::getUri" alt="" coords="1845,934,1947,960"/>
+<area shape="rect" id="node43" href="$classColor.html#a2eb88895a9d7f67823b6ec7a4c6c5b3b" title="Color::getColor" alt="" coords="1839,984,1953,1011"/>
+<area shape="rect" id="node41" href="$classMediaImpl.html#a288c75ed527d063896d4e41724c88318" title="MediaImpl::getRate" alt="" coords="2067,883,2205,910"/>
+<area shape="rect" id="node48" href="$classMainWindow.html#a37bcca7fc7bf0b871d99913c447c237f" title="MainWindow::strippedName" alt="" coords="1801,1039,1991,1066"/>
+<area shape="rect" id="node49" href="$classMainWindow.html#affa76730fa370a3466b62a4caee721e3" title="MainWindow::updateRecent\lFileActions" alt="" coords="1526,1036,1717,1077"/>
+</map>

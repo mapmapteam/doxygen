@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQGraphicsView.html" title="QGraphicsView" alt="" coords="5,31,121,57"/>
+<area shape="rect" id="node2" href="$classMapperGLCanvas.html" title="Mother class for OpenGL canvases that allow the display and controls of shapes and vertices..." alt="" coords="169,31,301,57"/>
+<area shape="rect" id="node3" href="$classDestinationGLCanvas.html" title="DestinationGLCanvas" alt="" coords="349,5,504,32"/>
+<area shape="rect" id="node5" href="$classSourceGLCanvas.html" title="SourceGLCanvas" alt="" coords="361,56,492,83"/>
+<area shape="rect" id="node4" href="$classOutputGLCanvas.html" title="OutputGLCanvas" alt="" coords="552,5,676,32"/>
+</map>

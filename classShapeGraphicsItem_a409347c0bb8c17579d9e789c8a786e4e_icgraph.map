@@ -1,0 +1,9 @@
+<map id="ShapeGraphicsItem::getCanvas" name="ShapeGraphicsItem::getCanvas">
+<area shape="rect" id="node2" href="$classMeshTextureGraphicsItem.html#a37548c26ad6a064019698df0f4ecf573" title="MeshTextureGraphicsItem\l::_doDrawOutput" alt="" coords="201,5,383,47"/>
+<area shape="rect" id="node3" href="$classShapeControlPainter.html#a3f98d005fa8202d873bb34ada3e78ef0" title="ShapeControlPainter\l::_paintVertices" alt="" coords="219,71,365,112"/>
+<area shape="rect" id="node5" href="$classShapeGraphicsItem.html#a66a0f1cdddb3e00cc3fe6d30a601ddd0" title="Utility function: returns a stroke with rescaled width such that the stroke appears invariant to the ..." alt="" coords="203,168,381,209"/>
+<area shape="rect" id="node4" href="$classShapeControlPainter.html#acf7b5733ad7f7827960fa226d92dfacb" title="ShapeControlPainter\l::paint" alt="" coords="436,53,583,95"/>
+<area shape="rect" id="node6" href="$classPolygonControlPainter.html#adb676c3371605930d669701b65580f51" title="PolygonControlPainter\l::_paintShape" alt="" coords="431,119,588,160"/>
+<area shape="rect" id="node7" href="$classEllipseControlPainter.html#ad858b1c8f52a54245ca047619c4cef9e" title="EllipseControlPainter\l::_paintShape" alt="" coords="436,184,583,225"/>
+<area shape="rect" id="node8" href="$classMeshControlPainter.html#a6aebae0b4e8d9b49c53d8d8b9e3904e3" title="MeshControlPainter\l::_paintShape" alt="" coords="439,249,579,291"/>
+</map>

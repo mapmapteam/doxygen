@@ -1,0 +1,18 @@
+<map id="MainWindow::deleteItem" name="MainWindow::deleteItem">
+<area shape="rect" id="node2" href="$classMainWindow.html#a5fc2057376339eb97f27f7c3563aeafe" title="Deletes/removes a paint and all associated mappigns. " alt="" coords="224,321,400,347"/>
+<area shape="rect" id="node11" href="$classMainWindow.html#a6eed84404b7bab6b22016d00499b49f7" title="MainWindow::getItemId" alt="" coords="1299,397,1461,423"/>
+<area shape="rect" id="node3" href="$classPaint.html#a208998b017844226fc0a9279d4bed02b" title="Paint::getUidAllocator" alt="" coords="477,321,629,347"/>
+<area shape="rect" id="node4" href="$classMainWindow.html#ad95384495a22bb52595bae5369431e00" title="MainWindow::removePaintItem" alt="" coords="448,219,657,246"/>
+<area shape="rect" id="node5" href="$classMappingManager.html#a7c9b912e3c84f7d7ab3b2d604986d73a" title="Returns paint with given uid. " alt="" coords="995,26,1205,53"/>
+<area shape="rect" id="node6" href="$classMappingManager.html#af0a563739508271ea96b8233ea1ce498" title="Returns the list of mappings associated with given paint. " alt="" coords="1008,91,1192,132"/>
+<area shape="rect" id="node7" href="$classMainWindow.html#ad0f3c47ed18fc3df0209d1a3c87e575e" title="MainWindow::removeMappingItem" alt="" coords="705,270,936,297"/>
+<area shape="rect" id="node10" href="$classMainWindow.html#a4658dbe8953b4536ec18c3bb22d493ac" title="MainWindow::getItemRowFromId" alt="" coords="989,371,1211,398"/>
+<area shape="rect" id="node12" href="$classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="995,321,1205,347"/>
+<area shape="rect" id="node14" href="$classMainWindow.html#a77f5c4fcd861b520121a276bfc9dc61f" title="MainWindow::windowModified" alt="" coords="997,219,1203,246"/>
+<area shape="rect" id="node16" href="$classMappingManager.html#af215b03c0d00e14589744ae9b99fae3d" title="Removes a paint of given uid. " alt="" coords="715,51,926,78"/>
+<area shape="rect" id="node17" href="$classMainWindow.html#a957facfa9072efcadc04d4e1aa53809d" title="MainWindow::removeCurrent\lPaint" alt="" coords="722,103,919,144"/>
+<area shape="rect" id="node8" href="$classMappingManager.html#a5f725de7227d100962da39ad646e9a03" title="Returns mapping with given uid. " alt="" coords="1264,169,1496,195"/>
+<area shape="rect" id="node9" href="$classMappingManager.html#a636c3bc97e492fdbf6305cd3e36ccf96" title="Removes a mapping of given uid. " alt="" coords="984,169,1216,195"/>
+<area shape="rect" id="node13" href="$classOutputGLWindow.html#a34496b89b9c541dd93ec0bf42b0aa129" title="OutputGLWindow::getCanvas" alt="" coords="1280,321,1480,347"/>
+<area shape="rect" id="node15" href="$classMainWindow.html#ad62e8427ddc79384e22bccaa2eb1fa1b" title="MainWindow::updateStatusBar" alt="" coords="1277,219,1483,246"/>
+</map>

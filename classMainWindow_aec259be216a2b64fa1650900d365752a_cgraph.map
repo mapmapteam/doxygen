@@ -1,0 +1,7 @@
+<map id="MainWindow::setTextureRate" name="MainWindow::setTextureRate">
+<area shape="rect" id="node2" href="$classMappingManager.html#a7c9b912e3c84f7d7ab3b2d604986d73a" title="Returns paint with given uid. " alt="" coords="255,5,465,32"/>
+<area shape="rect" id="node3" href="$classMedia.html#a9085d8c284463f26037575136898d5b6" title="Sets playback rate (in %). Negative values mean reverse playback. " alt="" coords="303,56,417,83"/>
+<area shape="rect" id="node4" href="$classMediaImpl.html#a0116d6189357dad1862dc88260c2ba1b" title="MediaImpl::setRate" alt="" coords="513,56,652,83"/>
+<area shape="rect" id="node5" href="$classMediaImpl.html#a09bd468ffcbdd47dc7f672fde84aac97" title="MediaImpl::_updateRate" alt="" coords="700,56,868,83"/>
+<area shape="rect" id="node6" href="$classMediaImpl.html#a12c82a9e0d6e93f5742e386dfe43ec55" title="MediaImpl::_isMovieReady" alt="" coords="916,56,1103,83"/>
+</map>

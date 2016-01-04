@@ -1,0 +1,7 @@
+<map id="Media" name="Media">
+<area shape="rect" id="node2" href="$classTexture.html" title="Paint that uses an OpenGL texture to paint on potentially any MappingGui. " alt="" coords="5,755,156,1023"/>
+<area shape="rect" id="node3" href="$classPaint.html" title="A Paint is a style that can be applied when drawing potentially any shape. " alt="" coords="13,204,148,531"/>
+<area shape="rect" id="node4" href="$classUidAllocator.html" title="Allocates uids for instances by appending an incremental number to a given string. " alt="" coords="33,5,128,141"/>
+<area shape="rect" id="node5" href="$classMediaImpl.html" title="Private declaration of the video player. " alt="" coords="181,593,386,1184"/>
+<area shape="rect" id="node6" href="$structMediaImpl_1_1GstPadHandlerData.html" title="{MediaImpl::GstPadHandlerData\n|+ videoToConnect\l+ videoSink\l+ videoIsConnected\l+ width\l+ height\l+ audioToConnect\l|+ GstPadHandlerData()\l}" alt="" coords="176,292,391,443"/>
+</map>

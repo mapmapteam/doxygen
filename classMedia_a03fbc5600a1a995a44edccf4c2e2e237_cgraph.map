@@ -1,0 +1,7 @@
+<map id="Media::play" name="Media::play">
+<area shape="rect" id="node2" href="$classMediaImpl.html#ae4aa888270e1b711a72012dad8066d0c" title="MediaImpl::setPlayState" alt="" coords="147,31,315,57"/>
+<area shape="rect" id="node3" href="$classMediaImpl.html#abd5433f176a1caf24b86203349241582" title="MediaImpl::unloadMovie" alt="" coords="363,31,533,57"/>
+<area shape="rect" id="node4" href="$classMediaImpl.html#af426673c7e34bb887a3f970e599c59a2" title="MediaImpl::_setMovieReady" alt="" coords="581,5,776,32"/>
+<area shape="rect" id="node5" href="$classMediaImpl.html#a7a167513aaa53ad41682bb4f4d1aae82" title="MediaImpl::freeResources" alt="" coords="589,56,769,83"/>
+<area shape="rect" id="node6" href="$classMediaImpl.html#a7a1c6e799797e81695ef694f8834cd3d" title="MediaImpl::_freeCurrentSample" alt="" coords="824,56,1035,83"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="MediaImpl::getBits" name="MediaImpl::getBits">
+<area shape="rect" id="node2" href="$classMedia.html#a2527402c9bf14fd36c46df93393baa47" title="Returns image bits data. Next call to bitsHaveChanged() will be false. " alt="" coords="187,5,296,32"/>
+</map>

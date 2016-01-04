@@ -1,0 +1,5 @@
+<map id="EllipseColorMappingGui" name="EllipseColorMappingGui">
+<area shape="rect" id="node2" href="$classColorMappingGui.html" title="Parent class for color &#45;&gt; color mappings. " alt="" coords="25,520,180,612"/>
+<area shape="rect" id="node3" href="$classMappingGui.html" title="This is the &quot;view&quot; side of the Mapping class (model). " alt="" coords="13,131,192,472"/>
+<area shape="rect" id="node4" href="$classQObject.html" title="{QObject\n||}" alt="" coords="67,5,138,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ShapeGraphicsItem::getMapping" name="ShapeGraphicsItem::getMapping">
+<area shape="rect" id="node2" href="$classColorGraphicsItem.html#a96caf1e211c139e921e00f32cdead90e" title="Can be overriden to perform operations before _doPaint() is called. " alt="" coords="204,5,347,47"/>
+<area shape="rect" id="node3" href="$classTextureGraphicsItem.html#ab4bf49309357593ce81a1b73a3c487fa" title="Can be overriden to perform operations before _doPaint() is called. " alt="" coords="201,71,349,112"/>
+<area shape="rect" id="node4" href="$classShapeGraphicsItem.html#ace336beca655965fff6324b788f2c571" title="Returns whether the mapping this shape is associated with is currently selected. " alt="" coords="201,136,349,177"/>
+<area shape="rect" id="node8" href="$classShapeGraphicsItem.html#ad23f14605614232fc032b5ecd54701e5" title="Returns whether the mapping this shape is associated should be visible. " alt="" coords="201,201,349,243"/>
+<area shape="rect" id="node9" href="$classShapeGraphicsItem.html#ad848db2b75def8fdfdff526c4477df22" title="Built&#45;in function: paints the shape. " alt="" coords="414,231,562,272"/>
+<area shape="rect" id="node10" href="$classShapeGraphicsItem.html#ad56e134f78536a9a7270da1482f65b5a" title="ShapeGraphicsItem::\lShapeGraphicsItem" alt="" coords="201,319,349,360"/>
+<area shape="rect" id="node5" href="$classTextureGraphicsItem.html#a73dbad4408293dccec1c265b1c7d81e0" title="TextureGraphicsItem\l::_doDrawInput" alt="" coords="414,85,562,127"/>
+<area shape="rect" id="node7" href="$classMeshTextureGraphicsItem.html#a37548c26ad6a064019698df0f4ecf573" title="MeshTextureGraphicsItem\l::_doDrawOutput" alt="" coords="397,151,579,192"/>
+<area shape="rect" id="node6" href="$classTextureGraphicsItem.html#a444c9470ae70bf1c277baaf0d0d70475" title="Main paint function that needs to be overriden (called by paint()). " alt="" coords="627,85,775,127"/>
+</map>

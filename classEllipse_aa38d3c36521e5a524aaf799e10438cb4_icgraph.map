@@ -1,0 +1,9 @@
+<map id="Ellipse::toUnitCircle" name="Ellipse::toUnitCircle">
+<area shape="rect" id="node2" href="$classEllipse.html#a704dbc1f9ab18387a3efff87c83c0f7c" title="If v is outside boundaries, remap it to the border. " alt="" coords="403,56,528,83"/>
+<area shape="rect" id="node5" href="$classEllipse.html#aa7d8231b6ba44671a96fcb4050e17e0e" title="Ellipse::setVertex" alt="" coords="751,81,877,108"/>
+<area shape="rect" id="node6" href="$classEllipse.html#a16e11fcf86dd873970a4af1ef818efa6" title="Remaps point from circle with radius 1 set at origin (0,0) to ellipse coordinates. " alt="" coords="191,107,343,133"/>
+<area shape="rect" id="node7" href="$classEllipse.html#a3b6503d89ee8d06c01a617baf19c6364" title="Return true if Shape includes point (x,y), false otherwise Algorithm should work for all polygons..." alt="" coords="192,208,341,235"/>
+<area shape="rect" id="node3" href="$classEllipse.html#a032b92370ae42a55292cc1a0b2395e50" title="Remaps points so as to make sure this is a correct ellipse, keeping vertices 0 and 2 as reference for..." alt="" coords="588,5,703,32"/>
+<area shape="rect" id="node4" href="$classEllipse.html#a16a74ad464ad2773b5e716a7af943277" title="Ellipse::Ellipse" alt="" coords="760,5,868,32"/>
+<area shape="rect" id="node8" href="$classEllipse.html#ac58c22ed96590c516428418a1bee6e84" title="Ellipse::includesPoint" alt="" coords="391,208,540,235"/>
+</map>

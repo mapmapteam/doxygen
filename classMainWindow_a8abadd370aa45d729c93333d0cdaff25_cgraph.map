@@ -1,0 +1,20 @@
+<map id="MainWindow::addEllipse" name="MainWindow::addEllipse">
+<area shape="rect" id="node2" href="$classMappingManager.html#a8520f36639420ee5ea6df9ae80dc0e33" title="Adds a mapping and returns its uid. " alt="" coords="235,107,445,133"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a91afdf837defb9031caa1517c8cb5c69" title="MainWindow::addMappingItem" alt="" coords="236,157,444,184"/>
+<area shape="rect" id="node11" href="$namespaceUtil.html#a17d08ec43095614e451015e0bfea53a5" title="Util::createEllipseForColor" alt="" coords="251,233,429,260"/>
+<area shape="rect" id="node12" href="$namespaceUtil.html#a4795b6a69d928533436aaa247779e65b" title="Util::createEllipseForTexture" alt="" coords="244,284,436,311"/>
+<area shape="rect" id="node17" href="$classMainWindow.html#a5022efb4c1fdeff44e8daa16222711ae" title="MainWindow::getCurrentPaintId" alt="" coords="235,335,445,361"/>
+<area shape="rect" id="node18" href="$classMainWindow.html#a0eb87b81740e8b4751899bd553cd5701" title="MainWindow::getMappingManager" alt="" coords="224,385,456,412"/>
+<area shape="rect" id="node19" href="$classMappingManager.html#a7c9b912e3c84f7d7ab3b2d604986d73a" title="Returns paint with given uid. " alt="" coords="235,436,445,463"/>
+<area shape="rect" id="node4" href="$classMappingManager.html#a5f725de7227d100962da39ad646e9a03" title="Returns mapping with given uid. " alt="" coords="504,5,736,32"/>
+<area shape="rect" id="node5" href="$classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="784,107,995,133"/>
+<area shape="rect" id="node7" href="$classMainWindow.html#abc345ca26b8578ac719fc4910463b347" title="MainWindow::setItemId" alt="" coords="539,107,701,133"/>
+<area shape="rect" id="node8" href="$classMainWindow.html#a2bf13c67d7025fb51805e1699a0831ab" title="MainWindow::enableTestSignal" alt="" coords="513,157,727,184"/>
+<area shape="rect" id="node9" href="$classMainWindow.html#a77f5c4fcd861b520121a276bfc9dc61f" title="MainWindow::windowModified" alt="" coords="517,208,723,235"/>
+<area shape="rect" id="node6" href="$classOutputGLWindow.html#a34496b89b9c541dd93ec0bf42b0aa129" title="OutputGLWindow::getCanvas" alt="" coords="1043,107,1243,133"/>
+<area shape="rect" id="node10" href="$classMainWindow.html#ad62e8427ddc79384e22bccaa2eb1fa1b" title="MainWindow::updateStatusBar" alt="" coords="786,208,993,235"/>
+<area shape="rect" id="node13" href="$classTexture.html#a028abb4fdfd694332a9b4b3874f56906" title="Texture::getWidth" alt="" coords="555,259,685,285"/>
+<area shape="rect" id="node14" href="$classTexture.html#a8913bc460bbe76fb4dd566b365c42728" title="Texture::getHeight" alt="" coords="553,309,687,336"/>
+<area shape="rect" id="node15" href="$classTexture.html#a1b9d77401b6a113d8ff51f97f6e106f3" title="Texture::getX" alt="" coords="567,360,673,387"/>
+<area shape="rect" id="node16" href="$classTexture.html#a2f2145e1efb2e3a6604b85453ce8e87c" title="Texture::getY" alt="" coords="567,411,673,437"/>
+</map>

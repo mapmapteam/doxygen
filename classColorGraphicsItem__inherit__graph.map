@@ -1,0 +1,6 @@
+<map id="ColorGraphicsItem" name="ColorGraphicsItem">
+<area shape="rect" id="node4" href="$classEllipseColorGraphicsItem.html" title="Graphics item for colored polygons (eg. quad, triangle). " alt="" coords="5,660,207,781"/>
+<area shape="rect" id="node5" href="$classPolygonColorGraphicsItem.html" title="Graphics item for colored polygons (eg. quad, triangle). " alt="" coords="231,660,443,781"/>
+<area shape="rect" id="node2" href="$classShapeGraphicsItem.html" title="Represents a shape as part of a scene graph in one of the GL canvas. " alt="" coords="122,131,319,457"/>
+<area shape="rect" id="node3" href="$classQGraphicsItem.html" title="{QGraphicsItem\n||}" alt="" coords="165,5,276,83"/>
+</map>

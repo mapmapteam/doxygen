@@ -1,0 +1,51 @@
+<map id="MeshControlPainter::_paintShape" name="MeshControlPainter::_paintShape">
+<area shape="rect" id="node2" href="$classMesh.html#a05f6ecbbc205521523b86c17f96c37e3" title="Mesh::getQuads" alt="" coords="221,968,343,995"/>
+<area shape="rect" id="node6" href="$classShapeGraphicsItem.html#a66a0f1cdddb3e00cc3fe6d30a601ddd0" title="Utility function: returns a stroke with rescaled width such that the stroke appears invariant to the ..." alt="" coords="193,1032,371,1073"/>
+<area shape="rect" id="node46" href="$classShapeControlPainter.html#a8e1b17d6aaecee9367294b52af667936" title="ShapeControlPainter\l::getShape" alt="" coords="209,1122,355,1164"/>
+<area shape="rect" id="node48" href="$classMesh.html#a8d84d2f06431638f796bff954ab3e004" title="Returns a polygon that is formed by all the contour points of the mesh. " alt="" coords="220,911,344,938"/>
+<area shape="rect" id="node3" href="$classMesh.html#a374707f789dacfd25ba9e542f12d1062" title="Mesh::getVertex2d" alt="" coords="436,914,572,940"/>
+<area shape="rect" id="node4" href="$classMesh.html#a6872f3f64cd85fc052c504de199322ac" title="Mesh::nHorizontalQuads" alt="" coords="419,1015,589,1042"/>
+<area shape="rect" id="node5" href="$classMesh.html#ac831185989e1bf6d59c43e2b91d4c583" title="Mesh::nVerticalQuads" alt="" coords="427,964,581,991"/>
+<area shape="rect" id="node7" href="$classShapeGraphicsItem.html#a409347c0bb8c17579d9e789c8a786e4e" title="Returns pointer to GL canvas. " alt="" coords="430,1066,578,1108"/>
+<area shape="rect" id="node8" href="$classMainWindow.html#ab3765a17ae8cdb5891bd873024630c3b" title="MainWindow::getDestination\lCanvas" alt="" coords="649,982,843,1024"/>
+<area shape="rect" id="node9" href="$classMainWindow.html#a4377db0befe543fe0d7914010e21fef1" title="MainWindow::getSourceCanvas" alt="" coords="637,1048,855,1075"/>
+<area shape="rect" id="node10" href="$classMainWindow.html#a4f7e1bd77c8b2e64bd374874ff347ede" title="MainWindow::instance" alt="" coords="667,1099,825,1126"/>
+<area shape="rect" id="node45" href="$classShapeGraphicsItem.html#a2effd172b4efada4d5b96510be82dc6f" title="Return whether the item is in the destination/output (true) or source/input (false). " alt="" coords="672,1150,820,1192"/>
+<area shape="rect" id="node11" href="$classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb" title="MainWindow::MainWindow" alt="" coords="903,1099,1089,1126"/>
+<area shape="rect" id="node12" href="$classMainWindow.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="1169,755,1360,782"/>
+<area shape="rect" id="node19" href="$classMainWindow.html#affa76730fa370a3466b62a4caee721e3" title="MainWindow::updateRecent\lFileActions" alt="" coords="1981,190,2172,232"/>
+<area shape="rect" id="node25" href="$classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="1717,890,1927,916"/>
+<area shape="rect" id="node31" href="$classMainWindow.html#a3631bdedbef1d5d7e3ea87b62a80d94e" title="MainWindow::setCurrentFile" alt="" coords="1727,223,1917,250"/>
+<area shape="rect" id="node34" href="$classMainWindow.html#a4f035b25b6181829a9275155e3ca9bbd" title="MainWindow::play" alt="" coords="1485,1216,1618,1243"/>
+<area shape="rect" id="node35" href="$classMainWindow.html#a1f9461bcb5778d6f3e578d2f7f5e91f8" title="MainWindow::createLayout" alt="" coords="1171,1099,1358,1126"/>
+<area shape="rect" id="node36" href="$classMainWindow.html#a0a617e8e1ea850a95f6fb98f0149b73a" title="MainWindow::createMapping\lContextMenu" alt="" coords="1166,1150,1363,1192"/>
+<area shape="rect" id="node37" href="$classMainWindow.html#aa4907b0251d305659e403c62921ef331" title="MainWindow::createMenus" alt="" coords="1171,1216,1358,1243"/>
+<area shape="rect" id="node38" href="$classMainWindow.html#a7db0a504d38b953d63172d57f495dd62" title="MainWindow::createPaintContextMenu" alt="" coords="1137,1267,1392,1294"/>
+<area shape="rect" id="node39" href="$classMainWindow.html#af0a8a3f54a87bd7ad6f23248dd0e9c09" title="MainWindow::createStatusBar" alt="" coords="1163,1318,1367,1344"/>
+<area shape="rect" id="node40" href="$classMainWindow.html#acce4e32b95d3d5cb48470c053a1740c2" title="MainWindow::createToolBars" alt="" coords="1163,1368,1366,1395"/>
+<area shape="rect" id="node41" href="$classMedia.html#a2e556609d9e1cdcc89dfab2c3f20e8de" title="Checks whether or not video is supported on this platform. " alt="" coords="1179,1419,1350,1446"/>
+<area shape="rect" id="node42" href="$classMainWindow.html#a06476208b8466211f3bb0fcae787052b" title="MainWindow::readSettings" alt="" coords="1173,172,1357,199"/>
+<area shape="rect" id="node43" href="$classMainWindow.html#acef373bab5d075a62cb95daec37b8bd8" title="MainWindow::updateRecent\lVideoActions" alt="" coords="1456,106,1647,148"/>
+<area shape="rect" id="node44" href="$classMainWindow.html#a14c9d0130057d50cc0f6d2158017dcfb" title="MainWindow::startOscReceiver" alt="" coords="1159,1470,1370,1496"/>
+<area shape="rect" id="node13" href="$classMainWindow.html#a7be6a5d98970ac1a6296c6f9aee1e9bb" title="MainWindow::about" alt="" coords="1481,1064,1622,1091"/>
+<area shape="rect" id="node14" href="$classMainWindow.html#a21617f9c17c835feb00242669db12f58" title="MainWindow::addColor" alt="" coords="1469,1115,1634,1142"/>
+<area shape="rect" id="node15" href="$classMainWindow.html#a8abadd370aa45d729c93333d0cdaff25" title="MainWindow::addEllipse" alt="" coords="1466,1166,1637,1192"/>
+<area shape="rect" id="node16" href="$classMainWindow.html#afd96c759c09ed53670cd4bfe96154193" title="MainWindow::addMesh" alt="" coords="1469,324,1634,351"/>
+<area shape="rect" id="node17" href="$classMainWindow.html#a363cdc52f843d78ecd1905d9cb905852" title="MainWindow::addTriangle" alt="" coords="1460,375,1643,402"/>
+<area shape="rect" id="node18" href="$classMainWindow.html#adf4eeeb0264b6900cc13ac579bfdec9a" title="MainWindow::clearRecentFileList" alt="" coords="1711,274,1933,300"/>
+<area shape="rect" id="node20" href="$classMainWindow.html#a616a8405c4ed083d9ea01cad8613c92c" title="MainWindow::cloneItem" alt="" coords="1468,679,1635,706"/>
+<area shape="rect" id="node21" href="$classMainWindow.html#a4d84472e785e23988160f93f4282d23c" title="MainWindow::deleteMappingItem" alt="" coords="1440,730,1663,756"/>
+<area shape="rect" id="node22" href="$classMainWindow.html#a25c9709f00a7cecf44f7f297f23550de" title="MainWindow::deletePaintItem" alt="" coords="1451,780,1652,807"/>
+<area shape="rect" id="node23" href="$classMainWindow.html#abe929556c320ffe886bd6a5c303dd586" title="MainWindow::displayUndoStack" alt="" coords="1443,831,1660,858"/>
+<area shape="rect" id="node24" href="$classMainWindow.html#a797729b37eaeb93ce811c3038d05a40c" title="MainWindow::enableDisplay\lControls" alt="" coords="1454,882,1649,924"/>
+<area shape="rect" id="node26" href="$classMainWindow.html#a1445e292556fdc18d2baf339ca573778" title="MainWindow::enableSticky\lVertices" alt="" coords="1459,948,1644,989"/>
+<area shape="rect" id="node27" href="$classMainWindow.html#a2bf13c67d7025fb51805e1699a0831ab" title="MainWindow::enableTestSignal" alt="" coords="1444,628,1659,655"/>
+<area shape="rect" id="node28" href="$classMainWindow.html#a3cda8590f905d291404bacee1aa8feb0" title="MainWindow::importImage" alt="" coords="1460,1014,1643,1040"/>
+<area shape="rect" id="node29" href="$classMainWindow.html#a460b782ea4e2a92b75ea97996c09d7b0" title="MainWindow::importVideo" alt="" coords="1461,426,1641,452"/>
+<area shape="rect" id="node30" href="$classMainWindow.html#a69f73b93cc05c89a9ae1be0161105982" title="MainWindow::newFile" alt="" coords="1474,578,1629,604"/>
+<area shape="rect" id="node32" href="$classMainWindow.html#aa7473e4bbbcc281706ac2edef864fb45" title="MainWindow::open" alt="" coords="1482,476,1621,503"/>
+<area shape="rect" id="node33" href="$classMainWindow.html#a935316315edb9b7af42657da20be0e54" title="MainWindow::openRecentFile" alt="" coords="1450,527,1653,554"/>
+<area shape="rect" id="node47" href="$classShapeGraphicsItem.html#a0616e5da39fa76e4a488d93088031731" title="Returns the MShape (depends on mapping and whether this is an input or output). " alt="" coords="430,1132,578,1173"/>
+<area shape="rect" id="node49" href="$classMesh.html#a7cd6cccbbabbd010ffabd0d70481e642" title="Mesh::nColumns" alt="" coords="443,863,565,890"/>
+<area shape="rect" id="node50" href="$classMesh.html#a948a88e1c6c5b576c141d49c36efc274" title="Mesh::nRows" alt="" coords="452,812,556,839"/>
+</map>

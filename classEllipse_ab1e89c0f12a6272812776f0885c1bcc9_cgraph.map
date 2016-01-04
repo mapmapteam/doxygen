@@ -1,0 +1,18 @@
+<map id="Ellipse::Ellipse" name="Ellipse::Ellipse">
+<area shape="rect" id="node2" href="$classMShape.html#a407ba178e215c215a69de4cdec8ffd6e" title="MShape::_addVertex" alt="" coords="161,5,312,32"/>
+<area shape="rect" id="node3" href="$classEllipse.html#a45e3a08914eda116e521b28505567c99" title="Ellipse::getCenter" alt="" coords="1015,107,1143,133"/>
+<area shape="rect" id="node6" href="$classEllipse.html#a1eb94de54654a15afd0996def5be7d7c" title="Ellipse::hasCenterControl" alt="" coords="360,411,535,437"/>
+<area shape="rect" id="node8" href="$classEllipse.html#a032b92370ae42a55292cc1a0b2395e50" title="Remaps points so as to make sure this is a correct ellipse, keeping vertices 0 and 2 as reference for..." alt="" coords="179,245,294,272"/>
+<area shape="rect" id="node4" href="$classMShape.html#a188f2b437f86ab09fd08c157c1e12dea" title="MShape::getVertex" alt="" coords="1445,183,1584,209"/>
+<area shape="rect" id="node5" href="$classEllipse.html#af9401c0579eeaf50bb35cb4f257f3c68" title="Ellipse::getHorizontalAxis" alt="" coords="1223,208,1397,235"/>
+<area shape="rect" id="node7" href="$classMShape.html#ab43b5ed4a2451cd5d1b1aeeb308fb1c0" title="MShape::nVertices" alt="" coords="599,411,735,437"/>
+<area shape="rect" id="node9" href="$classMShape.html#ac550bfa7936dd89fe2e8822872484c9a" title="MShape::setVertex" alt="" coords="379,169,516,196"/>
+<area shape="rect" id="node11" href="$classEllipse.html#a704dbc1f9ab18387a3efff87c83c0f7c" title="If v is outside boundaries, remap it to the border. " alt="" coords="385,245,510,272"/>
+<area shape="rect" id="node10" href="$classMShape.html#a2c8a011afb07f47162de6601d0f9246a" title="MShape::_rawSetVertex" alt="" coords="583,157,751,184"/>
+<area shape="rect" id="node12" href="$classEllipse.html#aa38d3c36521e5a524aaf799e10438cb4" title="Remaps point from ellipse to a circle with radius 1 set at origin (0,0). " alt="" coords="799,208,936,235"/>
+<area shape="rect" id="node17" href="$classEllipse.html#a16e11fcf86dd873970a4af1ef818efa6" title="Remaps point from circle with radius 1 set at origin (0,0) to ellipse coordinates. " alt="" coords="591,259,743,285"/>
+<area shape="rect" id="node13" href="$classEllipse.html#a7d140ab03fbb96ec8ea8447e10e65b70" title="Ellipse::getHorizontalRadius" alt="" coords="984,208,1175,235"/>
+<area shape="rect" id="node14" href="$classEllipse.html#af56d0e5ab3a476768b3b3b9b49d239ac" title="Ellipse::getVerticalRadius" alt="" coords="992,157,1167,184"/>
+<area shape="rect" id="node16" href="$classEllipse.html#a1b229abdb5f33e469968060bba2d6cd0" title="Ellipse::getRotationRadians" alt="" coords="986,259,1173,285"/>
+<area shape="rect" id="node15" href="$classEllipse.html#a32837fca726ddc9cf849cec887a0358a" title="Ellipse::getVerticalAxis" alt="" coords="1231,157,1389,184"/>
+</map>

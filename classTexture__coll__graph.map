@@ -1,0 +1,4 @@
+<map id="Texture" name="Texture">
+<area shape="rect" id="node2" href="$classPaint.html" title="A Paint is a style that can be applied when drawing potentially any shape. " alt="" coords="13,204,148,531"/>
+<area shape="rect" id="node3" href="$classUidAllocator.html" title="Allocates uids for instances by appending an incremental number to a given string. " alt="" coords="33,5,128,141"/>
+</map>

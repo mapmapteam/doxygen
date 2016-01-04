@@ -1,0 +1,14 @@
+<map id="MapperGLCanvas::getMainWindow" name="MapperGLCanvas::getMainWindow">
+<area shape="rect" id="node2" href="$classOutputGLCanvas.html#a6a7e16c6f71da3bdba0e4949fd72d097" title="OutputGLCanvas::drawForeground" alt="" coords="294,5,526,32"/>
+<area shape="rect" id="node3" href="$classMapperGLCanvas.html#af63b2cc7eb6e8204475404696c1f30a9" title="MapperGLCanvas::eventFilter" alt="" coords="582,151,785,177"/>
+<area shape="rect" id="node4" href="$classDestinationGLCanvas.html#a2fe62cc26996a4c69004b25ae687c8d0" title="DestinationGLCanvas\l::getShapeFromMappingId" alt="" coords="319,107,501,149"/>
+<area shape="rect" id="node5" href="$classSourceGLCanvas.html#af7a254614f7d9d0a0c756f88dd1f12ca" title="SourceGLCanvas::getShape\lFromMappingId" alt="" coords="312,173,508,214"/>
+<area shape="rect" id="node6" href="$classMapperGLCanvas.html#ab59949b056699824afb41195002dfa76" title="MapperGLCanvas::keyPress\lEvent" alt="" coords="311,238,509,279"/>
+<area shape="rect" id="node7" href="$classMapperGLCanvas.html#a0fc8394d1d84870f6e2f1fabdf7c7d85" title="MapperGLCanvas::mouseMove\lEvent" alt="" coords="303,303,517,345"/>
+<area shape="rect" id="node9" href="$classMapperGLCanvas.html#ab52fae5217c3d97ebcaa4a5099eb9053" title="MapperGLCanvas::mousePress\lEvent" alt="" coords="302,369,518,410"/>
+<area shape="rect" id="node10" href="$classOutputGLWindow.html#ac50b763de1922030e27fb846b4f18d85" title="OutputGLWindow::OutputGLWindow" alt="" coords="291,435,529,461"/>
+<area shape="rect" id="node11" href="$classOutputGLWindow.html#a276d142ea35273a0134ccce228c995bb" title="OutputGLWindow::setFullScreen" alt="" coords="302,485,518,512"/>
+<area shape="rect" id="node8" href="$classOutputGLCanvas.html#a7f96e84fdabf74506cbb5f5c94cc3f4a" title="OutputGLCanvas::mouseMove\lEvent" alt="" coords="580,303,787,345"/>
+<area shape="rect" id="node12" href="$classMainWindow.html#aa0916a59a9d7ee37159ed0a2e0528960" title="MainWindow::eventFilter" alt="" coords="598,456,769,483"/>
+<area shape="rect" id="node13" href="$classMainWindow.html#acb703adb275d5f27ee7ec9cfbdf35745" title="MainWindow::setOutputWindow\lFullScreen" alt="" coords="577,507,789,549"/>
+</map>

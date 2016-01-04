@@ -1,0 +1,20 @@
+<map id="MainWindow::setTextureUri" name="MainWindow::setTextureUri">
+<area shape="rect" id="node2" href="$classMappingManager.html#a7c9b912e3c84f7d7ab3b2d604986d73a" title="Returns paint with given uid. " alt="" coords="243,39,453,65"/>
+<area shape="rect" id="node3" href="$classImage.html#a75856174f8483f74ea8f3b1b4dc0fa82" title="Image::setUri" alt="" coords="297,89,399,116"/>
+<area shape="rect" id="node5" href="$classMedia.html#afb50200cb9efac52f076c12df2c46875" title="Media::setUri" alt="" coords="297,140,399,167"/>
+<area shape="rect" id="node4" href="$classImage.html#a0486953c7ce0269b9c1378b3609dca75" title="Image::build" alt="" coords="531,89,627,116"/>
+<area shape="rect" id="node6" href="$classMediaImpl.html#a364b93270719596ce67a92e6e84f804c" title="Loads a new movie file. " alt="" coords="501,140,657,167"/>
+<area shape="rect" id="node7" href="$classMediaImpl.html#abd5433f176a1caf24b86203349241582" title="MediaImpl::unloadMovie" alt="" coords="738,64,909,91"/>
+<area shape="rect" id="node9" href="$classMediaImpl.html#ae4aa888270e1b711a72012dad8066d0c" title="MediaImpl::setPlayState" alt="" coords="1003,115,1171,141"/>
+<area shape="rect" id="node10" href="$classMediaImpl.html#a7a167513aaa53ad41682bb4f4d1aae82" title="MediaImpl::freeResources" alt="" coords="997,13,1177,40"/>
+<area shape="rect" id="node12" href="$MediaImpl_8cpp.html#a9c87772ea39153ef5690a82b83deb212" title="gstPollShmsrc" alt="" coords="769,165,877,192"/>
+<area shape="rect" id="node16" href="$classMediaImpl.html#ae12987ba7bf80e1b652338d92ce57083" title="FIXME: remove GOTO. " alt="" coords="709,216,938,243"/>
+<area shape="rect" id="node17" href="$classMediaImpl.html#a5e614dc868027a41e41e725f1c55d94b" title="MediaImpl::gstNewSampleCallback" alt="" coords="705,343,941,369"/>
+<area shape="rect" id="node8" href="$classMediaImpl.html#af426673c7e34bb887a3f970e599c59a2" title="MediaImpl::_setMovieReady" alt="" coords="989,64,1184,91"/>
+<area shape="rect" id="node11" href="$classMediaImpl.html#a7a1c6e799797e81695ef694f8834cd3d" title="MediaImpl::_freeCurrentSample" alt="" coords="1232,165,1443,192"/>
+<area shape="rect" id="node13" href="$classMediaImpl.html#a6f3fc5fba4b1152ed0adeec327a5dc94" title="When using the shared memory source, returns whether or not we are attached to a shared memory socket..." alt="" coords="1005,165,1169,192"/>
+<area shape="rect" id="node14" href="$classMediaImpl.html#a265a9c862f55511b35a903a9346b86c2" title="Returns the path to the media file being played. " alt="" coords="1023,216,1150,243"/>
+<area shape="rect" id="node15" href="$classMediaImpl.html#a617aadbf02013ca3bd1f481049cd7cbe" title="Tells the MediaImpl that we are actually reading from a shmsrc. " alt="" coords="1005,267,1168,293"/>
+<area shape="rect" id="node18" href="$classMediaImpl.html#aa6dacd8d46dc17e988006369d08624b9" title="Locks mutex (default = no effect). " alt="" coords="1010,368,1163,395"/>
+<area shape="rect" id="node19" href="$classMediaImpl.html#a6028642ec96f29d8c135d7bc5085a2b9" title="Unlocks mutex (default = no effect). " alt="" coords="1003,419,1170,445"/>
+</map>

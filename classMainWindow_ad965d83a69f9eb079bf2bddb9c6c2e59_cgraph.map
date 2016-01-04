@@ -1,0 +1,14 @@
+<map id="MainWindow::createTriangleColorMapping" name="MainWindow::createTriangleColorMapping">
+<area shape="rect" id="node2" href="$classMappingManager.html#a8520f36639420ee5ea6df9ae80dc0e33" title="Adds a mapping and returns its uid. " alt="" coords="251,56,461,83"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a91afdf837defb9031caa1517c8cb5c69" title="MainWindow::addMappingItem" alt="" coords="252,107,460,133"/>
+<area shape="rect" id="node11" href="$classMappingManager.html#a7c9b912e3c84f7d7ab3b2d604986d73a" title="Returns paint with given uid. " alt="" coords="251,157,461,184"/>
+<area shape="rect" id="node12" href="$classPaint.html#a208998b017844226fc0a9279d4bed02b" title="Paint::getUidAllocator" alt="" coords="280,208,432,235"/>
+<area shape="rect" id="node13" href="$classMapping.html#a1557a641eaee77dd8c68290bfec68148" title="Mapping::getUidAllocator" alt="" coords="269,259,443,285"/>
+<area shape="rect" id="node4" href="$classMappingManager.html#a5f725de7227d100962da39ad646e9a03" title="Returns mapping with given uid. " alt="" coords="509,5,741,32"/>
+<area shape="rect" id="node5" href="$classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="789,107,1000,133"/>
+<area shape="rect" id="node7" href="$classMainWindow.html#abc345ca26b8578ac719fc4910463b347" title="MainWindow::setItemId" alt="" coords="544,107,707,133"/>
+<area shape="rect" id="node8" href="$classMainWindow.html#a2bf13c67d7025fb51805e1699a0831ab" title="MainWindow::enableTestSignal" alt="" coords="518,157,733,184"/>
+<area shape="rect" id="node9" href="$classMainWindow.html#a77f5c4fcd861b520121a276bfc9dc61f" title="MainWindow::windowModified" alt="" coords="522,208,729,235"/>
+<area shape="rect" id="node6" href="$classOutputGLWindow.html#a34496b89b9c541dd93ec0bf42b0aa129" title="OutputGLWindow::getCanvas" alt="" coords="1048,107,1248,133"/>
+<area shape="rect" id="node10" href="$classMainWindow.html#ad62e8427ddc79384e22bccaa2eb1fa1b" title="MainWindow::updateStatusBar" alt="" coords="791,208,998,235"/>
+</map>

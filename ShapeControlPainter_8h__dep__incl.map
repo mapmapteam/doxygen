@@ -1,0 +1,25 @@
+<map id="ShapeControlPainter.h" name="ShapeControlPainter.h">
+<area shape="rect" id="node2" href="$MappingGui_8h.html" title="MappingGui.h" alt="" coords="313,80,417,107"/>
+<area shape="rect" id="node24" href="$ShapeControlPainter_8cpp.html" title="ShapeControlPainter.cpp" alt="" coords="118,80,289,107"/>
+<area shape="rect" id="node3" href="$MapperGLCanvas_8h.html" title="MapperGLCanvas.h" alt="" coords="293,155,436,181"/>
+<area shape="rect" id="node20" href="$DestinationGLCanvas_8h.html" title="DestinationGLCanvas.h" alt="" coords="556,229,720,256"/>
+<area shape="rect" id="node23" href="$MappingGui_8cpp.html" title="MappingGui.cpp" alt="" coords="460,155,579,181"/>
+<area shape="rect" id="node4" href="$SourceGLCanvas_8h.html" title="SourceGLCanvas.h" alt="" coords="489,379,629,405"/>
+<area shape="rect" id="node6" href="$Commands_8h.html" title="Commands.h" alt="" coords="313,528,416,555"/>
+<area shape="rect" id="node9" href="$MapperGLCanvas_8cpp.html" title="MapperGLCanvas.cpp" alt="" coords="367,603,523,629"/>
+<area shape="rect" id="node19" href="$ShapeGraphicsItem_8h.html" title="ShapeGraphicsItem.h" alt="" coords="5,229,156,256"/>
+<area shape="rect" id="node5" href="$MainWindow_8h.html" title="MainWindow.h" alt="" coords="805,453,916,480"/>
+<area shape="rect" id="node18" href="$SourceGLCanvas_8cpp.html" title="SourceGLCanvas.cpp" alt="" coords="441,528,595,555"/>
+<area shape="rect" id="node8" href="$MainWindow_8cpp.html" title="MainWindow.cpp" alt="" coords="824,603,948,629"/>
+<area shape="rect" id="node10" href="$DestinationGLCanvas_8cpp.html" title="DestinationGLCanvas.cpp" alt="" coords="619,528,798,555"/>
+<area shape="rect" id="node11" href="$main_8cpp.html" title="main.cpp" alt="" coords="923,528,998,555"/>
+<area shape="rect" id="node12" href="$ProjectReader_8h.html" title="ProjectReader.h" alt="" coords="1021,528,1140,555"/>
+<area shape="rect" id="node14" href="$OutputGLCanvas_8cpp.html" title="OutputGLCanvas.cpp" alt="" coords="1521,528,1669,555"/>
+<area shape="rect" id="node15" href="$OutputGLWindow_8cpp.html" title="OutputGLWindow.cpp" alt="" coords="1347,528,1497,555"/>
+<area shape="rect" id="node16" href="$PreferencesDialog_8cpp.html" title="PreferencesDialog.cpp" alt="" coords="1164,528,1323,555"/>
+<area shape="rect" id="node17" href="$ShapeGraphicsItem_8cpp.html" title="ShapeGraphicsItem.cpp" alt="" coords="125,528,289,555"/>
+<area shape="rect" id="node7" href="$Commands_8cpp.html" title="Commands.cpp" alt="" coords="227,603,343,629"/>
+<area shape="rect" id="node13" href="$ProjectReader_8cpp.html" title="ProjectReader.cpp" alt="" coords="1014,603,1147,629"/>
+<area shape="rect" id="node21" href="$OutputGLCanvas_8h.html" title="OutputGLCanvas.h" alt="" coords="837,304,972,331"/>
+<area shape="rect" id="node22" href="$OutputGLWindow_8h.html" title="OutputGLWindow.h" alt="" coords="837,379,973,405"/>
+</map>

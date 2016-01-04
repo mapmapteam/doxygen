@@ -1,0 +1,16 @@
+<map id="Media::setUri" name="Media::setUri">
+<area shape="rect" id="node2" href="$classMediaImpl.html#a364b93270719596ce67a92e6e84f804c" title="Loads a new movie file. " alt="" coords="156,132,312,159"/>
+<area shape="rect" id="node3" href="$classMediaImpl.html#abd5433f176a1caf24b86203349241582" title="MediaImpl::unloadMovie" alt="" coords="393,56,563,83"/>
+<area shape="rect" id="node5" href="$classMediaImpl.html#ae4aa888270e1b711a72012dad8066d0c" title="MediaImpl::setPlayState" alt="" coords="657,107,825,133"/>
+<area shape="rect" id="node6" href="$classMediaImpl.html#a7a167513aaa53ad41682bb4f4d1aae82" title="MediaImpl::freeResources" alt="" coords="651,5,831,32"/>
+<area shape="rect" id="node8" href="$MediaImpl_8cpp.html#a9c87772ea39153ef5690a82b83deb212" title="gstPollShmsrc" alt="" coords="424,157,532,184"/>
+<area shape="rect" id="node12" href="$classMediaImpl.html#ae12987ba7bf80e1b652338d92ce57083" title="FIXME: remove GOTO. " alt="" coords="363,208,593,235"/>
+<area shape="rect" id="node13" href="$classMediaImpl.html#a5e614dc868027a41e41e725f1c55d94b" title="MediaImpl::gstNewSampleCallback" alt="" coords="360,335,596,361"/>
+<area shape="rect" id="node4" href="$classMediaImpl.html#af426673c7e34bb887a3f970e599c59a2" title="MediaImpl::_setMovieReady" alt="" coords="644,56,839,83"/>
+<area shape="rect" id="node7" href="$classMediaImpl.html#a7a1c6e799797e81695ef694f8834cd3d" title="MediaImpl::_freeCurrentSample" alt="" coords="887,157,1097,184"/>
+<area shape="rect" id="node9" href="$classMediaImpl.html#a6f3fc5fba4b1152ed0adeec327a5dc94" title="When using the shared memory source, returns whether or not we are attached to a shared memory socket..." alt="" coords="659,157,823,184"/>
+<area shape="rect" id="node10" href="$classMediaImpl.html#a265a9c862f55511b35a903a9346b86c2" title="Returns the path to the media file being played. " alt="" coords="678,208,805,235"/>
+<area shape="rect" id="node11" href="$classMediaImpl.html#a617aadbf02013ca3bd1f481049cd7cbe" title="Tells the MediaImpl that we are actually reading from a shmsrc. " alt="" coords="660,259,823,285"/>
+<area shape="rect" id="node14" href="$classMediaImpl.html#aa6dacd8d46dc17e988006369d08624b9" title="Locks mutex (default = no effect). " alt="" coords="665,360,818,387"/>
+<area shape="rect" id="node15" href="$classMediaImpl.html#a6028642ec96f29d8c135d7bc5085a2b9" title="Unlocks mutex (default = no effect). " alt="" coords="658,411,825,437"/>
+</map>

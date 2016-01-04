@@ -1,0 +1,7 @@
+<map id="Polygon::setVertex" name="Polygon::setVertex">
+<area shape="rect" id="node2" href="$classPolygon.html#ac477fb214a0de13fbf34eef6725c6572" title="Makes sure vertex v as the i&#45;th point of polygon stays inside the polygon. " alt="" coords="191,56,371,83"/>
+<area shape="rect" id="node4" href="$classPolygon.html#abcdb0e5be74341fc6667ec22dac1aadc" title="Polygon::toPolygon" alt="" coords="633,56,775,83"/>
+<area shape="rect" id="node6" href="$classMShape.html#a2c8a011afb07f47162de6601d0f9246a" title="MShape::_rawSetVertex" alt="" coords="197,157,365,184"/>
+<area shape="rect" id="node3" href="$classPolygon.html#ad1692e9e834f59269a034fe6e0a7dfaa" title="Returns all line segments of the polygon. " alt="" coords="419,5,585,32"/>
+<area shape="rect" id="node5" href="$Maths_8h.html#ad33b94afdf38b2bed4a4035d6eac8ea5" title="Wrap value around ie. wrapAround(&#45;1, 3) ==&gt; 2. " alt="" coords="455,56,549,83"/>
+</map>

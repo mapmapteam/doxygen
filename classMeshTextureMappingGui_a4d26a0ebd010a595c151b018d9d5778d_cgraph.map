@@ -1,0 +1,6 @@
+<map id="MeshTextureMappingGui::setValue" name="MeshTextureMappingGui::setValue">
+<area shape="rect" id="node2" href="$classMappingGui.html#ab627360aab415d69328bacaa1911d642" title="MappingGui::setValue" alt="" coords="228,31,383,57"/>
+<area shape="rect" id="node3" href="$classMShape.html#a188f2b437f86ab09fd08c157c1e12dea" title="MShape::getVertex" alt="" coords="431,5,569,32"/>
+<area shape="rect" id="node4" href="$classMShape.html#ac550bfa7936dd89fe2e8822872484c9a" title="MShape::setVertex" alt="" coords="431,56,569,83"/>
+<area shape="rect" id="node5" href="$classMShape.html#a2c8a011afb07f47162de6601d0f9246a" title="MShape::_rawSetVertex" alt="" coords="617,56,785,83"/>
+</map>

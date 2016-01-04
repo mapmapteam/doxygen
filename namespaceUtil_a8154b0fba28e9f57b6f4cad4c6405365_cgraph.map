@@ -1,0 +1,7 @@
+<map id="Util::drawControlsQuad" name="Util::drawControlsQuad">
+<area shape="rect" id="node2" href="$namespaceUtil.html#a1981a2cdd9d1487742b9baed8523d35b" title="Util::drawControlsVertices" alt="" coords="215,56,392,83"/>
+<area shape="rect" id="node6" href="$classPolygon.html#abcdb0e5be74341fc6667ec22dac1aadc" title="Polygon::toPolygon" alt="" coords="233,107,374,133"/>
+<area shape="rect" id="node3" href="$namespaceUtil.html#a3e46993e9719513fc118a3b662ceaf7d" title="Util::drawControlsVertex" alt="" coords="440,5,607,32"/>
+<area shape="rect" id="node4" href="$classMShape.html#a188f2b437f86ab09fd08c157c1e12dea" title="MShape::getVertex" alt="" coords="454,56,593,83"/>
+<area shape="rect" id="node5" href="$classMShape.html#ab43b5ed4a2451cd5d1b1aeeb308fb1c0" title="MShape::nVertices" alt="" coords="455,107,591,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MShape" name="MShape">
+<area shape="rect" id="node2" href="$classEllipse.html" title="{Ellipse\n||+ Ellipse()\l+ Ellipse()\l+ Ellipse()\l+ ~Ellipse()\l+ sanitize()\l+ getType()\l+ getRotationRadians()\l+ getRotation()\l+ hasCenterControl()\l+ clipInside()\land 10 more...\l# _create()\l}" alt="" coords="5,365,165,604"/>
+<area shape="rect" id="node3" href="$classPolygon.html" title="This class represents a simple polygon (ie. " alt="" coords="189,387,331,582"/>
+<area shape="rect" id="node4" href="$classQuad.html" title="Four&#45;vertex shape. " alt="" coords="152,652,245,788"/>
+<area shape="rect" id="node6" href="$classTriangle.html" title="Triangle shape. " alt="" coords="269,652,371,788"/>
+<area shape="rect" id="node5" href="$classMesh.html" title="{Mesh\n|# _nColumns\l# _nRows\l# _vertices2d\l|+ Mesh()\l+ Mesh()\l+ Mesh()\l+ ~Mesh()\l+ init()\l+ getType()\l+ toPolygon()\l+ setVertex()\l+ getVertex2d()\l+ setVertex2d()\land 13 more...\l# _reorderVertices()\l# _create()\l}" alt="" coords="128,836,269,1119"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TransformShapeCommand" name="TransformShapeCommand">
+<area shape="rect" id="node3" href="$classMoveVertexCommand.html" title="{MoveVertexCommand\n|# _movedVertex\l# _vertexPosition\l|+ MoveVertexCommand()\l+ id()\l+ mergeWith()\l# _doTransform()\l}" alt="" coords="5,359,184,495"/>
+<area shape="rect" id="node4" href="$classTranslateShapeCommand.html" title="{TranslateShapeCommand\n|&#45; _translation\l|+ TranslateShapeCommand()\l+ id()\l+ mergeWith()\l# _doTransform()\l}" alt="" coords="208,366,411,487"/>
+<area shape="rect" id="node2" href="$classQUndoCommand.html" title="{QUndoCommand\n||}" alt="" coords="138,5,265,83"/>
+</map>

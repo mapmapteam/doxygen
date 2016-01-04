@@ -1,0 +1,5 @@
+<map id="MeshControlPainter" name="MeshControlPainter">
+<area shape="rect" id="node2" href="$classShapeControlPainter.html" title="An object responsible to paint control points for a specific ShapeGraphicsItem. " alt="" coords="17,521,191,672"/>
+<area shape="rect" id="node3" href="$classShapeGraphicsItem.html" title="Represents a shape as part of a scene graph in one of the GL canvas. " alt="" coords="5,132,203,459"/>
+<area shape="rect" id="node4" href="$classQGraphicsItem.html" title="{QGraphicsItem\n||}" alt="" coords="49,5,159,83"/>
+</map>

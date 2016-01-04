@@ -1,0 +1,7 @@
+<map id="MainWindow::updatePaintItem" name="MainWindow::updatePaintItem">
+<area shape="rect" id="node2" href="$classMainWindow.html#aeb868c14b8b36df1001736b97529dfb1" title="MainWindow::getItemFromId" alt="" coords="263,5,458,32"/>
+<area shape="rect" id="node5" href="$classMainWindow.html#a77f5c4fcd861b520121a276bfc9dc61f" title="MainWindow::windowModified" alt="" coords="257,56,464,83"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a4658dbe8953b4536ec18c3bb22d493ac" title="MainWindow::getItemRowFromId" alt="" coords="512,5,733,32"/>
+<area shape="rect" id="node4" href="$classMainWindow.html#a6eed84404b7bab6b22016d00499b49f7" title="MainWindow::getItemId" alt="" coords="781,5,944,32"/>
+<area shape="rect" id="node6" href="$classMainWindow.html#ad62e8427ddc79384e22bccaa2eb1fa1b" title="MainWindow::updateStatusBar" alt="" coords="519,56,726,83"/>
+</map>

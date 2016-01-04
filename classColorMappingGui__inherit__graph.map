@@ -1,0 +1,6 @@
+<map id="ColorMappingGui" name="ColorMappingGui">
+<area shape="rect" id="node4" href="$classEllipseColorMappingGui.html" title="{EllipseColorMappingGui\n||+ EllipseColorMappingGui()\l+ ~EllipseColorMappingGui()\l}" alt="" coords="5,660,200,752"/>
+<area shape="rect" id="node5" href="$classPolygonColorMappingGui.html" title="{PolygonColorMappingGui\n||+ PolygonColorMappingGui()\l+ ~PolygonColorMappingGui()\l}" alt="" coords="224,660,429,752"/>
+<area shape="rect" id="node2" href="$classMappingGui.html" title="This is the &quot;view&quot; side of the Mapping class (model). " alt="" coords="125,131,304,472"/>
+<area shape="rect" id="node3" href="$classQObject.html" title="{QObject\n||}" alt="" coords="179,5,250,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ProjectWriter::writeItem" name="ProjectWriter::writeItem">
+<area shape="rect" id="node2" href="$classColor.html#a2eb88895a9d7f67823b6ec7a4c6c5b3b" title="Color::getColor" alt="" coords="213,5,328,32"/>
+<area shape="rect" id="node3" href="$classPaint.html#a9ce271092b60f4ab1a6737cd202b637c" title="Paint::getId" alt="" coords="225,56,316,83"/>
+<area shape="rect" id="node4" href="$classMedia.html#adbd9f274384a6dacc87e97e56a23e805" title="Returns playback rate. " alt="" coords="213,107,328,133"/>
+<area shape="rect" id="node6" href="$classPaint.html#a03222a7a35334458129ad3a9acace369" title="Paint::getType" alt="" coords="215,157,326,184"/>
+<area shape="rect" id="node7" href="$classImage.html#a2c61d9466ffe4cf8b662617c03e7b8cf" title="Image::getUri" alt="" coords="219,208,322,235"/>
+<area shape="rect" id="node8" href="$classMedia.html#a72b91edb335d45614b3e3bf49adc36fd" title="Media::getUri" alt="" coords="219,259,322,285"/>
+<area shape="rect" id="node9" href="$classTexture.html#a1b9d77401b6a113d8ff51f97f6e106f3" title="Texture::getX" alt="" coords="218,309,323,336"/>
+<area shape="rect" id="node10" href="$classTexture.html#a2f2145e1efb2e3a6604b85453ce8e87c" title="Texture::getY" alt="" coords="218,360,323,387"/>
+<area shape="rect" id="node5" href="$classMediaImpl.html#a288c75ed527d063896d4e41724c88318" title="MediaImpl::getRate" alt="" coords="376,107,515,133"/>
+</map>

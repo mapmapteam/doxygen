@@ -1,0 +1,51 @@
+<map id="EllipseControlPainter::_paintShape" name="EllipseControlPainter::_paintShape">
+<area shape="rect" id="node2" href="$classEllipse.html#a45e3a08914eda116e521b28505567c99" title="Ellipse::getCenter" alt="" coords="468,525,596,552"/>
+<area shape="rect" id="node5" href="$classEllipse.html#a7d140ab03fbb96ec8ea8447e10e65b70" title="Ellipse::getHorizontalRadius" alt="" coords="200,677,391,704"/>
+<area shape="rect" id="node6" href="$classShapeGraphicsItem.html#a66a0f1cdddb3e00cc3fe6d30a601ddd0" title="Utility function: returns a stroke with rescaled width such that the stroke appears invariant to the ..." alt="" coords="207,729,384,770"/>
+<area shape="rect" id="node44" href="$classEllipse.html#a41bb574712c32c3de25c7854ad60ad93" title="Ellipse::getRotation" alt="" coords="227,627,364,653"/>
+<area shape="rect" id="node47" href="$classShapeControlPainter.html#a8e1b17d6aaecee9367294b52af667936" title="ShapeControlPainter\l::getShape" alt="" coords="222,794,369,835"/>
+<area shape="rect" id="node49" href="$classEllipse.html#af56d0e5ab3a476768b3b3b9b49d239ac" title="Ellipse::getVerticalRadius" alt="" coords="208,488,383,515"/>
+<area shape="rect" id="node3" href="$classEllipse.html#af9401c0579eeaf50bb35cb4f257f3c68" title="Ellipse::getHorizontalAxis" alt="" coords="695,591,869,617"/>
+<area shape="rect" id="node4" href="$classMShape.html#a188f2b437f86ab09fd08c157c1e12dea" title="MShape::getVertex" alt="" coords="963,525,1101,552"/>
+<area shape="rect" id="node7" href="$classShapeGraphicsItem.html#a409347c0bb8c17579d9e789c8a786e4e" title="Returns pointer to GL canvas. " alt="" coords="458,729,606,770"/>
+<area shape="rect" id="node8" href="$classMainWindow.html#ab3765a17ae8cdb5891bd873024630c3b" title="MainWindow::getDestination\lCanvas" alt="" coords="685,838,879,879"/>
+<area shape="rect" id="node9" href="$classMainWindow.html#a4377db0befe543fe0d7914010e21fef1" title="MainWindow::getSourceCanvas" alt="" coords="673,671,891,697"/>
+<area shape="rect" id="node10" href="$classMainWindow.html#a4f7e1bd77c8b2e64bd374874ff347ede" title="MainWindow::instance" alt="" coords="703,721,861,748"/>
+<area shape="rect" id="node43" href="$classShapeGraphicsItem.html#a2effd172b4efada4d5b96510be82dc6f" title="Return whether the item is in the destination/output (true) or source/input (false). " alt="" coords="708,773,856,814"/>
+<area shape="rect" id="node11" href="$classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb" title="MainWindow::MainWindow" alt="" coords="939,721,1125,748"/>
+<area shape="rect" id="node12" href="$classMedia.html#a2e556609d9e1cdcc89dfab2c3f20e8de" title="Checks whether or not video is supported on this platform. " alt="" coords="1215,39,1386,65"/>
+<area shape="rect" id="node14" href="$classMainWindow.html#a1f9461bcb5778d6f3e578d2f7f5e91f8" title="MainWindow::createLayout" alt="" coords="1207,123,1394,149"/>
+<area shape="rect" id="node18" href="$classMainWindow.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="1205,671,1396,697"/>
+<area shape="rect" id="node20" href="$classMainWindow.html#a3631bdedbef1d5d7e3ea87b62a80d94e" title="MainWindow::setCurrentFile" alt="" coords="1756,797,1947,824"/>
+<area shape="rect" id="node21" href="$classMainWindow.html#affa76730fa370a3466b62a4caee721e3" title="MainWindow::updateRecent\lFileActions" alt="" coords="2011,359,2201,401"/>
+<area shape="rect" id="node33" href="$classMainWindow.html#a4f035b25b6181829a9275155e3ca9bbd" title="MainWindow::play" alt="" coords="1517,1000,1651,1027"/>
+<area shape="rect" id="node34" href="$classMainWindow.html#aa4907b0251d305659e403c62921ef331" title="MainWindow::createMenus" alt="" coords="1207,823,1394,849"/>
+<area shape="rect" id="node35" href="$classMainWindow.html#a0a617e8e1ea850a95f6fb98f0149b73a" title="MainWindow::createMapping\lContextMenu" alt="" coords="1202,874,1399,915"/>
+<area shape="rect" id="node36" href="$classMainWindow.html#a7db0a504d38b953d63172d57f495dd62" title="MainWindow::createPaintContextMenu" alt="" coords="1173,940,1428,967"/>
+<area shape="rect" id="node37" href="$classMainWindow.html#acce4e32b95d3d5cb48470c053a1740c2" title="MainWindow::createToolBars" alt="" coords="1199,991,1402,1017"/>
+<area shape="rect" id="node38" href="$classMainWindow.html#af0a8a3f54a87bd7ad6f23248dd0e9c09" title="MainWindow::createStatusBar" alt="" coords="1199,1041,1403,1068"/>
+<area shape="rect" id="node39" href="$classMainWindow.html#acef373bab5d075a62cb95daec37b8bd8" title="MainWindow::updateRecent\lVideoActions" alt="" coords="1489,275,1679,317"/>
+<area shape="rect" id="node40" href="$classMainWindow.html#a06476208b8466211f3bb0fcae787052b" title="MainWindow::readSettings" alt="" coords="1209,341,1393,368"/>
+<area shape="rect" id="node41" href="$classMainWindow.html#a14c9d0130057d50cc0f6d2158017dcfb" title="MainWindow::startOscReceiver" alt="" coords="1195,1092,1406,1119"/>
+<area shape="rect" id="node42" href="$classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="1195,173,1406,200"/>
+<area shape="rect" id="node13" href="$classMediaImpl.html#a860f5005a86f2096ee09591e6ec3978c" title="Returns whether or not GStreamer video support is ok. " alt="" coords="1487,5,1681,32"/>
+<area shape="rect" id="node15" href="$classMainWindow.html#acd80197044f2cc4433eca4decdff67bd" title="MainWindow::getUndoStack" alt="" coords="1487,123,1681,149"/>
+<area shape="rect" id="node16" href="$classOutputGLWindow.html#a34496b89b9c541dd93ec0bf42b0aa129" title="OutputGLWindow::getCanvas" alt="" coords="1484,173,1684,200"/>
+<area shape="rect" id="node17" href="$classMainWindow.html#aad007426e7c6ffa12708d89307dcecea" title="MainWindow::connectProject\lWidgets" alt="" coords="1485,57,1683,98"/>
+<area shape="rect" id="node19" href="$classMainWindow.html#a69f73b93cc05c89a9ae1be0161105982" title="MainWindow::newFile" alt="" coords="1507,797,1661,824"/>
+<area shape="rect" id="node22" href="$classMainWindow.html#aa7473e4bbbcc281706ac2edef864fb45" title="MainWindow::open" alt="" coords="1515,949,1653,976"/>
+<area shape="rect" id="node23" href="$classMainWindow.html#aa3d482e80b77965da25d42920f9e93c7" title="MainWindow::save" alt="" coords="1515,493,1653,520"/>
+<area shape="rect" id="node24" href="$classMainWindow.html#a29cf7bd0dd9c5ab61fe788a54953cc63" title="MainWindow::saveAs" alt="" coords="1774,468,1929,495"/>
+<area shape="rect" id="node25" href="$classMainWindow.html#a935316315edb9b7af42657da20be0e54" title="MainWindow::openRecentFile" alt="" coords="1483,544,1685,571"/>
+<area shape="rect" id="node26" href="$classMainWindow.html#a34e2fd1c21a92f5bc3ffc62d8aeeb003" title="MainWindow::openRecentVideo" alt="" coords="1476,595,1692,621"/>
+<area shape="rect" id="node27" href="$classMainWindow.html#adf4eeeb0264b6900cc13ac579bfdec9a" title="MainWindow::clearRecentFileList" alt="" coords="1740,392,1963,419"/>
+<area shape="rect" id="node28" href="$classMainWindow.html#a460b782ea4e2a92b75ea97996c09d7b0" title="MainWindow::importVideo" alt="" coords="1494,645,1674,672"/>
+<area shape="rect" id="node29" href="$classMainWindow.html#a3cda8590f905d291404bacee1aa8feb0" title="MainWindow::importImage" alt="" coords="1493,696,1675,723"/>
+<area shape="rect" id="node30" href="$classMainWindow.html#a21617f9c17c835feb00242669db12f58" title="MainWindow::addColor" alt="" coords="1501,747,1667,773"/>
+<area shape="rect" id="node31" href="$classMainWindow.html#a7be6a5d98970ac1a6296c6f9aee1e9bb" title="MainWindow::about" alt="" coords="1513,848,1655,875"/>
+<area shape="rect" id="node32" href="$classMainWindow.html#a616a8405c4ed083d9ea01cad8613c92c" title="MainWindow::cloneItem" alt="" coords="1501,899,1667,925"/>
+<area shape="rect" id="node45" href="$classEllipse.html#a1b229abdb5f33e469968060bba2d6cd0" title="Ellipse::getRotationRadians" alt="" coords="439,627,625,653"/>
+<area shape="rect" id="node46" href="$Maths_8h.html#ae7f5dc16bb7c816ccaf596e0bdcfe161" title="Converts from radians to degrees. " alt="" coords="463,576,601,603"/>
+<area shape="rect" id="node48" href="$classShapeGraphicsItem.html#a0616e5da39fa76e4a488d93088031731" title="Returns the MShape (depends on mapping and whether this is an input or output). " alt="" coords="458,794,606,835"/>
+<area shape="rect" id="node50" href="$classEllipse.html#a32837fca726ddc9cf849cec887a0358a" title="Ellipse::getVerticalAxis" alt="" coords="703,475,861,501"/>
+</map>

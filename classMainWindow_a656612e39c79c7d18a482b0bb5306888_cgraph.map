@@ -1,0 +1,5 @@
+<map id="MainWindow::setOscPort" name="MainWindow::setOscPort">
+<area shape="rect" id="node2" href="$namespaceUtil.html#a9846fe09ba1d94e999659695bb006bf0" title="Util::isNumeric" alt="" coords="280,5,387,32"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a14c9d0130057d50cc0f6d2158017dcfb" title="MainWindow::startOscReceiver" alt="" coords="228,56,439,83"/>
+<area shape="rect" id="node4" href="$classMainWindow.html#a2862d4f92e18b0eb88e4d32610b31bea" title="MainWindow::pollOscInterface" alt="" coords="487,56,691,83"/>
+</map>

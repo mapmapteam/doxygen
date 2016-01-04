@@ -1,0 +1,5 @@
+<map id="Ellipse::clipInside" name="Ellipse::clipInside">
+<area shape="rect" id="node2" href="$classEllipse.html#a032b92370ae42a55292cc1a0b2395e50" title="Remaps points so as to make sure this is a correct ellipse, keeping vertices 0 and 2 as reference for..." alt="" coords="179,5,293,32"/>
+<area shape="rect" id="node4" href="$classEllipse.html#aa7d8231b6ba44671a96fcb4050e17e0e" title="Ellipse::setVertex" alt="" coords="341,56,468,83"/>
+<area shape="rect" id="node3" href="$classEllipse.html#a16a74ad464ad2773b5e716a7af943277" title="Ellipse::Ellipse" alt="" coords="351,5,459,32"/>
+</map>

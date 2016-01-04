@@ -1,0 +1,12 @@
+<map id="OutputGLWindow" name="OutputGLWindow">
+<area shape="rect" id="node7" href="$classMainWindow.html" title="This is the main window of MapMap. " alt="" coords="457,463,687,1801"/>
+<area shape="rect" id="node2" href="$classQDialog.html" title="{QDialog\n||}" alt="" coords="721,5,793,83"/>
+<area shape="rect" id="node9" href="$classPreferencesDialog.html" title="{PreferencesDialog\n|&#45; _osc_port_numbox\l&#45; _button_box\l|+ PreferencesDialog()\l# closeEvent()\l&#45; resetValues()\l&#45; accept_cb()\l&#45; reject_cb()\l}" alt="" coords="683,2047,837,2198"/>
+<area shape="rect" id="node3" href="$classOutputGLCanvas.html" title="{OutputGLCanvas\n|&#45; _displayCrosshair\l&#45; _svg_test_signal\l&#45; _brush_test_signal\l|+ OutputGLCanvas()\l+ ~OutputGLCanvas()\l+ setDisplayCrosshair()\l+ drawForeground()\l# resizeGL()\l# wheelEvent()\l# mouseMoveEvent()\l&#45; _drawTestSignal()\l}" alt="" coords="5,2631,168,2840"/>
+<area shape="rect" id="node4" href="$classDestinationGLCanvas.html" title="{DestinationGLCanvas\n||+ DestinationGLCanvas()\l+ ~DestinationGLCanvas()\l+ isOutput()\l+ getShapeFromMappingId()\l+ getShapeGraphicsItemFrom\lMappingId()\l}" alt="" coords="81,2431,284,2581"/>
+<area shape="rect" id="node5" href="$classMapperGLCanvas.html" title="Mother class for OpenGL canvases that allow the display and controls of shapes and vertices..." alt="" coords="291,1864,514,2381"/>
+<area shape="rect" id="node11" href="$classSourceGLCanvas.html" title="{SourceGLCanvas\n||+ SourceGLCanvas()\l+ ~SourceGLCanvas()\l+ isOutput()\l+ getShapeFromMappingId()\l+ getShapeGraphicsItemFrom\lMappingId()\l}" alt="" coords="384,2431,587,2581"/>
+<area shape="rect" id="node6" href="$classQGraphicsView.html" title="{QGraphicsView\n||}" alt="" coords="317,1093,433,1171"/>
+<area shape="rect" id="node8" href="$classQMainWindow.html" title="{QMainWindow\n||}" alt="" coords="517,227,627,305"/>
+<area shape="rect" id="node10" href="$classMappingManager.html" title="This is a container class for all the paints and mappings ie. " alt="" coords="652,132,828,400"/>
+</map>

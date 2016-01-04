@@ -1,0 +1,5 @@
+<map id="Util::setGlTexPoint" name="Util::setGlTexPoint">
+<area shape="rect" id="node2" href="$classTriangleTextureGraphicsItem.html#acdb0ce112cba4b749fc493dd93ce0783" title="TriangleTextureGraphicsItem\l::_doDrawOutput" alt="" coords="188,5,387,47"/>
+<area shape="rect" id="node3" href="$classMeshTextureGraphicsItem.html#a37548c26ad6a064019698df0f4ecf573" title="MeshTextureGraphicsItem\l::_doDrawOutput" alt="" coords="197,71,378,112"/>
+<area shape="rect" id="node4" href="$classEllipseTextureGraphicsItem.html#add3ff2898043c44d4b10ab7df81bb655" title="EllipseTextureGraphicsItem\l::_doDrawOutput" alt="" coords="194,136,381,177"/>
+</map>

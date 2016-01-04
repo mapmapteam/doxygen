@@ -1,0 +1,6 @@
+<map id="Paint" name="Paint">
+<area shape="rect" id="node2" href="$classColor.html" title="{Color\n|# color\l|+ Color()\l+ Color()\l+ getColor()\l+ setColor()\l+ getType()\l}" alt="" coords="5,461,100,597"/>
+<area shape="rect" id="node3" href="$classTexture.html" title="Paint that uses an OpenGL texture to paint on potentially any MappingGui. " alt="" coords="124,395,275,663"/>
+<area shape="rect" id="node4" href="$classImage.html" title="Paint that is a Texture loaded from an image file. " alt="" coords="37,725,188,949"/>
+<area shape="rect" id="node5" href="$classMedia.html" title="Paint that is a Texture retrieved via a video file. " alt="" coords="212,711,357,964"/>
+</map>

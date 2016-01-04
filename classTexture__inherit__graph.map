@@ -1,0 +1,5 @@
+<map id="Texture" name="Texture">
+<area shape="rect" id="node3" href="$classImage.html" title="Paint that is a Texture loaded from an image file. " alt="" coords="5,725,156,949"/>
+<area shape="rect" id="node4" href="$classMedia.html" title="Paint that is a Texture retrieved via a video file. " alt="" coords="180,711,325,964"/>
+<area shape="rect" id="node2" href="$classPaint.html" title="A Paint is a style that can be applied when drawing potentially any shape. " alt="" coords="99,5,233,347"/>
+</map>

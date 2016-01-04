@@ -1,0 +1,51 @@
+<map id="MainWindow::eventFilter" name="MainWindow::eventFilter">
+<area shape="rect" id="node2" href="$classMainWindow.html#a8abadd370aa45d729c93333d0cdaff25" title="MainWindow::addEllipse" alt="" coords="247,493,417,520"/>
+<area shape="rect" id="node19" href="$classMainWindow.html#afd96c759c09ed53670cd4bfe96154193" title="MainWindow::addMesh" alt="" coords="249,366,415,393"/>
+<area shape="rect" id="node22" href="$classMainWindow.html#a363cdc52f843d78ecd1905d9cb905852" title="MainWindow::addTriangle" alt="" coords="241,265,423,292"/>
+<area shape="rect" id="node25" href="$classMainWindow.html#a24bbb70be6f6e1007b0d6cbf7cd5f64d" title="Called when the user wants to delete an item. " alt="" coords="247,898,417,925"/>
+<area shape="rect" id="node30" href="$classMainWindow.html#a69f73b93cc05c89a9ae1be0161105982" title="MainWindow::newFile" alt="" coords="255,1012,409,1038"/>
+<area shape="rect" id="node32" href="$classMainWindow.html#aa3d482e80b77965da25d42920f9e93c7" title="MainWindow::save" alt="" coords="820,1076,959,1102"/>
+<area shape="rect" id="node39" href="$classMainWindow.html#aa7473e4bbbcc281706ac2edef864fb45" title="MainWindow::open" alt="" coords="263,1069,401,1096"/>
+<area shape="rect" id="node41" href="$classMainWindow.html#a17cb661f62805c510b99d9162ac8201a" title="MainWindow::pause" alt="" coords="259,1297,405,1324"/>
+<area shape="rect" id="node44" href="$classMainWindow.html#a4f035b25b6181829a9275155e3ca9bbd" title="MainWindow::play" alt="" coords="265,1196,399,1222"/>
+<area shape="rect" id="node45" href="$classMainWindow.html#ae2e2689c253c024e3157ef19c35afe48" title="MainWindow::rewind" alt="" coords="258,1246,406,1273"/>
+<area shape="rect" id="node46" href="$classOutputGLWindow.html#a276d142ea35273a0134ccce228c995bb" title="OutputGLWindow::setFullScreen" alt="" coords="224,1377,440,1404"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a5022efb4c1fdeff44e8daa16222711ae" title="MainWindow::getCurrentPaintId" alt="" coords="501,392,712,418"/>
+<area shape="rect" id="node4" href="$classMainWindow.html#a0eb87b81740e8b4751899bd553cd5701" title="MainWindow::getMappingManager" alt="" coords="491,240,723,266"/>
+<area shape="rect" id="node5" href="$classMappingManager.html#a7c9b912e3c84f7d7ab3b2d604986d73a" title="Returns paint with given uid. " alt="" coords="1053,518,1264,545"/>
+<area shape="rect" id="node6" href="$namespaceUtil.html#a17d08ec43095614e451015e0bfea53a5" title="Util::createEllipseForColor" alt="" coords="517,645,696,672"/>
+<area shape="rect" id="node7" href="$namespaceUtil.html#a4795b6a69d928533436aaa247779e65b" title="Util::createEllipseForTexture" alt="" coords="511,442,703,469"/>
+<area shape="rect" id="node12" href="$classMappingManager.html#a8520f36639420ee5ea6df9ae80dc0e33" title="Adds a mapping and returns its uid. " alt="" coords="501,290,712,317"/>
+<area shape="rect" id="node13" href="$classMainWindow.html#a91afdf837defb9031caa1517c8cb5c69" title="MainWindow::addMappingItem" alt="" coords="503,594,711,621"/>
+<area shape="rect" id="node8" href="$classTexture.html#a028abb4fdfd694332a9b4b3874f56906" title="Texture::getWidth" alt="" coords="824,189,955,216"/>
+<area shape="rect" id="node9" href="$classTexture.html#a8913bc460bbe76fb4dd566b365c42728" title="Texture::getHeight" alt="" coords="822,240,957,266"/>
+<area shape="rect" id="node10" href="$classTexture.html#a1b9d77401b6a113d8ff51f97f6e106f3" title="Texture::getX" alt="" coords="837,290,942,317"/>
+<area shape="rect" id="node11" href="$classTexture.html#a2f2145e1efb2e3a6604b85453ce8e87c" title="Texture::getY" alt="" coords="837,138,942,165"/>
+<area shape="rect" id="node14" href="$classMappingManager.html#a5f725de7227d100962da39ad646e9a03" title="Returns mapping with given uid. " alt="" coords="773,594,1005,621"/>
+<area shape="rect" id="node15" href="$classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="1053,746,1264,773"/>
+<area shape="rect" id="node16" href="$classMainWindow.html#abc345ca26b8578ac719fc4910463b347" title="MainWindow::setItemId" alt="" coords="808,645,971,672"/>
+<area shape="rect" id="node17" href="$classMainWindow.html#a2bf13c67d7025fb51805e1699a0831ab" title="MainWindow::enableTestSignal" alt="" coords="782,746,997,773"/>
+<area shape="rect" id="node18" href="$classMainWindow.html#a77f5c4fcd861b520121a276bfc9dc61f" title="MainWindow::windowModified" alt="" coords="1055,848,1262,874"/>
+<area shape="rect" id="node20" href="$namespaceUtil.html#a786eae2166b1ae65441ce8ec2faa2922" title="Util::createQuadForColor" alt="" coords="521,341,693,368"/>
+<area shape="rect" id="node21" href="$namespaceUtil.html#ace6b708ded772fcb604ffa3939dee065" title="Util::createMeshForTexture" alt="" coords="513,189,700,216"/>
+<area shape="rect" id="node23" href="$namespaceUtil.html#a543e57a5598b06efb6964dc0da2f96e0" title="Util::createTriangleForColor" alt="" coords="511,88,702,114"/>
+<area shape="rect" id="node24" href="$namespaceUtil.html#a8d429c2501cc5b253da842ae3ef4ebe7" title="Util::createTriangleForTexture" alt="" coords="505,138,709,165"/>
+<area shape="rect" id="node26" href="$classMainWindow.html#a6eed84404b7bab6b22016d00499b49f7" title="MainWindow::getItemId" alt="" coords="525,898,688,925"/>
+<area shape="rect" id="node27" href="$classMainWindow.html#a5fc2057376339eb97f27f7c3563aeafe" title="Deletes/removes a paint and all associated mappigns. " alt="" coords="519,848,695,874"/>
+<area shape="rect" id="node28" href="$classPaint.html#a208998b017844226fc0a9279d4bed02b" title="Paint::getUidAllocator" alt="" coords="813,898,965,925"/>
+<area shape="rect" id="node29" href="$classMainWindow.html#ad95384495a22bb52595bae5369431e00" title="MainWindow::removePaintItem" alt="" coords="785,797,994,824"/>
+<area shape="rect" id="node31" href="$classMainWindow.html#aa29287cd319fc301d4b49a07d13c0c3e" title="MainWindow::okToContinue" alt="" coords="509,1050,704,1077"/>
+<area shape="rect" id="node35" href="$classMainWindow.html#a3631bdedbef1d5d7e3ea87b62a80d94e" title="MainWindow::setCurrentFile" alt="" coords="1520,1076,1711,1102"/>
+<area shape="rect" id="node37" href="$classMainWindow.html#a10533d699cd751d03b9599ae206b7f32" title="MainWindow::clearWindow" alt="" coords="513,949,700,976"/>
+<area shape="rect" id="node33" href="$classMainWindow.html#a29cf7bd0dd9c5ab61fe788a54953cc63" title="MainWindow::saveAs" alt="" coords="1081,1101,1236,1128"/>
+<area shape="rect" id="node34" href="$classMainWindow.html#a59484fd90f3f3fcc339315637168ae06" title="MainWindow::saveFile" alt="" coords="1312,1076,1472,1102"/>
+<area shape="rect" id="node36" href="$classMainWindow.html#a37bcca7fc7bf0b871d99913c447c237f" title="MainWindow::strippedName" alt="" coords="1759,1076,1949,1102"/>
+<area shape="rect" id="node38" href="$classMainWindow.html#a5bcadeee786003146ba7e00256ed9e31" title="Clears all mappings and paints. " alt="" coords="799,949,979,976"/>
+<area shape="rect" id="node40" href="$classMainWindow.html#a7a34526615dcdacc1c565db03e6550e0" title="MainWindow::loadFile" alt="" coords="528,1101,685,1128"/>
+<area shape="rect" id="node42" href="$classMappingManager.html#a681d3e7a713c6f8402ed0fe857cd1e8c" title="Returns the number of paints. " alt="" coords="517,1202,696,1229"/>
+<area shape="rect" id="node43" href="$classMappingManager.html#aef61397e0ebfebee3f98aa1bcef2e15b" title="Returns the i&#45;th paint in the vector. Good for iterating over all paints. " alt="" coords="515,1253,699,1280"/>
+<area shape="rect" id="node47" href="$classOutputGLWindow.html#ac8c1fc7f5f8f73910b0b054b3fbf0845" title="OutputGLWindow::setCursor\lVisible" alt="" coords="511,1304,703,1346"/>
+<area shape="rect" id="node48" href="$classOutputGLCanvas.html#a3d8648dd01ad3dc08adb4a6a4bc60d90" title="OutputGLCanvas::setDisplay\lCrosshair" alt="" coords="509,1370,704,1411"/>
+<area shape="rect" id="node49" href="$classMapperGLCanvas.html#ae22e079a57cdcf1806d80411eb866f70" title="Stick vertex p of Shape orig to another Shape&#39;s vertex, if the 2 vertices are close enough..." alt="" coords="488,1436,725,1462"/>
+<area shape="rect" id="node50" href="$classMainWindow.html#ad876ae7a3fb48cfd032e89f03582a1bd" title="Returns true iff we should display the controls. " alt="" coords="506,1486,707,1513"/>
+</map>

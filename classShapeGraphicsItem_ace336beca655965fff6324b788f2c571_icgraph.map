@@ -1,0 +1,5 @@
+<map id="ShapeGraphicsItem::isMappingCurrent" name="ShapeGraphicsItem::isMappingCurrent">
+<area shape="rect" id="node2" href="$classTextureGraphicsItem.html#a73dbad4408293dccec1c265b1c7d81e0" title="TextureGraphicsItem\l::_doDrawInput" alt="" coords="218,5,366,47"/>
+<area shape="rect" id="node4" href="$classMeshTextureGraphicsItem.html#a37548c26ad6a064019698df0f4ecf573" title="MeshTextureGraphicsItem\l::_doDrawOutput" alt="" coords="201,71,383,112"/>
+<area shape="rect" id="node3" href="$classTextureGraphicsItem.html#a444c9470ae70bf1c277baaf0d0d70475" title="Main paint function that needs to be overriden (called by paint()). " alt="" coords="431,5,579,47"/>
+</map>

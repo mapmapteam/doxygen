@@ -1,0 +1,5 @@
+<map id="MainWindow::handleMappingIndexesMoved" name="MainWindow::handleMappingIndexesMoved">
+<area shape="rect" id="node2" href="$classMappingManager.html#a7bb2d9d9f7c8b2b8f6ef7d45bdf313a9" title="Reorders the mappings according to given list of uids. QVector needs to. " alt="" coords="253,5,491,32"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="267,56,477,83"/>
+<area shape="rect" id="node4" href="$classOutputGLWindow.html#a34496b89b9c541dd93ec0bf42b0aa129" title="OutputGLWindow::getCanvas" alt="" coords="539,56,739,83"/>
+</map>

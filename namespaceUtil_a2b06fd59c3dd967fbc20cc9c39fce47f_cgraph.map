@@ -1,0 +1,7 @@
+<map id="Util::setGlTexPoint" name="Util::setGlTexPoint">
+<area shape="rect" id="node2" href="$namespaceUtil.html#a2705241815455b8999c6e9d04530f740" title="Calls glTexCoord2f() with the corrected texture coordinates. " alt="" coords="188,5,355,32"/>
+<area shape="rect" id="node3" href="$classTexture.html#a8913bc460bbe76fb4dd566b365c42728" title="Texture::getHeight" alt="" coords="204,56,339,83"/>
+<area shape="rect" id="node4" href="$classTexture.html#a028abb4fdfd694332a9b4b3874f56906" title="Texture::getWidth" alt="" coords="206,107,337,133"/>
+<area shape="rect" id="node5" href="$classTexture.html#a1b9d77401b6a113d8ff51f97f6e106f3" title="Texture::getX" alt="" coords="219,157,324,184"/>
+<area shape="rect" id="node6" href="$classTexture.html#a2f2145e1efb2e3a6604b85453ce8e87c" title="Texture::getY" alt="" coords="219,208,324,235"/>
+</map>

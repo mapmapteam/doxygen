@@ -1,0 +1,11 @@
+<map id="EllipseColorGraphicsItem::shape" name="EllipseColorGraphicsItem::shape">
+<area shape="rect" id="node2" href="$classEllipse.html#a45e3a08914eda116e521b28505567c99" title="Ellipse::getCenter" alt="" coords="495,5,623,32"/>
+<area shape="rect" id="node5" href="$classEllipse.html#a7d140ab03fbb96ec8ea8447e10e65b70" title="Ellipse::getHorizontalRadius" alt="" coords="227,56,417,83"/>
+<area shape="rect" id="node6" href="$classEllipse.html#a41bb574712c32c3de25c7854ad60ad93" title="Ellipse::getRotation" alt="" coords="253,107,391,133"/>
+<area shape="rect" id="node9" href="$classEllipse.html#af56d0e5ab3a476768b3b3b9b49d239ac" title="Ellipse::getVerticalRadius" alt="" coords="235,183,409,209"/>
+<area shape="rect" id="node3" href="$classEllipse.html#af9401c0579eeaf50bb35cb4f257f3c68" title="Ellipse::getHorizontalAxis" alt="" coords="700,56,875,83"/>
+<area shape="rect" id="node4" href="$classMShape.html#a188f2b437f86ab09fd08c157c1e12dea" title="MShape::getVertex" alt="" coords="923,56,1061,83"/>
+<area shape="rect" id="node7" href="$classEllipse.html#a1b229abdb5f33e469968060bba2d6cd0" title="Ellipse::getRotationRadians" alt="" coords="465,107,652,133"/>
+<area shape="rect" id="node8" href="$Maths_8h.html#ae7f5dc16bb7c816ccaf596e0bdcfe161" title="Converts from radians to degrees. " alt="" coords="489,157,628,184"/>
+<area shape="rect" id="node10" href="$classEllipse.html#a32837fca726ddc9cf849cec887a0358a" title="Ellipse::getVerticalAxis" alt="" coords="708,157,867,184"/>
+</map>

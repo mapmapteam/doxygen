@@ -1,0 +1,5 @@
+<map id="MainWindow::setTextureVolume" name="MainWindow::setTextureVolume">
+<area shape="rect" id="node2" href="$classMappingManager.html#a7c9b912e3c84f7d7ab3b2d604986d73a" title="Returns paint with given uid. " alt="" coords="272,5,483,32"/>
+<area shape="rect" id="node3" href="$classMedia.html#af95d6943b4f49a067ebc4a2b734b3389" title="Sets audio playback volume (in %). " alt="" coords="311,56,443,83"/>
+<area shape="rect" id="node4" href="$classMediaImpl.html#a4c19c3eb85108c42f46f463516fe4fcc" title="MediaImpl::setVolume" alt="" coords="531,56,687,83"/>
+</map>

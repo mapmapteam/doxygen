@@ -1,0 +1,11 @@
+<map id="MappingGui" name="MappingGui">
+<area shape="rect" id="node3" href="$classColorMappingGui.html" title="Parent class for color &#45;&gt; color mappings. " alt="" coords="249,557,404,649"/>
+<area shape="rect" id="node6" href="$classTextureMappingGui.html" title="Parent class for texture &#45;&gt; texture mapping. " alt="" coords="453,520,622,685"/>
+<area shape="rect" id="node2" href="$classQObject.html" title="{QObject\n||}" alt="" coords="385,5,455,83"/>
+<area shape="rect" id="node4" href="$classEllipseColorMappingGui.html" title="{EllipseColorMappingGui\n||+ EllipseColorMappingGui()\l+ ~EllipseColorMappingGui()\l}" alt="" coords="5,733,200,825"/>
+<area shape="rect" id="node5" href="$classPolygonColorMappingGui.html" title="{PolygonColorMappingGui\n||+ PolygonColorMappingGui()\l+ ~PolygonColorMappingGui()\l}" alt="" coords="224,733,429,825"/>
+<area shape="rect" id="node7" href="$classPolygonTextureMappingGui.html" title="{PolygonTextureMappingGui\n||+ PolygonTextureMappingGui()\l+ ~PolygonTextureMappingGui()\l}" alt="" coords="453,733,672,825"/>
+<area shape="rect" id="node8" href="$classEllipseTextureMappingGui.html" title="{EllipseTextureMappingGui\n||+ EllipseTextureMappingGui()\l+ ~EllipseTextureMappingGui()\l# _setPointOfEllipseAtAngle()\l}" alt="" coords="229,873,437,980"/>
+<area shape="rect" id="node9" href="$classMeshTextureMappingGui.html" title="{MeshTextureMappingGui\n|&#45; _meshItem\l|+ MeshTextureMappingGui()\l+ ~MeshTextureMappingGui()\l+ setValue()\l}" alt="" coords="461,873,664,980"/>
+<area shape="rect" id="node10" href="$classTriangleTextureMappingGui.html" title="{TriangleTextureMappingGui\n||+ TriangleTextureMappingGui()\l+ ~TriangleTextureMappingGui()\l}" alt="" coords="689,881,909,973"/>
+</map>

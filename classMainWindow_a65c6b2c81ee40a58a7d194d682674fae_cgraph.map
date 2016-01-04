@@ -1,0 +1,9 @@
+<map id="MainWindow::handlePaintItemSelectionChanged" name="MainWindow::handlePaintItemSelectionChanged">
+<area shape="rect" id="node2" href="$classMainWindow.html#a6eed84404b7bab6b22016d00499b49f7" title="MainWindow::getItemId" alt="" coords="785,74,948,100"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a301d50489ecbfff26b1b75135d6c469f" title="MainWindow::removeCurrent\lMapping" alt="" coords="264,41,461,82"/>
+<area shape="rect" id="node4" href="$classMainWindow.html#a957facfa9072efcadc04d4e1aa53809d" title="MainWindow::removeCurrent\lPaint" alt="" coords="528,92,725,133"/>
+<area shape="rect" id="node5" href="$classMainWindow.html#acd5e005a0ec47530f09b0cd608ccc874" title="MainWindow::setCurrentPaint" alt="" coords="263,158,462,184"/>
+<area shape="rect" id="node7" href="$classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="257,208,468,235"/>
+<area shape="rect" id="node6" href="$classMainWindow.html#a4658dbe8953b4536ec18c3bb22d493ac" title="MainWindow::getItemRowFromId" alt="" coords="516,158,737,184"/>
+<area shape="rect" id="node8" href="$classOutputGLWindow.html#a34496b89b9c541dd93ec0bf42b0aa129" title="OutputGLWindow::getCanvas" alt="" coords="527,208,727,235"/>
+</map>

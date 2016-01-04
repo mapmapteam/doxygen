@@ -1,0 +1,10 @@
+<map id="TriangleTextureGraphicsItem::_doDrawOutput" name="TriangleTextureGraphicsItem::_doDrawOutput">
+<area shape="rect" id="node2" href="$classShapeGraphicsItem.html#a0616e5da39fa76e4a488d93088031731" title="Returns the MShape (depends on mapping and whether this is an input or output). " alt="" coords="252,5,400,47"/>
+<area shape="rect" id="node3" href="$classShapeGraphicsItem.html#a2effd172b4efada4d5b96510be82dc6f" title="Return whether the item is in the destination/output (true) or source/input (false). " alt="" coords="252,71,400,112"/>
+<area shape="rect" id="node4" href="$namespaceUtil.html#a2b06fd59c3dd967fbc20cc9c39fce47f" title="Takes a point (intputPoint) on texture and outputs it as a GL vertex on output (outputPoint). " alt="" coords="259,137,393,163"/>
+<area shape="rect" id="node5" href="$namespaceUtil.html#a2705241815455b8999c6e9d04530f740" title="Calls glTexCoord2f() with the corrected texture coordinates. " alt="" coords="448,35,615,62"/>
+<area shape="rect" id="node6" href="$classTexture.html#a1b9d77401b6a113d8ff51f97f6e106f3" title="Texture::getX" alt="" coords="479,86,584,113"/>
+<area shape="rect" id="node7" href="$classTexture.html#a028abb4fdfd694332a9b4b3874f56906" title="Texture::getWidth" alt="" coords="466,137,597,163"/>
+<area shape="rect" id="node8" href="$classTexture.html#a2f2145e1efb2e3a6604b85453ce8e87c" title="Texture::getY" alt="" coords="479,187,584,214"/>
+<area shape="rect" id="node9" href="$classTexture.html#a8913bc460bbe76fb4dd566b365c42728" title="Texture::getHeight" alt="" coords="464,238,599,265"/>
+</map>

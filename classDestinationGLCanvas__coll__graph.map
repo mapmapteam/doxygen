@@ -1,0 +1,12 @@
+<map id="DestinationGLCanvas" name="DestinationGLCanvas">
+<area shape="rect" id="node4" href="$classMainWindow.html" title="This is the main window of MapMap. " alt="" coords="251,808,480,2147"/>
+<area shape="rect" id="node10" href="$classOutputGLCanvas.html" title="{OutputGLCanvas\n|&#45; _displayCrosshair\l&#45; _svg_test_signal\l&#45; _brush_test_signal\l|+ OutputGLCanvas()\l+ ~OutputGLCanvas()\l+ setDisplayCrosshair()\l+ drawForeground()\l# resizeGL()\l# wheelEvent()\l# mouseMoveEvent()\l&#45; _drawTestSignal()\l}" alt="" coords="273,205,436,415"/>
+<area shape="rect" id="node2" href="$classMapperGLCanvas.html" title="Mother class for OpenGL canvases that allow the display and controls of shapes and vertices..." alt="" coords="50,2209,273,2727"/>
+<area shape="rect" id="node11" href="$classSourceGLCanvas.html" title="{SourceGLCanvas\n||+ SourceGLCanvas()\l+ ~SourceGLCanvas()\l+ isOutput()\l+ getShapeFromMappingId()\l+ getShapeGraphicsItemFrom\lMappingId()\l}" alt="" coords="171,2776,373,2927"/>
+<area shape="rect" id="node3" href="$classQGraphicsView.html" title="{QGraphicsView\n||}" alt="" coords="103,1439,219,1516"/>
+<area shape="rect" id="node6" href="$classPreferencesDialog.html" title="{PreferencesDialog\n|&#45; _osc_port_numbox\l&#45; _button_box\l|+ PreferencesDialog()\l# closeEvent()\l&#45; resetValues()\l&#45; accept_cb()\l&#45; reject_cb()\l}" alt="" coords="441,2393,596,2543"/>
+<area shape="rect" id="node5" href="$classQMainWindow.html" title="{QMainWindow\n||}" alt="" coords="145,573,255,650"/>
+<area shape="rect" id="node7" href="$classQDialog.html" title="{QDialog\n||}" alt="" coords="589,271,661,349"/>
+<area shape="rect" id="node9" href="$classOutputGLWindow.html" title="This class acts as the pop&#45;up window containing a copy of the destination canvas (see OutputGLCanvas)..." alt="" coords="480,529,648,694"/>
+<area shape="rect" id="node8" href="$classMappingManager.html" title="This is a container class for all the paints and mappings ie. " alt="" coords="280,477,456,745"/>
+</map>

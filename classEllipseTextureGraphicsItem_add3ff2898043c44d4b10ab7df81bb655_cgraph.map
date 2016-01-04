@@ -1,0 +1,10 @@
+<map id="EllipseTextureGraphicsItem::_doDrawOutput" name="EllipseTextureGraphicsItem::_doDrawOutput">
+<area shape="rect" id="node2" href="$classEllipseTextureGraphicsItem_1_1DrawingData.html#a80c399719d24272bd6145f0ec96303fa" title="EllipseTextureGraphicsItem\l::DrawingData::getSpanInQuarter" alt="" coords="240,41,461,82"/>
+<area shape="rect" id="node3" href="$namespaceUtil.html#a2b06fd59c3dd967fbc20cc9c39fce47f" title="Takes a point (intputPoint) on texture and outputs it as a GL vertex on output (outputPoint). " alt="" coords="283,107,418,133"/>
+<area shape="rect" id="node9" href="$classEllipseTextureGraphicsItem_1_1DrawingData.html#a0c2db90f9edec2607ca5dce1791938cb" title="EllipseTextureGraphicsItem\l::DrawingData::setPointOfEllipse\lAtAngle" alt="" coords="242,157,459,213"/>
+<area shape="rect" id="node4" href="$namespaceUtil.html#a2705241815455b8999c6e9d04530f740" title="Calls glTexCoord2f() with the corrected texture coordinates. " alt="" coords="509,5,676,32"/>
+<area shape="rect" id="node5" href="$classTexture.html#a1b9d77401b6a113d8ff51f97f6e106f3" title="Texture::getX" alt="" coords="540,56,645,83"/>
+<area shape="rect" id="node6" href="$classTexture.html#a028abb4fdfd694332a9b4b3874f56906" title="Texture::getWidth" alt="" coords="527,107,658,133"/>
+<area shape="rect" id="node7" href="$classTexture.html#a2f2145e1efb2e3a6604b85453ce8e87c" title="Texture::getY" alt="" coords="540,157,645,184"/>
+<area shape="rect" id="node8" href="$classTexture.html#a8913bc460bbe76fb4dd566b365c42728" title="Texture::getHeight" alt="" coords="525,208,660,235"/>
+</map>

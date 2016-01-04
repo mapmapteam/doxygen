@@ -1,0 +1,6 @@
+<map id="distIsInside" name="distIsInside">
+<area shape="rect" id="node2" href="$classMapperGLCanvas.html#a135b9b4b298bd1106b145f44bb4babbe" title="MapperGLCanvas::_glueVertex" alt="" coords="143,46,355,73"/>
+<area shape="rect" id="node3" href="$classMapperGLCanvas.html#a2741ecbd52014c1f657732a6ee917135" title="MapperGLCanvas::mouseRelease\lEvent" alt="" coords="403,5,635,47"/>
+<area shape="rect" id="node4" href="$classMapperGLCanvas.html#a0fc8394d1d84870f6e2f1fabdf7c7d85" title="MapperGLCanvas::mouseMove\lEvent" alt="" coords="411,71,626,112"/>
+<area shape="rect" id="node5" href="$classOutputGLCanvas.html#a7f96e84fdabf74506cbb5f5c94cc3f4a" title="OutputGLCanvas::mouseMove\lEvent" alt="" coords="683,71,889,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="MappingManager::removePaint" name="MappingManager::removePaint">
+<area shape="rect" id="node2" href="$classMappingManager.html#a7c9b912e3c84f7d7ab3b2d604986d73a" title="Returns paint with given uid. " alt="" coords="275,5,485,32"/>
+<area shape="rect" id="node3" href="$classMappingManager.html#af0a563739508271ea96b8233ea1ce498" title="Returns the list of mappings associated with given paint. " alt="" coords="288,57,472,98"/>
+<area shape="rect" id="node4" href="$classMappingManager.html#a636c3bc97e492fdbf6305cd3e36ccf96" title="Removes a mapping of given uid. " alt="" coords="264,123,496,149"/>
+<area shape="rect" id="node5" href="$classMappingManager.html#a5f725de7227d100962da39ad646e9a03" title="Returns mapping with given uid. " alt="" coords="544,123,776,149"/>
+</map>

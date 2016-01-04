@@ -1,0 +1,5 @@
+<map id="Polygon::_getSegments" name="Polygon::_getSegments">
+<area shape="rect" id="node2" href="$classPolygon.html#ac477fb214a0de13fbf34eef6725c6572" title="Makes sure vertex v as the i&#45;th point of polygon stays inside the polygon. " alt="" coords="220,31,400,57"/>
+<area shape="rect" id="node3" href="$classPolygon.html#a4f720fa6f6b9f3c10f40b397b06f125a" title="Polygon::setVertex" alt="" coords="448,5,585,32"/>
+<area shape="rect" id="node4" href="$classMesh.html#aad7c33e24067bdaf002f7c48dd616002" title="Mesh::setVertex" alt="" coords="457,56,577,83"/>
+</map>

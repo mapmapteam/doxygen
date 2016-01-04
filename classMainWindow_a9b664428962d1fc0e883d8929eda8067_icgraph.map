@@ -1,0 +1,48 @@
+<map id="MainWindow::setMappingVisible" name="MainWindow::setMappingVisible">
+<area shape="rect" id="node2" href="$classMainWindow.html#ab96da2c75f2863ec96b1a70103f8d6c9" title="MainWindow::handleMapping\lItemChanged" alt="" coords="272,135,472,177"/>
+<area shape="rect" id="node45" href="$classProjectReader.html#aadf279196fbd97b09e4654f6b78f4403" title="ProjectReader::parseMapping" alt="" coords="271,84,473,111"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#aad007426e7c6ffa12708d89307dcecea" title="MainWindow::connectProject\lWidgets" alt="" coords="530,201,727,242"/>
+<area shape="rect" id="node44" href="$classMainWindow.html#a2c723d3de25039aa052596ab0bbb08fb" title="MainWindow::disconnectProject\lWidgets" alt="" coords="521,135,736,177"/>
+<area shape="rect" id="node4" href="$classMainWindow.html#a5bcadeee786003146ba7e00256ed9e31" title="Clears all mappings and paints. " alt="" coords="784,149,964,176"/>
+<area shape="rect" id="node43" href="$classMainWindow.html#a1f9461bcb5778d6f3e578d2f7f5e91f8" title="MainWindow::createLayout" alt="" coords="1012,208,1199,235"/>
+<area shape="rect" id="node5" href="$classMainWindow.html#a10533d699cd751d03b9599ae206b7f32" title="MainWindow::clearWindow" alt="" coords="1012,153,1199,180"/>
+<area shape="rect" id="node40" href="$classMainWindow.html#a7a34526615dcdacc1c565db03e6550e0" title="MainWindow::loadFile" alt="" coords="1027,84,1184,111"/>
+<area shape="rect" id="node6" href="$classMainWindow.html#a69f73b93cc05c89a9ae1be0161105982" title="MainWindow::newFile" alt="" coords="1271,157,1425,184"/>
+<area shape="rect" id="node7" href="$classMainWindow.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="1497,107,1688,133"/>
+<area shape="rect" id="node39" href="$classMainWindow.html#aa0916a59a9d7ee37159ed0a2e0528960" title="MainWindow::eventFilter" alt="" coords="1507,157,1678,184"/>
+<area shape="rect" id="node8" href="$classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb" title="MainWindow::MainWindow" alt="" coords="1736,201,1923,228"/>
+<area shape="rect" id="node9" href="$classMainWindow.html#a4f7e1bd77c8b2e64bd374874ff347ede" title="MainWindow::instance" alt="" coords="1971,201,2129,228"/>
+<area shape="rect" id="node10" href="$classDestinationGLCanvas.html#a2cb035c3db3f046023ad02c4bfe60baa" title="DestinationGLCanvas\l::getShapeGraphicsItemFrom\lMappingId" alt="" coords="2179,252,2378,308"/>
+<area shape="rect" id="node11" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2253,5,2304,32"/>
+<area shape="rect" id="node12" href="$classMapperGLCanvas.html#a94e50bea25cadd6de25091cfed85cbee" title="MapperGLCanvas::getCurrent\lShape" alt="" coords="2177,503,2380,545"/>
+<area shape="rect" id="node13" href="$classMapperGLCanvas.html#a135b9b4b298bd1106b145f44bb4babbe" title="MapperGLCanvas::_glueVertex" alt="" coords="2442,401,2654,428"/>
+<area shape="rect" id="node24" href="$classMapperGLCanvas.html#a6828b1fbd4c1a3e5d31ca00990a55517" title="MapperGLCanvas::getCurrent\lShapeGraphicsItem" alt="" coords="2177,57,2380,98"/>
+<area shape="rect" id="node27" href="$classShapeGraphicsItem.html#a409347c0bb8c17579d9e789c8a786e4e" title="Returns pointer to GL canvas. " alt="" coords="2205,122,2353,163"/>
+<area shape="rect" id="node35" href="$classShapeGraphicsItem.html#ace336beca655965fff6324b788f2c571" title="Returns whether the mapping this shape is associated with is currently selected. " alt="" coords="2205,331,2353,373"/>
+<area shape="rect" id="node38" href="$classSourceGLCanvas.html#a94f9e854c975b989b81798dde07c372e" title="SourceGLCanvas::getShape\lGraphicsItemFromMappingId" alt="" coords="2181,187,2377,229"/>
+<area shape="rect" id="node14" href="$classMapperGLCanvas.html#a0fc8394d1d84870f6e2f1fabdf7c7d85" title="MapperGLCanvas::mouseMove\lEvent" alt="" coords="2725,459,2939,501"/>
+<area shape="rect" id="node17" href="$classMapperGLCanvas.html#a14dfb3ee24fa439b460c663dec088cda" title="This function needs to be called after a shape inside the canvas has been changed for appropriate sig..." alt="" coords="2439,634,2657,675"/>
+<area shape="rect" id="node20" href="$classMapperGLCanvas.html#ab59949b056699824afb41195002dfa76" title="MapperGLCanvas::keyPress\lEvent" alt="" coords="2449,699,2647,741"/>
+<area shape="rect" id="node22" href="$classMapperGLCanvas.html#ab52fae5217c3d97ebcaa4a5099eb9053" title="MapperGLCanvas::mousePress\lEvent" alt="" coords="2440,569,2656,610"/>
+<area shape="rect" id="node23" href="$classTransformShapeCommand.html#a38361c52c867d2abcbd47d1309bcef37" title="TransformShapeCommand\l::TransformShapeCommand" alt="" coords="2451,503,2645,545"/>
+<area shape="rect" id="node16" href="$classMapperGLCanvas.html#a2741ecbd52014c1f657732a6ee917135" title="MapperGLCanvas::mouseRelease\lEvent" alt="" coords="2716,394,2948,435"/>
+<area shape="rect" id="node15" href="$classOutputGLCanvas.html#a7f96e84fdabf74506cbb5f5c94cc3f4a" title="OutputGLCanvas::mouseMove\lEvent" alt="" coords="2996,459,3203,501"/>
+<area shape="rect" id="node18" href="$classTransformShapeCommand.html#a160b6c68b1b4a0d89e5492444ae60820" title="TransformShapeCommand\l::redo" alt="" coords="2739,637,2925,678"/>
+<area shape="rect" id="node19" href="$classTransformShapeCommand.html#adefad09c09e0ab150439fed8c45262db" title="TransformShapeCommand\l::undo" alt="" coords="2739,571,2925,613"/>
+<area shape="rect" id="node21" href="$classMapperGLCanvas.html#af63b2cc7eb6e8204475404696c1f30a9" title="MapperGLCanvas::eventFilter" alt="" coords="2731,707,2933,733"/>
+<area shape="rect" id="node25" href="$classMapperGLCanvas.html#a4caa5ec632e0b850b409007ae14d2233" title="MapperGLCanvas::drawForeground" alt="" coords="2428,39,2668,65"/>
+<area shape="rect" id="node26" href="$classOutputGLCanvas.html#a6a7e16c6f71da3bdba0e4949fd72d097" title="OutputGLCanvas::drawForeground" alt="" coords="2716,16,2948,43"/>
+<area shape="rect" id="node28" href="$classMeshTextureGraphicsItem.html#a37548c26ad6a064019698df0f4ecf573" title="MeshTextureGraphicsItem\l::_doDrawOutput" alt="" coords="2457,250,2639,291"/>
+<area shape="rect" id="node29" href="$classShapeControlPainter.html#a3f98d005fa8202d873bb34ada3e78ef0" title="ShapeControlPainter\l::_paintVertices" alt="" coords="2475,106,2621,147"/>
+<area shape="rect" id="node31" href="$classShapeGraphicsItem.html#a66a0f1cdddb3e00cc3fe6d30a601ddd0" title="Utility function: returns a stroke with rescaled width such that the stroke appears invariant to the ..." alt="" coords="2459,185,2637,226"/>
+<area shape="rect" id="node30" href="$classShapeControlPainter.html#acf7b5733ad7f7827960fa226d92dfacb" title="ShapeControlPainter\l::paint" alt="" coords="2759,67,2905,109"/>
+<area shape="rect" id="node32" href="$classPolygonControlPainter.html#adb676c3371605930d669701b65580f51" title="PolygonControlPainter\l::_paintShape" alt="" coords="2753,198,2911,239"/>
+<area shape="rect" id="node33" href="$classEllipseControlPainter.html#ad858b1c8f52a54245ca047619c4cef9e" title="EllipseControlPainter\l::_paintShape" alt="" coords="2759,263,2905,305"/>
+<area shape="rect" id="node34" href="$classMeshControlPainter.html#a6aebae0b4e8d9b49c53d8d8b9e3904e3" title="MeshControlPainter\l::_paintShape" alt="" coords="2762,133,2902,174"/>
+<area shape="rect" id="node36" href="$classTextureGraphicsItem.html#a73dbad4408293dccec1c265b1c7d81e0" title="TextureGraphicsItem\l::_doDrawInput" alt="" coords="2474,330,2622,371"/>
+<area shape="rect" id="node37" href="$classTextureGraphicsItem.html#a444c9470ae70bf1c277baaf0d0d70475" title="Main paint function that needs to be overriden (called by paint()). " alt="" coords="2758,329,2906,370"/>
+<area shape="rect" id="node41" href="$classMainWindow.html#aa7473e4bbbcc281706ac2edef864fb45" title="MainWindow::open" alt="" coords="1279,107,1417,133"/>
+<area shape="rect" id="node42" href="$classMainWindow.html#a935316315edb9b7af42657da20be0e54" title="MainWindow::openRecentFile" alt="" coords="1247,56,1449,83"/>
+<area shape="rect" id="node46" href="$classProjectReader.html#a920479236c71ce23a21dab61dcb318b2" title="ProjectReader::parseProject" alt="" coords="532,84,725,111"/>
+<area shape="rect" id="node47" href="$classProjectReader.html#aa7adbfb001eec593b009021e68462fb4" title="ProjectReader::readFile" alt="" coords="791,84,957,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MediaImpl::_checkMessages" name="MediaImpl::_checkMessages">
+<area shape="rect" id="node2" href="$classMediaImpl.html#a8361b37f539edbc19108c2d24377543d" title="Performs regular updates (checks if movie is ready and checks messages). " alt="" coords="252,5,385,32"/>
+<area shape="rect" id="node3" href="$classMedia.html#af3bb28228a0d4f1e260a3f2fcc2e344e" title="This method should be called at each call of draw(). " alt="" coords="433,5,543,32"/>
+</map>

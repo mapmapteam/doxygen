@@ -1,0 +1,9 @@
+<map id="radiansToDegrees" name="radiansToDegrees">
+<area shape="rect" id="node2" href="$classEllipse.html#a41bb574712c32c3de25c7854ad60ad93" title="Ellipse::getRotation" alt="" coords="192,111,329,138"/>
+<area shape="rect" id="node3" href="$classEllipseControlPainter.html#ad858b1c8f52a54245ca047619c4cef9e" title="EllipseControlPainter\l::_paintShape" alt="" coords="397,5,544,47"/>
+<area shape="rect" id="node4" href="$classEllipseColorGraphicsItem.html#a1e5f1f39a33c4824ef9b9bd530eb5628" title="EllipseColorGraphicsItem\l::shape" alt="" coords="384,71,557,112"/>
+<area shape="rect" id="node6" href="$classEllipseTextureGraphicsItem.html#a5a3ce56c292f77431d1ffc185a6c20ea" title="EllipseTextureGraphicsItem\l::shape" alt="" coords="377,136,564,177"/>
+<area shape="rect" id="node8" href="$namespaceUtil.html#a402d544da53b6fbee636acb6b9d2be1b" title="Util::drawControlsEllipse" alt="" coords="387,202,554,229"/>
+<area shape="rect" id="node5" href="$classEllipseColorGraphicsItem.html#ab666d63e62258aee71187f217774afec" title="Main paint function that needs to be overriden (called by paint()). " alt="" coords="619,71,792,112"/>
+<area shape="rect" id="node7" href="$classEllipseTextureGraphicsItem.html#a6d786821897bf8816022e9930a2047ef" title="Returns the bounding rectangle of this item. " alt="" coords="612,136,799,177"/>
+</map>

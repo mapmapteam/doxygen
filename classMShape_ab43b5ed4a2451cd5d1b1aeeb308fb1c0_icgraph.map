@@ -1,0 +1,32 @@
+<map id="MShape::nVertices" name="MShape::nVertices">
+<area shape="rect" id="node2" href="$classMappingGui.html#a4c01c8094d1603e94bc9bb012db2b075" title="MappingGui::_buildShapeProperty" alt="" coords="189,64,416,91"/>
+<area shape="rect" id="node5" href="$classMeshTextureGraphicsItem.html#a37548c26ad6a064019698df0f4ecf573" title="MeshTextureGraphicsItem\l::_doDrawOutput" alt="" coords="212,158,393,199"/>
+<area shape="rect" id="node6" href="$classMapperGLCanvas.html#a135b9b4b298bd1106b145f44bb4babbe" title="MapperGLCanvas::_glueVertex" alt="" coords="197,224,409,251"/>
+<area shape="rect" id="node10" href="$classMappingGui.html#aaea8088329a86b94556ce6ccd4dc952a" title="MappingGui::_updateShape\lProperty" alt="" coords="208,305,397,346"/>
+<area shape="rect" id="node13" href="$classMesh.html#a15595ae609c0ed4c38c400d67a07bdf4" title="Mesh::addColumn" alt="" coords="236,421,369,448"/>
+<area shape="rect" id="node16" href="$classMesh.html#acc8040820baddcdaea8f20faf4a5ce9a" title="Mesh::addRow" alt="" coords="1019,421,1133,448"/>
+<area shape="rect" id="node21" href="$namespaceUtil.html#a1981a2cdd9d1487742b9baed8523d35b" title="Util::drawControlsVertices" alt="" coords="214,548,391,575"/>
+<area shape="rect" id="node25" href="$classEllipse.html#a1eb94de54654a15afd0996def5be7d7c" title="Ellipse::hasCenterControl" alt="" coords="215,697,390,724"/>
+<area shape="rect" id="node30" href="$classProjectWriter.html#abf8162bc38cfa04b391ab45e09e9c72d" title="ProjectWriter::writeShape\lVertices" alt="" coords="215,795,390,837"/>
+<area shape="rect" id="node3" href="$classMappingGui.html#abe779681d664fd52025bf1e90809c41d" title="Constructor. A mapper applies to a mapping. " alt="" coords="493,5,667,32"/>
+<area shape="rect" id="node4" href="$classTextureMappingGui.html#abdec68a4fe51d6552002b3310a50198e" title="TextureMappingGui::\lTextureMappingGui" alt="" coords="505,57,655,98"/>
+<area shape="rect" id="node7" href="$classMapperGLCanvas.html#a0fc8394d1d84870f6e2f1fabdf7c7d85" title="MapperGLCanvas::mouseMove\lEvent" alt="" coords="473,122,687,163"/>
+<area shape="rect" id="node9" href="$classMapperGLCanvas.html#a2741ecbd52014c1f657732a6ee917135" title="MapperGLCanvas::mouseRelease\lEvent" alt="" coords="464,187,696,229"/>
+<area shape="rect" id="node8" href="$classOutputGLCanvas.html#a7f96e84fdabf74506cbb5f5c94cc3f4a" title="OutputGLCanvas::mouseMove\lEvent" alt="" coords="744,122,951,163"/>
+<area shape="rect" id="node11" href="$classMappingGui.html#ac529e48b12f625fbdcd8ae1de412ccc5" title="MappingGui::updateShape" alt="" coords="489,253,671,280"/>
+<area shape="rect" id="node12" href="$classTextureMappingGui.html#a57a77bc455e88006e3aad7f80aeb7db9" title="TextureMappingGui::\lupdateShape" alt="" coords="505,305,655,346"/>
+<area shape="rect" id="node14" href="$classMesh.html#a945fe5eeffe5ff1ea09a9098f879928e" title="Mesh::resize" alt="" coords="530,472,630,499"/>
+<area shape="rect" id="node15" href="$classMesh.html#ab3faecd22484a5c8f936c61faa39b683" title="Mesh::resizeVertices2d" alt="" coords="765,472,929,499"/>
+<area shape="rect" id="node17" href="$classMesh.html#a809c547e233cef00eef4d82b01addede" title="Mesh::init" alt="" coords="1037,472,1115,499"/>
+<area shape="rect" id="node19" href="$classMesh.html#a9475466f6bef517fa98a7ba4525f1901" title="Mesh::removeColumn" alt="" coords="999,523,1153,549"/>
+<area shape="rect" id="node20" href="$classMesh.html#a1338ad70fbf3c9ef8b2375c87a440bdb" title="Mesh::removeRow" alt="" coords="1008,573,1144,600"/>
+<area shape="rect" id="node18" href="$classMesh.html#aad3f8fd75aeeea904f3ac37aa47cde1f" title="Mesh::Mesh" alt="" coords="1201,472,1297,499"/>
+<area shape="rect" id="node22" href="$namespaceUtil.html#a402d544da53b6fbee636acb6b9d2be1b" title="Util::drawControlsEllipse" alt="" coords="497,523,663,549"/>
+<area shape="rect" id="node23" href="$namespaceUtil.html#a8154b0fba28e9f57b6f4cad4c6405365" title="Util::drawControlsQuad" alt="" coords="499,573,661,600"/>
+<area shape="rect" id="node24" href="$namespaceUtil.html#a4ee310fc560d6a0add0df200ce2b7454" title="Util::drawControlsMesh" alt="" coords="499,624,661,651"/>
+<area shape="rect" id="node26" href="$classEllipse.html#ab1e89c0f12a6272812776f0885c1bcc9" title="Ellipse::Ellipse" alt="" coords="526,675,634,701"/>
+<area shape="rect" id="node27" href="$classEllipse.html#a032b92370ae42a55292cc1a0b2395e50" title="Remaps points so as to make sure this is a correct ellipse, keeping vertices 0 and 2 as reference for..." alt="" coords="523,725,637,752"/>
+<area shape="rect" id="node29" href="$classEllipse.html#aa7d8231b6ba44671a96fcb4050e17e0e" title="Ellipse::setVertex" alt="" coords="784,776,911,803"/>
+<area shape="rect" id="node28" href="$classEllipse.html#a16a74ad464ad2773b5e716a7af943277" title="Ellipse::Ellipse" alt="" coords="793,725,901,752"/>
+<area shape="rect" id="node31" href="$classProjectWriter.html#a27fa10093ab3bb15ad8416330753e896" title="ProjectWriter::writeItem" alt="" coords="500,827,660,853"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="MediaImpl::update" name="MediaImpl::update">
+<area shape="rect" id="node2" href="$classMediaImpl.html#a1b3c56a9999ceddda8f25e6f4f473f2e" title="MediaImpl::_checkMessages" alt="" coords="187,27,385,54"/>
+<area shape="rect" id="node3" href="$classMediaImpl.html#a6c123a38664796c456cccdf8d312cde5" title="MediaImpl::resetMovie" alt="" coords="447,78,606,105"/>
+<area shape="rect" id="node19" href="$classMediaImpl.html#a5942c3a70bdaaa6e212172845d9879cd" title="Checks if we reached the end of the video file. " alt="" coords="225,129,347,155"/>
+<area shape="rect" id="node20" href="$classMediaImpl.html#a51f1b0b159b86547435e181702a24200" title="MediaImpl::_setFinished" alt="" coords="202,179,370,206"/>
+<area shape="rect" id="node4" href="$classMediaImpl.html#af426673c7e34bb887a3f970e599c59a2" title="MediaImpl::_setMovieReady" alt="" coords="1156,27,1351,54"/>
+<area shape="rect" id="node18" href="$classMediaImpl.html#a12c82a9e0d6e93f5742e386dfe43ec55" title="MediaImpl::_isMovieReady" alt="" coords="433,27,620,54"/>
+<area shape="rect" id="node5" href="$classMediaImpl.html#a364b93270719596ce67a92e6e84f804c" title="Loads a new movie file. " alt="" coords="668,179,824,206"/>
+<area shape="rect" id="node6" href="$classMediaImpl.html#abd5433f176a1caf24b86203349241582" title="MediaImpl::unloadMovie" alt="" coords="905,78,1075,105"/>
+<area shape="rect" id="node7" href="$classMediaImpl.html#ae4aa888270e1b711a72012dad8066d0c" title="MediaImpl::setPlayState" alt="" coords="1169,78,1337,105"/>
+<area shape="rect" id="node8" href="$classMediaImpl.html#a7a167513aaa53ad41682bb4f4d1aae82" title="MediaImpl::freeResources" alt="" coords="1163,129,1343,155"/>
+<area shape="rect" id="node10" href="$MediaImpl_8cpp.html#a9c87772ea39153ef5690a82b83deb212" title="gstPollShmsrc" alt="" coords="936,230,1044,257"/>
+<area shape="rect" id="node14" href="$classMediaImpl.html#ae12987ba7bf80e1b652338d92ce57083" title="FIXME: remove GOTO. " alt="" coords="875,382,1105,409"/>
+<area shape="rect" id="node15" href="$classMediaImpl.html#a5e614dc868027a41e41e725f1c55d94b" title="MediaImpl::gstNewSampleCallback" alt="" coords="872,331,1108,358"/>
+<area shape="rect" id="node9" href="$classMediaImpl.html#a7a1c6e799797e81695ef694f8834cd3d" title="MediaImpl::_freeCurrentSample" alt="" coords="1399,230,1609,257"/>
+<area shape="rect" id="node11" href="$classMediaImpl.html#a6f3fc5fba4b1152ed0adeec327a5dc94" title="When using the shared memory source, returns whether or not we are attached to a shared memory socket..." alt="" coords="1171,179,1335,206"/>
+<area shape="rect" id="node12" href="$classMediaImpl.html#a265a9c862f55511b35a903a9346b86c2" title="Returns the path to the media file being played. " alt="" coords="1190,230,1317,257"/>
+<area shape="rect" id="node13" href="$classMediaImpl.html#a617aadbf02013ca3bd1f481049cd7cbe" title="Tells the MediaImpl that we are actually reading from a shmsrc. " alt="" coords="1172,281,1335,307"/>
+<area shape="rect" id="node16" href="$classMediaImpl.html#aa6dacd8d46dc17e988006369d08624b9" title="Locks mutex (default = no effect). " alt="" coords="1177,382,1330,409"/>
+<area shape="rect" id="node17" href="$classMediaImpl.html#a6028642ec96f29d8c135d7bc5085a2b9" title="Unlocks mutex (default = no effect). " alt="" coords="1170,433,1337,459"/>
+</map>

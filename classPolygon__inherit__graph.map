@@ -1,0 +1,6 @@
+<map id="Polygon" name="Polygon">
+<area shape="rect" id="node3" href="$classQuad.html" title="Four&#45;vertex shape. " alt="" coords="29,608,123,744"/>
+<area shape="rect" id="node5" href="$classTriangle.html" title="Triangle shape. " alt="" coords="147,608,248,744"/>
+<area shape="rect" id="node2" href="$classMShape.html" title="Shape represented by a series of control points. " alt="" coords="71,5,201,317"/>
+<area shape="rect" id="node4" href="$classMesh.html" title="{Mesh\n|# _nColumns\l# _nRows\l# _vertices2d\l|+ Mesh()\l+ Mesh()\l+ Mesh()\l+ ~Mesh()\l+ init()\l+ getType()\l+ toPolygon()\l+ setVertex()\l+ getVertex2d()\l+ setVertex2d()\land 13 more...\l# _reorderVertices()\l# _create()\l}" alt="" coords="5,792,147,1075"/>
+</map>

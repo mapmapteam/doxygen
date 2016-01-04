@@ -1,0 +1,7 @@
+<map id="QUndoCommand" name="QUndoCommand">
+<area shape="rect" id="node2" href="$classAddShapesCommand.html" title="{AddShapesCommand\n|&#45; m_mainWindow\l&#45; m_mappingPtr\l&#45; m_mappingId\l|+ AddShapesCommand()\l+ undo()\l+ redo()\l}" alt="" coords="5,153,181,289"/>
+<area shape="rect" id="node3" href="$classDeleteMappingCommand.html" title="{DeleteMappingCommand\n|&#45; m_mainWindow\l&#45; m_mappingPtr\l&#45; m_mappingId\l|+ DeleteMappingCommand()\l+ undo()\l+ redo()\l}" alt="" coords="206,153,402,289"/>
+<area shape="rect" id="node4" href="$classTransformShapeCommand.html" title="{TransformShapeCommand\n|# _canvas\l# _shape\l# _option\l# _originalShape\l|+ TransformShapeCommand()\l+ undo()\l+ redo()\l+ mergeWith()\l# _doTransform()\l}" alt="" coords="426,131,633,311"/>
+<area shape="rect" id="node5" href="$classMoveVertexCommand.html" title="{MoveVertexCommand\n|# _movedVertex\l# _vertexPosition\l|+ MoveVertexCommand()\l+ id()\l+ mergeWith()\l# _doTransform()\l}" alt="" coords="332,359,511,495"/>
+<area shape="rect" id="node6" href="$classTranslateShapeCommand.html" title="{TranslateShapeCommand\n|&#45; _translation\l|+ TranslateShapeCommand()\l+ id()\l+ mergeWith()\l# _doTransform()\l}" alt="" coords="535,366,737,487"/>
+</map>

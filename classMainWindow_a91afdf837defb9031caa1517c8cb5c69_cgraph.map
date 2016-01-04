@@ -1,0 +1,9 @@
+<map id="MainWindow::addMappingItem" name="MainWindow::addMappingItem">
+<area shape="rect" id="node2" href="$classMainWindow.html#a2bf13c67d7025fb51805e1699a0831ab" title="MainWindow::enableTestSignal" alt="" coords="270,5,485,32"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="541,31,752,57"/>
+<area shape="rect" id="node5" href="$classMappingManager.html#a5f725de7227d100962da39ad646e9a03" title="Returns mapping with given uid. " alt="" coords="261,107,493,133"/>
+<area shape="rect" id="node6" href="$classMainWindow.html#abc345ca26b8578ac719fc4910463b347" title="MainWindow::setItemId" alt="" coords="296,157,459,184"/>
+<area shape="rect" id="node7" href="$classMainWindow.html#a77f5c4fcd861b520121a276bfc9dc61f" title="MainWindow::windowModified" alt="" coords="274,208,481,235"/>
+<area shape="rect" id="node4" href="$classOutputGLWindow.html#a34496b89b9c541dd93ec0bf42b0aa129" title="OutputGLWindow::getCanvas" alt="" coords="800,31,1000,57"/>
+<area shape="rect" id="node8" href="$classMainWindow.html#ad62e8427ddc79384e22bccaa2eb1fa1b" title="MainWindow::updateStatusBar" alt="" coords="543,208,750,235"/>
+</map>

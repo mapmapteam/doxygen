@@ -1,0 +1,5 @@
+<map id="MediaImpl::gstNewSampleCallback" name="MediaImpl::gstNewSampleCallback">
+<area shape="rect" id="node2" href="$classMediaImpl.html#a7a1c6e799797e81695ef694f8834cd3d" title="MediaImpl::_freeCurrentSample" alt="" coords="289,5,500,32"/>
+<area shape="rect" id="node3" href="$classMediaImpl.html#aa6dacd8d46dc17e988006369d08624b9" title="Locks mutex (default = no effect). " alt="" coords="318,56,471,83"/>
+<area shape="rect" id="node4" href="$classMediaImpl.html#a6028642ec96f29d8c135d7bc5085a2b9" title="Unlocks mutex (default = no effect). " alt="" coords="311,107,478,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TextureMappingGui::TextureMappingGui" name="TextureMappingGui::TextureMappingGui">
+<area shape="rect" id="node2" href="$classMappingGui.html#a4c01c8094d1603e94bc9bb012db2b075" title="MappingGui::_buildShapeProperty" alt="" coords="203,31,429,57"/>
+<area shape="rect" id="node3" href="$classMShape.html#a188f2b437f86ab09fd08c157c1e12dea" title="MShape::getVertex" alt="" coords="477,5,616,32"/>
+<area shape="rect" id="node4" href="$classMShape.html#ab43b5ed4a2451cd5d1b1aeeb308fb1c0" title="MShape::nVertices" alt="" coords="479,56,615,83"/>
+</map>

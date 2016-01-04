@@ -1,0 +1,15 @@
+<map id="MediaImpl::unlockMutex" name="MediaImpl::unlockMutex">
+<area shape="rect" id="node2" href="$classMediaImpl.html#a5e614dc868027a41e41e725f1c55d94b" title="MediaImpl::gstNewSampleCallback" alt="" coords="220,81,456,108"/>
+<area shape="rect" id="node14" href="$classMedia.html#aab03ce26775ae890472e821c75419a87" title="Unlocks mutex (default = no effect). " alt="" coords="267,132,409,159"/>
+<area shape="rect" id="node3" href="$classMediaImpl.html#a364b93270719596ce67a92e6e84f804c" title="Loads a new movie file. " alt="" coords="504,81,660,108"/>
+<area shape="rect" id="node4" href="$classMediaImpl.html#a0f2ab8f5c0778239962f1816d0eb8ff9" title="Sets up the player. " alt="" coords="727,5,847,32"/>
+<area shape="rect" id="node6" href="$classMediaImpl.html#a67edb3505bd9e7c694581f5e50b97860" title="Constructor. " alt="" coords="710,56,865,83"/>
+<area shape="rect" id="node7" href="$classMediaImpl.html#a6c123a38664796c456cccdf8d312cde5" title="MediaImpl::resetMovie" alt="" coords="708,107,867,133"/>
+<area shape="rect" id="node12" href="$classMedia.html#afb50200cb9efac52f076c12df2c46875" title="Media::setUri" alt="" coords="736,183,839,209"/>
+<area shape="rect" id="node5" href="$classMedia.html#a3beeb09f11c250c011879e80a43734c2" title="Media::build" alt="" coords="966,5,1062,32"/>
+<area shape="rect" id="node8" href="$classMediaImpl.html#a1b3c56a9999ceddda8f25e6f4f473f2e" title="MediaImpl::_checkMessages" alt="" coords="915,56,1113,83"/>
+<area shape="rect" id="node9" href="$classMediaImpl.html#a8361b37f539edbc19108c2d24377543d" title="Performs regular updates (checks if movie is ready and checks messages). " alt="" coords="1161,81,1295,108"/>
+<area shape="rect" id="node11" href="$classMedia.html#aadddefe94f3ab80831fd31ff8dd04782" title="Rewinds. " alt="" coords="960,157,1068,184"/>
+<area shape="rect" id="node10" href="$classMedia.html#af3bb28228a0d4f1e260a3f2fcc2e344e" title="This method should be called at each call of draw(). " alt="" coords="1343,81,1452,108"/>
+<area shape="rect" id="node13" href="$classMainWindow.html#afa7bc26b0db51d55cd536bc717efa80d" title="MainWindow::setTextureUri" alt="" coords="919,208,1109,235"/>
+</map>

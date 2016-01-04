@@ -1,0 +1,6 @@
+<map id="OutputGLWindow::setFullScreen" name="OutputGLWindow::setFullScreen">
+<area shape="rect" id="node2" href="$classMainWindow.html#ad876ae7a3fb48cfd032e89f03582a1bd" title="Returns true iff we should display the controls. " alt="" coords="287,5,489,32"/>
+<area shape="rect" id="node3" href="$classMapperGLCanvas.html#ae22e079a57cdcf1806d80411eb866f70" title="Stick vertex p of Shape orig to another Shape&#39;s vertex, if the 2 vertices are close enough..." alt="" coords="269,56,507,83"/>
+<area shape="rect" id="node4" href="$classOutputGLWindow.html#ac8c1fc7f5f8f73910b0b054b3fbf0845" title="OutputGLWindow::setCursor\lVisible" alt="" coords="292,107,484,149"/>
+<area shape="rect" id="node5" href="$classOutputGLCanvas.html#a3d8648dd01ad3dc08adb4a6a4bc60d90" title="OutputGLCanvas::setDisplay\lCrosshair" alt="" coords="291,173,485,214"/>
+</map>

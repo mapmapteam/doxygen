@@ -1,0 +1,5 @@
+<map id="PolygonColorMappingGui" name="PolygonColorMappingGui">
+<area shape="rect" id="node2" href="$classColorMappingGui.html" title="Parent class for color &#45;&gt; color mappings. " alt="" coords="31,520,185,612"/>
+<area shape="rect" id="node3" href="$classMappingGui.html" title="This is the &quot;view&quot; side of the Mapping class (model). " alt="" coords="19,131,197,472"/>
+<area shape="rect" id="node4" href="$classQObject.html" title="{QObject\n||}" alt="" coords="73,5,143,83"/>
+</map>

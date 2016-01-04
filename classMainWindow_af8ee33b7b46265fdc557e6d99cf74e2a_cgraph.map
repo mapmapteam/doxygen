@@ -1,0 +1,20 @@
+<map id="MainWindow::addPaintItem" name="MainWindow::addPaintItem">
+<area shape="rect" id="node2" href="$classMappingManager.html#a7c9b912e3c84f7d7ab3b2d604986d73a" title="Returns paint with given uid. " alt="" coords="252,237,463,264"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#aea0966c14cf9707f35c1051817615aba" title="MainWindow::handlePaintChanged" alt="" coords="240,288,475,315"/>
+<area shape="rect" id="node17" href="$classMainWindow.html#a77f5c4fcd861b520121a276bfc9dc61f" title="MainWindow::windowModified" alt="" coords="803,516,1009,543"/>
+<area shape="rect" id="node19" href="$classMainWindow.html#abc345ca26b8578ac719fc4910463b347" title="MainWindow::setItemId" alt="" coords="276,579,439,605"/>
+<area shape="rect" id="node4" href="$classMainWindow.html#a418a4c0779810d5323f2ada961e26643" title="MainWindow::createColorIcon" alt="" coords="537,5,741,32"/>
+<area shape="rect" id="node5" href="$classMainWindow.html#a1d6f21aca555b13f6a122f63838bc95d" title="MainWindow::createFileIcon" alt="" coords="542,56,735,83"/>
+<area shape="rect" id="node6" href="$classMainWindow.html#a471c0a0202f839508a6204ff4d7f43cf" title="MainWindow::createImageIcon" alt="" coords="534,107,743,133"/>
+<area shape="rect" id="node7" href="$classMainWindow.html#a8626737961e658b6fdb70599d7840474" title="MainWindow::getCurrentMappingId" alt="" coords="523,157,755,184"/>
+<area shape="rect" id="node8" href="$classMappingManager.html#a84a5522bf73200d1b8897e84030af2f3" title="Returns the uid of a paint. " alt="" coords="541,208,736,235"/>
+<area shape="rect" id="node9" href="$classMainWindow.html#a301d50489ecbfff26b1b75135d6c469f" title="MainWindow::removeCurrent\lMapping" alt="" coords="807,282,1005,323"/>
+<area shape="rect" id="node10" href="$classMainWindow.html#a957facfa9072efcadc04d4e1aa53809d" title="MainWindow::removeCurrent\lPaint" alt="" coords="540,310,737,351"/>
+<area shape="rect" id="node11" href="$classMainWindow.html#a277e3d3366c3c4f9f48a2f219997a21b" title="MainWindow::setCurrentMapping" alt="" coords="529,376,749,403"/>
+<area shape="rect" id="node14" href="$classMainWindow.html#a37bcca7fc7bf0b871d99913c447c237f" title="MainWindow::strippedName" alt="" coords="543,427,734,453"/>
+<area shape="rect" id="node15" href="$classMainWindow.html#aa01a27c4815dcac8256fee330e43ef5d" title="MainWindow::updatePaintItem" alt="" coords="537,477,741,504"/>
+<area shape="rect" id="node12" href="$classMainWindow.html#a4658dbe8953b4536ec18c3bb22d493ac" title="MainWindow::getItemRowFromId" alt="" coords="1057,465,1279,492"/>
+<area shape="rect" id="node13" href="$classMainWindow.html#a6eed84404b7bab6b22016d00499b49f7" title="MainWindow::getItemId" alt="" coords="1327,465,1489,492"/>
+<area shape="rect" id="node16" href="$classMainWindow.html#aeb868c14b8b36df1001736b97529dfb1" title="MainWindow::getItemFromId" alt="" coords="809,465,1003,492"/>
+<area shape="rect" id="node18" href="$classMainWindow.html#ad62e8427ddc79384e22bccaa2eb1fa1b" title="MainWindow::updateStatusBar" alt="" coords="1065,516,1271,543"/>
+</map>

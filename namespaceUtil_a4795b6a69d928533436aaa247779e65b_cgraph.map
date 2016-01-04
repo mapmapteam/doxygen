@@ -1,0 +1,6 @@
+<map id="Util::createEllipseForTexture" name="Util::createEllipseForTexture">
+<area shape="rect" id="node2" href="$classTexture.html#a8913bc460bbe76fb4dd566b365c42728" title="Texture::getHeight" alt="" coords="245,5,380,32"/>
+<area shape="rect" id="node3" href="$classTexture.html#a028abb4fdfd694332a9b4b3874f56906" title="Texture::getWidth" alt="" coords="247,56,378,83"/>
+<area shape="rect" id="node4" href="$classTexture.html#a1b9d77401b6a113d8ff51f97f6e106f3" title="Texture::getX" alt="" coords="260,107,365,133"/>
+<area shape="rect" id="node5" href="$classTexture.html#a2f2145e1efb2e3a6604b85453ce8e87c" title="Texture::getY" alt="" coords="260,157,365,184"/>
+</map>

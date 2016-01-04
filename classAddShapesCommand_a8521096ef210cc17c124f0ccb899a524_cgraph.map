@@ -1,0 +1,12 @@
+<map id="AddShapesCommand::redo" name="AddShapesCommand::redo">
+<area shape="rect" id="node2" href="$classMappingManager.html#a8520f36639420ee5ea6df9ae80dc0e33" title="Adds a mapping and returns its uid. " alt="" coords="256,56,467,83"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a91afdf837defb9031caa1517c8cb5c69" title="MainWindow::addMappingItem" alt="" coords="257,107,465,133"/>
+<area shape="rect" id="node11" href="$classMainWindow.html#a0eb87b81740e8b4751899bd553cd5701" title="MainWindow::getMappingManager" alt="" coords="245,157,477,184"/>
+<area shape="rect" id="node4" href="$classMappingManager.html#a5f725de7227d100962da39ad646e9a03" title="Returns mapping with given uid. " alt="" coords="525,5,757,32"/>
+<area shape="rect" id="node5" href="$classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="805,107,1016,133"/>
+<area shape="rect" id="node7" href="$classMainWindow.html#abc345ca26b8578ac719fc4910463b347" title="MainWindow::setItemId" alt="" coords="560,107,723,133"/>
+<area shape="rect" id="node8" href="$classMainWindow.html#a2bf13c67d7025fb51805e1699a0831ab" title="MainWindow::enableTestSignal" alt="" coords="534,157,749,184"/>
+<area shape="rect" id="node9" href="$classMainWindow.html#a77f5c4fcd861b520121a276bfc9dc61f" title="MainWindow::windowModified" alt="" coords="538,208,745,235"/>
+<area shape="rect" id="node6" href="$classOutputGLWindow.html#a34496b89b9c541dd93ec0bf42b0aa129" title="OutputGLWindow::getCanvas" alt="" coords="1064,107,1264,133"/>
+<area shape="rect" id="node10" href="$classMainWindow.html#ad62e8427ddc79384e22bccaa2eb1fa1b" title="MainWindow::updateStatusBar" alt="" coords="807,208,1014,235"/>
+</map>

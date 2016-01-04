@@ -1,0 +1,8 @@
+<map id="TextureMappingGui" name="TextureMappingGui">
+<area shape="rect" id="node4" href="$classPolygonTextureMappingGui.html" title="{PolygonTextureMappingGui\n||+ PolygonTextureMappingGui()\l+ ~PolygonTextureMappingGui()\l}" alt="" coords="229,733,448,825"/>
+<area shape="rect" id="node2" href="$classMappingGui.html" title="This is the &quot;view&quot; side of the Mapping class (model). " alt="" coords="249,131,428,472"/>
+<area shape="rect" id="node3" href="$classQObject.html" title="{QObject\n||}" alt="" coords="303,5,374,83"/>
+<area shape="rect" id="node5" href="$classEllipseTextureMappingGui.html" title="{EllipseTextureMappingGui\n||+ EllipseTextureMappingGui()\l+ ~EllipseTextureMappingGui()\l# _setPointOfEllipseAtAngle()\l}" alt="" coords="5,873,213,980"/>
+<area shape="rect" id="node6" href="$classMeshTextureMappingGui.html" title="{MeshTextureMappingGui\n|&#45; _meshItem\l|+ MeshTextureMappingGui()\l+ ~MeshTextureMappingGui()\l+ setValue()\l}" alt="" coords="237,873,440,980"/>
+<area shape="rect" id="node7" href="$classTriangleTextureMappingGui.html" title="{TriangleTextureMappingGui\n||+ TriangleTextureMappingGui()\l+ ~TriangleTextureMappingGui()\l}" alt="" coords="465,881,685,973"/>
+</map>

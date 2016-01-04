@@ -1,0 +1,6 @@
+<map id="PaintGui::setValue" name="PaintGui::setValue">
+<area shape="rect" id="node2" href="$classPaintGui.html#af959889f2f27c10fe2cba400567dd568" title="Constructor. A paint gui applies to a paint. " alt="" coords="193,5,325,32"/>
+<area shape="rect" id="node3" href="$classColorGui.html#a5a554517b43f9be50fb5daa49bd6b0c0" title="ColorGui::setValue" alt="" coords="191,56,328,83"/>
+<area shape="rect" id="node4" href="$classImageGui.html#aa09507876c5531cbe4937c113a4284db" title="ImageGui::setValue" alt="" coords="188,107,331,133"/>
+<area shape="rect" id="node5" href="$classMediaGui.html#ad25aa19d7477612444952d9c24104094" title="MediaGui::setValue" alt="" coords="188,157,331,184"/>
+</map>

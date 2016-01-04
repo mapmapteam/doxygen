@@ -1,0 +1,6 @@
+<map id="MeshTextureGraphicsItem" name="MeshTextureGraphicsItem">
+<area shape="rect" id="node2" href="$classPolygonTextureGraphicsItem.html" title="Graphics item for textured polygons (eg. triangles). " alt="" coords="5,748,232,869"/>
+<area shape="rect" id="node3" href="$classTextureGraphicsItem.html" title="Abstract class for texture graphics items. " alt="" coords="31,505,207,700"/>
+<area shape="rect" id="node4" href="$classShapeGraphicsItem.html" title="Represents a shape as part of a scene graph in one of the GL canvas. " alt="" coords="20,131,217,457"/>
+<area shape="rect" id="node5" href="$classQGraphicsItem.html" title="{QGraphicsItem\n||}" alt="" coords="63,5,174,83"/>
+</map>

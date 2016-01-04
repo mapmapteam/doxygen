@@ -1,0 +1,5 @@
+<map id="MapperGLCanvas::shapeChanged" name="MapperGLCanvas::shapeChanged">
+<area shape="rect" id="node2" href="$classMapperGLCanvas.html#a14dfb3ee24fa439b460c663dec088cda" title="This function needs to be called after a shape inside the canvas has been changed for appropriate sig..." alt="" coords="287,39,505,80"/>
+<area shape="rect" id="node3" href="$classTransformShapeCommand.html#a160b6c68b1b4a0d89e5492444ae60820" title="TransformShapeCommand\l::redo" alt="" coords="553,5,740,47"/>
+<area shape="rect" id="node4" href="$classTransformShapeCommand.html#adefad09c09e0ab150439fed8c45262db" title="TransformShapeCommand\l::undo" alt="" coords="553,71,740,112"/>
+</map>

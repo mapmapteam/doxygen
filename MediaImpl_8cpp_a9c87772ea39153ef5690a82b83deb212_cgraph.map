@@ -1,0 +1,10 @@
+<map id="gstPollShmsrc" name="gstPollShmsrc">
+<area shape="rect" id="node2" href="$classMediaImpl.html#a6f3fc5fba4b1152ed0adeec327a5dc94" title="When using the shared memory source, returns whether or not we are attached to a shared memory socket..." alt="" coords="163,5,327,32"/>
+<area shape="rect" id="node3" href="$classMediaImpl.html#a265a9c862f55511b35a903a9346b86c2" title="Returns the path to the media file being played. " alt="" coords="182,56,309,83"/>
+<area shape="rect" id="node4" href="$classMediaImpl.html#a617aadbf02013ca3bd1f481049cd7cbe" title="Tells the MediaImpl that we are actually reading from a shmsrc. " alt="" coords="164,107,327,133"/>
+<area shape="rect" id="node5" href="$classMediaImpl.html#ae4aa888270e1b711a72012dad8066d0c" title="MediaImpl::setPlayState" alt="" coords="161,157,329,184"/>
+<area shape="rect" id="node6" href="$classMediaImpl.html#abd5433f176a1caf24b86203349241582" title="MediaImpl::unloadMovie" alt="" coords="377,157,548,184"/>
+<area shape="rect" id="node7" href="$classMediaImpl.html#af426673c7e34bb887a3f970e599c59a2" title="MediaImpl::_setMovieReady" alt="" coords="596,132,791,159"/>
+<area shape="rect" id="node8" href="$classMediaImpl.html#a7a167513aaa53ad41682bb4f4d1aae82" title="MediaImpl::freeResources" alt="" coords="603,183,783,209"/>
+<area shape="rect" id="node9" href="$classMediaImpl.html#a7a1c6e799797e81695ef694f8834cd3d" title="MediaImpl::_freeCurrentSample" alt="" coords="839,183,1049,209"/>
+</map>

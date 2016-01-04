@@ -1,0 +1,8 @@
+<map id="Util::correctGlTexCoord" name="Util::correctGlTexCoord">
+<area shape="rect" id="node2" href="$classTextureGraphicsItem.html#a73dbad4408293dccec1c265b1c7d81e0" title="TextureGraphicsItem\l::_doDrawInput" alt="" coords="220,24,368,65"/>
+<area shape="rect" id="node4" href="$namespaceUtil.html#a2b06fd59c3dd967fbc20cc9c39fce47f" title="Takes a point (intputPoint) on texture and outputs it as a GL vertex on output (outputPoint). " alt="" coords="227,126,361,153"/>
+<area shape="rect" id="node3" href="$classTextureGraphicsItem.html#a444c9470ae70bf1c277baaf0d0d70475" title="Main paint function that needs to be overriden (called by paint()). " alt="" coords="441,5,589,47"/>
+<area shape="rect" id="node5" href="$classTriangleTextureGraphicsItem.html#acdb0ce112cba4b749fc493dd93ce0783" title="TriangleTextureGraphicsItem\l::_doDrawOutput" alt="" coords="416,71,615,112"/>
+<area shape="rect" id="node6" href="$classMeshTextureGraphicsItem.html#a37548c26ad6a064019698df0f4ecf573" title="MeshTextureGraphicsItem\l::_doDrawOutput" alt="" coords="425,136,606,177"/>
+<area shape="rect" id="node7" href="$classEllipseTextureGraphicsItem.html#add3ff2898043c44d4b10ab7df81bb655" title="EllipseTextureGraphicsItem\l::_doDrawOutput" alt="" coords="422,201,609,243"/>
+</map>

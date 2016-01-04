@@ -1,0 +1,7 @@
+<map id="MainWindow::displayControls" name="MainWindow::displayControls">
+<area shape="rect" id="node2" href="$classMapperGLCanvas.html#a4caa5ec632e0b850b409007ae14d2233" title="MapperGLCanvas::drawForeground" alt="" coords="255,5,495,32"/>
+<area shape="rect" id="node4" href="$classOutputGLWindow.html#a276d142ea35273a0134ccce228c995bb" title="OutputGLWindow::setFullScreen" alt="" coords="267,56,483,83"/>
+<area shape="rect" id="node3" href="$classOutputGLCanvas.html#a6a7e16c6f71da3bdba0e4949fd72d097" title="OutputGLCanvas::drawForeground" alt="" coords="543,5,775,32"/>
+<area shape="rect" id="node5" href="$classMainWindow.html#aa0916a59a9d7ee37159ed0a2e0528960" title="MainWindow::eventFilter" alt="" coords="573,56,744,83"/>
+<area shape="rect" id="node6" href="$classMainWindow.html#acb703adb275d5f27ee7ec9cfbdf35745" title="MainWindow::setOutputWindow\lFullScreen" alt="" coords="553,107,765,149"/>
+</map>

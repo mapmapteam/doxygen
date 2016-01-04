@@ -1,0 +1,12 @@
+<map id="MappingGui.h" name="MappingGui.h">
+<area shape="rect" id="node6" href="$Shape_8h.html" title="Shape.h" alt="" coords="1301,304,1372,331"/>
+<area shape="rect" id="node19" href="$Paint_8h.html" title="Paint.h" alt="" coords="461,304,524,331"/>
+<area shape="rect" id="node26" href="$Mapping_8h.html" title="Mapping.h" alt="" coords="1319,229,1402,256"/>
+<area shape="rect" id="node27" href="$MapperGLCanvas_8h.html" title="MapperGLCanvas.h" alt="" coords="1940,229,2083,256"/>
+<area shape="rect" id="node38" href="$ShapeGraphicsItem_8h.html" title="ShapeGraphicsItem.h" alt="" coords="1663,155,1813,181"/>
+<area shape="rect" id="node39" href="$ShapeControlPainter_8h.html" title="ShapeControlPainter.h" alt="" coords="1776,80,1932,107"/>
+<area shape="rect" id="node40" href="$Util_8h.html" title="Util.h" alt="" coords="907,229,958,256"/>
+<area shape="rect" id="node18" href="$Maths_8h.html" title="Maths.h" alt="" coords="672,379,740,405"/>
+<area shape="rect" id="node24" href="$UidAllocator_8h.html" title="UidAllocator.h" alt="" coords="349,379,455,405"/>
+<area shape="rect" id="node35" href="$MM_8h.html" title="MM.h" alt="" coords="1940,304,1995,331"/>
+</map>

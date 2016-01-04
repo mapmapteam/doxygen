@@ -1,0 +1,12 @@
+<map id="MapperGLCanvas" name="MapperGLCanvas">
+<area shape="rect" id="node5" href="$classDestinationGLCanvas.html" title="{DestinationGLCanvas\n||+ DestinationGLCanvas()\l+ ~DestinationGLCanvas()\l+ isOutput()\l+ getShapeFromMappingId()\l+ getShapeGraphicsItemFrom\lMappingId()\l}" alt="" coords="462,699,665,849"/>
+<area shape="rect" id="node11" href="$classSourceGLCanvas.html" title="{SourceGLCanvas\n||+ SourceGLCanvas()\l+ ~SourceGLCanvas()\l+ isOutput()\l+ getShapeFromMappingId()\l+ getShapeGraphicsItemFrom\lMappingId()\l}" alt="" coords="250,873,453,1024"/>
+<area shape="rect" id="node2" href="$classQGraphicsView.html" title="{QGraphicsView\n||}" alt="" coords="505,5,621,83"/>
+<area shape="rect" id="node3" href="$classMainWindow.html" title="This is the main window of MapMap. " alt="" coords="317,1651,546,2989"/>
+<area shape="rect" id="node6" href="$classPreferencesDialog.html" title="{PreferencesDialog\n|&#45; _osc_port_numbox\l&#45; _button_box\l|+ PreferencesDialog()\l# closeEvent()\l&#45; resetValues()\l&#45; accept_cb()\l&#45; reject_cb()\l}" alt="" coords="191,3052,346,3203"/>
+<area shape="rect" id="node4" href="$classQMainWindow.html" title="{QMainWindow\n||}" alt="" coords="748,1415,859,1493"/>
+<area shape="rect" id="node10" href="$classOutputGLCanvas.html" title="{OutputGLCanvas\n|&#45; _displayCrosshair\l&#45; _svg_test_signal\l&#45; _brush_test_signal\l|+ OutputGLCanvas()\l+ ~OutputGLCanvas()\l+ setDisplayCrosshair()\l+ drawForeground()\l# resizeGL()\l# wheelEvent()\l# mouseMoveEvent()\l&#45; _drawTestSignal()\l}" alt="" coords="381,1048,543,1257"/>
+<area shape="rect" id="node7" href="$classQDialog.html" title="{QDialog\n||}" alt="" coords="13,1114,85,1191"/>
+<area shape="rect" id="node9" href="$classOutputGLWindow.html" title="This class acts as the pop&#45;up window containing a copy of the destination canvas (see OutputGLCanvas)..." alt="" coords="26,1371,194,1537"/>
+<area shape="rect" id="node8" href="$classMappingManager.html" title="This is a container class for all the paints and mappings ie. " alt="" coords="218,1320,394,1588"/>
+</map>

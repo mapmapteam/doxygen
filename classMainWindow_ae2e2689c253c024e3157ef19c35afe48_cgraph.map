@@ -1,0 +1,4 @@
+<map id="MainWindow::rewind" name="MainWindow::rewind">
+<area shape="rect" id="node2" href="$classMappingManager.html#aef61397e0ebfebee3f98aa1bcef2e15b" title="Returns the i&#45;th paint in the vector. Good for iterating over all paints. " alt="" coords="201,5,385,32"/>
+<area shape="rect" id="node3" href="$classMappingManager.html#a681d3e7a713c6f8402ed0fe857cd1e8c" title="Returns the number of paints. " alt="" coords="204,56,383,83"/>
+</map>

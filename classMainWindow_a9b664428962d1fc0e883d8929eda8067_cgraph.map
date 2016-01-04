@@ -1,0 +1,8 @@
+<map id="MainWindow::setMappingVisible" name="MainWindow::setMappingVisible">
+<area shape="rect" id="node2" href="$classMainWindow.html#aeb868c14b8b36df1001736b97529dfb1" title="MainWindow::getItemFromId" alt="" coords="289,5,484,32"/>
+<area shape="rect" id="node5" href="$classMappingManager.html#a5f725de7227d100962da39ad646e9a03" title="Returns mapping with given uid. " alt="" coords="271,56,503,83"/>
+<area shape="rect" id="node6" href="$classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="281,107,492,133"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a4658dbe8953b4536ec18c3bb22d493ac" title="MainWindow::getItemRowFromId" alt="" coords="551,5,772,32"/>
+<area shape="rect" id="node4" href="$classMainWindow.html#a6eed84404b7bab6b22016d00499b49f7" title="MainWindow::getItemId" alt="" coords="820,5,983,32"/>
+<area shape="rect" id="node7" href="$classOutputGLWindow.html#a34496b89b9c541dd93ec0bf42b0aa129" title="OutputGLWindow::getCanvas" alt="" coords="561,107,761,133"/>
+</map>

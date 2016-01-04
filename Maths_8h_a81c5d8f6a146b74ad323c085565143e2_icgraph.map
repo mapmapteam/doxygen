@@ -1,0 +1,9 @@
+<map id="distSq" name="distSq">
+<area shape="rect" id="node2" href="$Maths_8h.html#a165774ff5ff8c09b3a8f139395b33a91" title="Euclidian distance between two points. " alt="" coords="137,5,179,32"/>
+<area shape="rect" id="node3" href="$classMapperGLCanvas.html#ab52fae5217c3d97ebcaa4a5099eb9053" title="MapperGLCanvas::mousePress\lEvent" alt="" coords="251,19,467,61"/>
+<area shape="rect" id="node4" href="$Maths_8h.html#a5e8854a0e0c55c065c58d2361a6d043b" title="Returns true iff point #p1# is within distance #radius# of #p2# (using euclidian distance). " alt="" coords="113,107,203,133"/>
+<area shape="rect" id="node5" href="$classMapperGLCanvas.html#a135b9b4b298bd1106b145f44bb4babbe" title="MapperGLCanvas::_glueVertex" alt="" coords="253,107,465,133"/>
+<area shape="rect" id="node6" href="$classMapperGLCanvas.html#a2741ecbd52014c1f657732a6ee917135" title="MapperGLCanvas::mouseRelease\lEvent" alt="" coords="515,66,747,107"/>
+<area shape="rect" id="node7" href="$classMapperGLCanvas.html#a0fc8394d1d84870f6e2f1fabdf7c7d85" title="MapperGLCanvas::mouseMove\lEvent" alt="" coords="523,131,738,173"/>
+<area shape="rect" id="node8" href="$classOutputGLCanvas.html#a7f96e84fdabf74506cbb5f5c94cc3f4a" title="OutputGLCanvas::mouseMove\lEvent" alt="" coords="795,131,1001,173"/>
+</map>

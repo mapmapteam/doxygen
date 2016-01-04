@@ -1,0 +1,9 @@
+<map id="MShape::setVertex" name="MShape::setVertex">
+<area shape="rect" id="node2" href="$classEllipse.html#a032b92370ae42a55292cc1a0b2395e50" title="Remaps points so as to make sure this is a correct ellipse, keeping vertices 0 and 2 as reference for..." alt="" coords="211,5,325,32"/>
+<area shape="rect" id="node4" href="$classEllipse.html#aa7d8231b6ba44671a96fcb4050e17e0e" title="Ellipse::setVertex" alt="" coords="417,56,544,83"/>
+<area shape="rect" id="node5" href="$classMappingGui.html#ab627360aab415d69328bacaa1911d642" title="MappingGui::setValue" alt="" coords="191,107,345,133"/>
+<area shape="rect" id="node8" href="$classMShape.html#a7669a98ffb2a821be77ebcb1ee51b9f3" title="MShape::setVertex" alt="" coords="199,157,337,184"/>
+<area shape="rect" id="node3" href="$classEllipse.html#a16a74ad464ad2773b5e716a7af943277" title="Ellipse::Ellipse" alt="" coords="427,5,535,32"/>
+<area shape="rect" id="node6" href="$classMappingGui.html#abe779681d664fd52025bf1e90809c41d" title="Constructor. A mapper applies to a mapping. " alt="" coords="393,107,568,133"/>
+<area shape="rect" id="node7" href="$classMeshTextureMappingGui.html#a4d26a0ebd010a595c151b018d9d5778d" title="MeshTextureMappingGui\l::setValue" alt="" coords="393,158,568,199"/>
+</map>

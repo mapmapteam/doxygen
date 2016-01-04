@@ -1,0 +1,6 @@
+<map id="TextureGui" name="TextureGui">
+<area shape="rect" id="node4" href="$classImageGui.html" title="{ImageGui\n|# image\l# _imageFileItem\l|+ ImageGui()\l+ ~ImageGui()\l+ setValue()\l}" alt="" coords="5,543,131,664"/>
+<area shape="rect" id="node5" href="$classMediaGui.html" title="{MediaGui\n|# media\l# _mediaFileItem\l# _mediaRateItem\l# _mediaVolumeItem\l|+ MediaGui()\l+ ~MediaGui()\l+ setValue()\l}" alt="" coords="155,528,304,679"/>
+<area shape="rect" id="node2" href="$classPaintGui.html" title="The view components corresponding to a Paint (which is the model) in the interface. " alt="" coords="70,131,226,325"/>
+<area shape="rect" id="node3" href="$classQObject.html" title="{QObject\n||}" alt="" coords="113,5,183,83"/>
+</map>

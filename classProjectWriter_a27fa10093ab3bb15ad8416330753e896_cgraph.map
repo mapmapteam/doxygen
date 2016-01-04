@@ -1,0 +1,16 @@
+<map id="ProjectWriter::writeItem" name="ProjectWriter::writeItem">
+<area shape="rect" id="node2" href="$classMapping.html#a0bc8269d51c3ddeaa123bbfa54692861" title="Mapping::getId" alt="" coords="245,5,356,32"/>
+<area shape="rect" id="node3" href="$classTextureMapping.html#a0ef0f44bf9583b5ad06c4707d25fbaef" title="Returns the input (source) shape (if this mapping has one) or a null pointer if not. " alt="" coords="213,57,388,98"/>
+<area shape="rect" id="node4" href="$classMapping.html#ac81960c02a041a75f609dbdf5ac43e10" title="Returns the paint. " alt="" coords="235,123,366,149"/>
+<area shape="rect" id="node5" href="$classMapping.html#a1d57c7a35c6a394101843eab8eee7872" title="Returns the (output) shape. " alt="" coords="231,173,370,200"/>
+<area shape="rect" id="node6" href="$classMShape.html#a18c0b9c53ca2d4376d7ec39377e2be2c" title="MShape::getType" alt="" coords="440,292,571,319"/>
+<area shape="rect" id="node7" href="$classMapping.html#a5bfa9603930b68d23dcc6cd5735d90e8" title="The type of the mapping (expressed as a string). " alt="" coords="235,275,367,301"/>
+<area shape="rect" id="node8" href="$classMapping.html#a652262a1514e0e0ea9f99d1a410a1369" title="Mapping::isLocked" alt="" coords="233,325,369,352"/>
+<area shape="rect" id="node9" href="$classMapping.html#a17c3d271a198e417802b4e37d4e423f2" title="Mapping::isSolo" alt="" coords="241,376,360,403"/>
+<area shape="rect" id="node10" href="$classMapping.html#addfa3a806f32cdea35dacdc56553527f" title="Mapping::isVisible" alt="" coords="235,427,366,453"/>
+<area shape="rect" id="node11" href="$classProjectWriter.html#abf8162bc38cfa04b391ab45e09e9c72d" title="ProjectWriter::writeShape\lVertices" alt="" coords="213,478,388,519"/>
+<area shape="rect" id="node12" href="$classMesh.html#a7cd6cccbbabbd010ffabd0d70481e642" title="Mesh::nColumns" alt="" coords="444,409,567,436"/>
+<area shape="rect" id="node13" href="$classMesh.html#a948a88e1c6c5b576c141d49c36efc274" title="Mesh::nRows" alt="" coords="453,460,557,487"/>
+<area shape="rect" id="node14" href="$classMShape.html#ab43b5ed4a2451cd5d1b1aeeb308fb1c0" title="MShape::nVertices" alt="" coords="437,511,573,537"/>
+<area shape="rect" id="node15" href="$classMShape.html#a188f2b437f86ab09fd08c157c1e12dea" title="MShape::getVertex" alt="" coords="436,561,575,588"/>
+</map>

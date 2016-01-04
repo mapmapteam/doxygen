@@ -1,0 +1,9 @@
+<map id="Ellipse::toUnitCircle" name="Ellipse::toUnitCircle">
+<area shape="rect" id="node2" href="$classEllipse.html#a45e3a08914eda116e521b28505567c99" title="Ellipse::getCenter" alt="" coords="222,107,350,133"/>
+<area shape="rect" id="node5" href="$classEllipse.html#a7d140ab03fbb96ec8ea8447e10e65b70" title="Ellipse::getHorizontalRadius" alt="" coords="191,5,381,32"/>
+<area shape="rect" id="node6" href="$classEllipse.html#a1b229abdb5f33e469968060bba2d6cd0" title="Ellipse::getRotationRadians" alt="" coords="193,56,379,83"/>
+<area shape="rect" id="node7" href="$classEllipse.html#af56d0e5ab3a476768b3b3b9b49d239ac" title="Ellipse::getVerticalRadius" alt="" coords="199,157,373,184"/>
+<area shape="rect" id="node3" href="$classEllipse.html#af9401c0579eeaf50bb35cb4f257f3c68" title="Ellipse::getHorizontalAxis" alt="" coords="429,56,604,83"/>
+<area shape="rect" id="node4" href="$classMShape.html#a188f2b437f86ab09fd08c157c1e12dea" title="MShape::getVertex" alt="" coords="652,107,791,133"/>
+<area shape="rect" id="node8" href="$classEllipse.html#a32837fca726ddc9cf849cec887a0358a" title="Ellipse::getVerticalAxis" alt="" coords="437,157,596,184"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Image" name="Image">
+<area shape="rect" id="node2" href="$classTexture.html" title="Paint that uses an OpenGL texture to paint on potentially any MappingGui. " alt="" coords="5,580,156,848"/>
+<area shape="rect" id="node3" href="$classPaint.html" title="A Paint is a style that can be applied when drawing potentially any shape. " alt="" coords="13,204,148,531"/>
+<area shape="rect" id="node4" href="$classUidAllocator.html" title="Allocates uids for instances by appending an incremental number to a given string. " alt="" coords="33,5,128,141"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DestinationGLCanvas::getShapeFromMappingId" name="DestinationGLCanvas::getShapeFromMappingId">
+<area shape="rect" id="node2" href="$classMapperGLCanvas.html#ae22e079a57cdcf1806d80411eb866f70" title="Stick vertex p of Shape orig to another Shape&#39;s vertex, if the 2 vertices are close enough..." alt="" coords="235,5,472,32"/>
+<area shape="rect" id="node3" href="$classMappingManager.html#a5f725de7227d100962da39ad646e9a03" title="Returns mapping with given uid. " alt="" coords="237,56,469,83"/>
+<area shape="rect" id="node4" href="$classMainWindow.html#a0eb87b81740e8b4751899bd553cd5701" title="MainWindow::getMappingManager" alt="" coords="237,107,469,133"/>
+</map>

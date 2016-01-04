@@ -1,0 +1,4 @@
+<map id="MainWindow::play" name="MainWindow::play">
+<area shape="rect" id="node2" href="$classMappingManager.html#aef61397e0ebfebee3f98aa1bcef2e15b" title="Returns the i&#45;th paint in the vector. Good for iterating over all paints. " alt="" coords="187,5,371,32"/>
+<area shape="rect" id="node3" href="$classMappingManager.html#a681d3e7a713c6f8402ed0fe857cd1e8c" title="Returns the number of paints. " alt="" coords="189,56,368,83"/>
+</map>

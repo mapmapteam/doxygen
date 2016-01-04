@@ -1,0 +1,15 @@
+<map id="MoveVertexCommand" name="MoveVertexCommand">
+<area shape="rect" id="node2" href="$classTransformShapeCommand.html" title="{TransformShapeCommand\n|# _shape\l# _option\l# _originalShape\l|+ TransformShapeCommand()\l+ undo()\l+ redo()\l+ mergeWith()\l# _doTransform()\l}" alt="" coords="706,712,913,877"/>
+<area shape="rect" id="node3" href="$classQUndoCommand.html" title="{QUndoCommand\n||}" alt="" coords="746,352,873,429"/>
+<area shape="rect" id="node4" href="$classMapperGLCanvas.html" title="Mother class for OpenGL canvases that allow the display and controls of shapes and vertices..." alt="" coords="285,132,507,649"/>
+<area shape="rect" id="node8" href="$classDestinationGLCanvas.html" title="{DestinationGLCanvas\n||+ DestinationGLCanvas()\l+ ~DestinationGLCanvas()\l+ isOutput()\l+ getShapeFromMappingId()\l+ getShapeGraphicsItemFrom\lMappingId()\l}" alt="" coords="391,719,593,870"/>
+<area shape="rect" id="node14" href="$classSourceGLCanvas.html" title="{SourceGLCanvas\n||+ SourceGLCanvas()\l+ ~SourceGLCanvas()\l+ isOutput()\l+ getShapeFromMappingId()\l+ getShapeGraphicsItemFrom\lMappingId()\l}" alt="" coords="252,901,455,1052"/>
+<area shape="rect" id="node5" href="$classQGraphicsView.html" title="{QGraphicsView\n||}" alt="" coords="338,5,454,83"/>
+<area shape="rect" id="node6" href="$classMainWindow.html" title="This is the main window of MapMap. " alt="" coords="277,1679,507,3017"/>
+<area shape="rect" id="node9" href="$classPreferencesDialog.html" title="{PreferencesDialog\n|&#45; _osc_port_numbox\l&#45; _button_box\l|+ PreferencesDialog()\l# closeEvent()\l&#45; resetValues()\l&#45; accept_cb()\l&#45; reject_cb()\l}" alt="" coords="443,3080,597,3231"/>
+<area shape="rect" id="node7" href="$classQMainWindow.html" title="{QMainWindow\n||}" alt="" coords="43,1443,154,1521"/>
+<area shape="rect" id="node13" href="$classOutputGLCanvas.html" title="{OutputGLCanvas\n|&#45; _displayCrosshair\l&#45; _svg_test_signal\l&#45; _brush_test_signal\l|+ OutputGLCanvas()\l+ ~OutputGLCanvas()\l+ setDisplayCrosshair()\l+ drawForeground()\l# resizeGL()\l# wheelEvent()\l# mouseMoveEvent()\l&#45; _drawTestSignal()\l}" alt="" coords="519,1076,681,1285"/>
+<area shape="rect" id="node10" href="$classQDialog.html" title="{QDialog\n||}" alt="" coords="705,1142,777,1219"/>
+<area shape="rect" id="node12" href="$classOutputGLWindow.html" title="This class acts as the pop&#45;up window containing a copy of the destination canvas (see OutputGLCanvas)..." alt="" coords="536,1399,704,1565"/>
+<area shape="rect" id="node11" href="$classMappingManager.html" title="This is a container class for all the paints and mappings ie. " alt="" coords="179,1348,355,1616"/>
+</map>

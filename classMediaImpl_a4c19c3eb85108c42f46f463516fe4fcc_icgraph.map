@@ -1,0 +1,4 @@
+<map id="MediaImpl::setVolume" name="MediaImpl::setVolume">
+<area shape="rect" id="node2" href="$classMedia.html#af95d6943b4f49a067ebc4a2b734b3389" title="Sets audio playback volume (in %). " alt="" coords="209,5,341,32"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#aec1ca4f86414c08eccd5c1c0ce321f73" title="MainWindow::setTextureVolume" alt="" coords="389,5,608,32"/>
+</map>

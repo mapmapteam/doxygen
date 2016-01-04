@@ -1,0 +1,6 @@
+<map id="MeshTextureMappingGui" name="MeshTextureMappingGui">
+<area shape="rect" id="node2" href="$classPolygonTextureMappingGui.html" title="{PolygonTextureMappingGui\n||+ PolygonTextureMappingGui()\l+ ~PolygonTextureMappingGui()\l}" alt="" coords="5,733,224,825"/>
+<area shape="rect" id="node3" href="$classTextureMappingGui.html" title="Parent class for texture &#45;&gt; texture mapping. " alt="" coords="30,520,199,685"/>
+<area shape="rect" id="node4" href="$classMappingGui.html" title="This is the &quot;view&quot; side of the Mapping class (model). " alt="" coords="25,131,204,472"/>
+<area shape="rect" id="node5" href="$classQObject.html" title="{QObject\n||}" alt="" coords="79,5,150,83"/>
+</map>

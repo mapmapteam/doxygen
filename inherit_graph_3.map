@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classMapping.html" title="Mapping is the central concept of this software. " alt="" coords="5,31,79,57"/>
+<area shape="rect" id="node2" href="$classColorMapping.html" title="Mapping of a Color paint into a shape. " alt="" coords="133,5,240,32"/>
+<area shape="rect" id="node3" href="$classTextureMapping.html" title="Object whose paint is an image texture. " alt="" coords="127,56,247,83"/>
+</map>

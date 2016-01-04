@@ -1,0 +1,5 @@
+<map id="OutputGLCanvas" name="OutputGLCanvas">
+<area shape="rect" id="node2" href="$classDestinationGLCanvas.html" title="{DestinationGLCanvas\n||+ DestinationGLCanvas()\l+ ~DestinationGLCanvas()\l+ isOutput()\l+ getShapeFromMappingId()\l+ getShapeGraphicsItemFrom\lMappingId()\l}" alt="" coords="15,711,218,861"/>
+<area shape="rect" id="node3" href="$classMapperGLCanvas.html" title="Mother class for OpenGL canvases that allow the display and controls of shapes and vertices..." alt="" coords="5,131,228,663"/>
+<area shape="rect" id="node4" href="$classQGraphicsView.html" title="{QGraphicsView\n||}" alt="" coords="59,5,175,83"/>
+</map>

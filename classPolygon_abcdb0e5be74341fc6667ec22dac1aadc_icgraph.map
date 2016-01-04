@@ -1,0 +1,15 @@
+<map id="Polygon::toPolygon" name="Polygon::toPolygon">
+<area shape="rect" id="node2" href="$classMeshTextureGraphicsItem.html#a37548c26ad6a064019698df0f4ecf573" title="MeshTextureGraphicsItem\l::_doDrawOutput" alt="" coords="688,115,869,156"/>
+<area shape="rect" id="node3" href="$classPolygonColorGraphicsItem.html#ade817253f12a34aeeddc85a90410fdfa" title="Main paint function that needs to be overriden (called by paint()). " alt="" coords="202,71,386,112"/>
+<area shape="rect" id="node4" href="$classPolygon.html#ad1692e9e834f59269a034fe6e0a7dfaa" title="Returns all line segments of the polygon. " alt="" coords="211,238,377,265"/>
+<area shape="rect" id="node6" href="$classPolygon.html#a4f720fa6f6b9f3c10f40b397b06f125a" title="Polygon::setVertex" alt="" coords="710,202,847,229"/>
+<area shape="rect" id="node7" href="$classMesh.html#aad7c33e24067bdaf002f7c48dd616002" title="Mesh::setVertex" alt="" coords="719,414,839,441"/>
+<area shape="rect" id="node8" href="$classPolygonControlPainter.html#adb676c3371605930d669701b65580f51" title="PolygonControlPainter\l::_paintShape" alt="" coords="215,289,373,331"/>
+<area shape="rect" id="node9" href="$namespaceUtil.html#acd3a17301d5969f0b435a51c3e3f5cc8" title="Util::drawControlsPolygon" alt="" coords="205,355,383,382"/>
+<area shape="rect" id="node10" href="$namespaceUtil.html#a8154b0fba28e9f57b6f4cad4c6405365" title="Util::drawControlsQuad" alt="" coords="213,406,375,433"/>
+<area shape="rect" id="node11" href="$classPolygon.html#a44d27744a7e00bf011737f14d2dc4fb5" title="Polygon::includesPoint" alt="" coords="214,457,374,483"/>
+<area shape="rect" id="node12" href="$classPolygonColorGraphicsItem.html#a280e95a1785277689dc6a8d8e91e9186" title="PolygonColorGraphicsItem\l::shape" alt="" coords="202,508,386,549"/>
+<area shape="rect" id="node13" href="$classPolygonTextureGraphicsItem.html#ae4501707821a1d1968236e67e587e33f" title="PolygonTextureGraphicsItem\l::shape" alt="" coords="195,5,393,47"/>
+<area shape="rect" id="node5" href="$classPolygon.html#ac477fb214a0de13fbf34eef6725c6572" title="Makes sure vertex v as the i&#45;th point of polygon stays inside the polygon. " alt="" coords="451,238,631,265"/>
+<area shape="rect" id="node14" href="$classPolygonTextureGraphicsItem.html#a6da9326eed742ade5870774538ab907b" title="Returns the bounding rectangle of this item. " alt="" coords="441,39,640,80"/>
+</map>

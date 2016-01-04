@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classPaint.html" title="A Paint is a style that can be applied when drawing potentially any shape. " alt="" coords="5,31,57,57"/>
+<area shape="rect" id="node2" href="$classColor.html" title="Color" alt="" coords="113,5,167,32"/>
+<area shape="rect" id="node3" href="$classTexture.html" title="Paint that uses an OpenGL texture to paint on potentially any MappingGui. " alt="" coords="105,56,175,83"/>
+<area shape="rect" id="node4" href="$classImage.html" title="Paint that is a Texture loaded from an image file. " alt="" coords="223,31,283,57"/>
+<area shape="rect" id="node5" href="$classMedia.html" title="Paint that is a Texture retrieved via a video file. " alt="" coords="223,81,283,108"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MappingGui::updateShape" name="MappingGui::updateShape">
+<area shape="rect" id="node2" href="$classMappingGui.html#aaea8088329a86b94556ce6ccd4dc952a" title="MappingGui::_updateShape\lProperty" alt="" coords="236,23,425,65"/>
+<area shape="rect" id="node3" href="$classMShape.html#a188f2b437f86ab09fd08c157c1e12dea" title="MShape::getVertex" alt="" coords="473,5,612,32"/>
+<area shape="rect" id="node4" href="$classMShape.html#ab43b5ed4a2451cd5d1b1aeeb308fb1c0" title="MShape::nVertices" alt="" coords="475,56,611,83"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="MediaImpl::_freeCurrentSample" name="MediaImpl::_freeCurrentSample">
+<area shape="rect" id="node2" href="$classMediaImpl.html#a7a167513aaa53ad41682bb4f4d1aae82" title="MediaImpl::freeResources" alt="" coords="264,157,444,184"/>
+<area shape="rect" id="node20" href="$classMediaImpl.html#a5e614dc868027a41e41e725f1c55d94b" title="MediaImpl::gstNewSampleCallback" alt="" coords="711,259,947,285"/>
+<area shape="rect" id="node3" href="$classMediaImpl.html#a364b93270719596ce67a92e6e84f804c" title="Loads a new movie file. " alt="" coords="1151,81,1307,108"/>
+<area shape="rect" id="node14" href="$classMediaImpl.html#abd5433f176a1caf24b86203349241582" title="MediaImpl::unloadMovie" alt="" coords="492,132,663,159"/>
+<area shape="rect" id="node19" href="$classMediaImpl.html#a3dd2e522e474052ef6e279ef81ad43f6" title="MediaImpl::~MediaImpl" alt="" coords="496,183,659,209"/>
+<area shape="rect" id="node4" href="$classMediaImpl.html#a0f2ab8f5c0778239962f1816d0eb8ff9" title="Sets up the player. " alt="" coords="1374,5,1494,32"/>
+<area shape="rect" id="node6" href="$classMediaImpl.html#a67edb3505bd9e7c694581f5e50b97860" title="Constructor. " alt="" coords="1357,56,1511,83"/>
+<area shape="rect" id="node7" href="$classMediaImpl.html#a6c123a38664796c456cccdf8d312cde5" title="MediaImpl::resetMovie" alt="" coords="1355,107,1513,133"/>
+<area shape="rect" id="node12" href="$classMedia.html#afb50200cb9efac52f076c12df2c46875" title="Media::setUri" alt="" coords="1383,183,1485,209"/>
+<area shape="rect" id="node5" href="$classMedia.html#a3beeb09f11c250c011879e80a43734c2" title="Media::build" alt="" coords="1613,5,1709,32"/>
+<area shape="rect" id="node8" href="$classMediaImpl.html#a1b3c56a9999ceddda8f25e6f4f473f2e" title="MediaImpl::_checkMessages" alt="" coords="1561,56,1760,83"/>
+<area shape="rect" id="node9" href="$classMediaImpl.html#a8361b37f539edbc19108c2d24377543d" title="Performs regular updates (checks if movie is ready and checks messages). " alt="" coords="1808,81,1941,108"/>
+<area shape="rect" id="node11" href="$classMedia.html#aadddefe94f3ab80831fd31ff8dd04782" title="Rewinds. " alt="" coords="1607,157,1715,184"/>
+<area shape="rect" id="node10" href="$classMedia.html#af3bb28228a0d4f1e260a3f2fcc2e344e" title="This method should be called at each call of draw(). " alt="" coords="1989,81,2099,108"/>
+<area shape="rect" id="node13" href="$classMainWindow.html#afa7bc26b0db51d55cd536bc717efa80d" title="MainWindow::setTextureUri" alt="" coords="1566,208,1755,235"/>
+<area shape="rect" id="node15" href="$classMediaImpl.html#ae4aa888270e1b711a72012dad8066d0c" title="MediaImpl::setPlayState" alt="" coords="745,132,913,159"/>
+<area shape="rect" id="node16" href="$MediaImpl_8cpp.html#a9c87772ea39153ef5690a82b83deb212" title="gstPollShmsrc" alt="" coords="995,132,1103,159"/>
+<area shape="rect" id="node17" href="$classMedia.html#acf0516678b22e76a4d0444bf017e006a" title="Pauses playback. " alt="" coords="996,183,1101,209"/>
+<area shape="rect" id="node18" href="$classMedia.html#a03fbc5600a1a995a44edccf4c2e2e237" title="Starts playback. " alt="" coords="1002,233,1095,260"/>
+</map>

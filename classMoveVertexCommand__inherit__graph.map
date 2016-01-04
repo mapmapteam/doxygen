@@ -1,0 +1,4 @@
+<map id="MoveVertexCommand" name="MoveVertexCommand">
+<area shape="rect" id="node2" href="$classTransformShapeCommand.html" title="{TransformShapeCommand\n|# _canvas\l# _shape\l# _option\l# _originalShape\l|+ TransformShapeCommand()\l+ undo()\l+ redo()\l+ mergeWith()\l# _doTransform()\l}" alt="" coords="5,131,212,311"/>
+<area shape="rect" id="node3" href="$classQUndoCommand.html" title="{QUndoCommand\n||}" alt="" coords="45,5,172,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="MediaImpl::_isMovieReady" name="MediaImpl::_isMovieReady">
+<area shape="rect" id="node2" href="$classMediaImpl.html#a1b3c56a9999ceddda8f25e6f4f473f2e" title="MediaImpl::_checkMessages" alt="" coords="240,5,439,32"/>
+<area shape="rect" id="node5" href="$classMediaImpl.html#a09bd468ffcbdd47dc7f672fde84aac97" title="MediaImpl::_updateRate" alt="" coords="255,56,423,83"/>
+<area shape="rect" id="node3" href="$classMediaImpl.html#a8361b37f539edbc19108c2d24377543d" title="Performs regular updates (checks if movie is ready and checks messages). " alt="" coords="489,5,623,32"/>
+<area shape="rect" id="node4" href="$classMedia.html#af3bb28228a0d4f1e260a3f2fcc2e344e" title="This method should be called at each call of draw(). " alt="" coords="676,5,785,32"/>
+<area shape="rect" id="node6" href="$classMediaImpl.html#a0116d6189357dad1862dc88260c2ba1b" title="MediaImpl::setRate" alt="" coords="487,56,625,83"/>
+<area shape="rect" id="node7" href="$classMedia.html#a9085d8c284463f26037575136898d5b6" title="Sets playback rate (in %). Negative values mean reverse playback. " alt="" coords="673,56,788,83"/>
+<area shape="rect" id="node8" href="$classMedia.html#a5924be75e60b0b7a8e20bc312a15b627" title="Media::Media" alt="" coords="883,31,990,57"/>
+<area shape="rect" id="node9" href="$classMainWindow.html#aec259be216a2b64fa1650900d365752a" title="MainWindow::setTextureRate" alt="" coords="836,81,1037,108"/>
+</map>
