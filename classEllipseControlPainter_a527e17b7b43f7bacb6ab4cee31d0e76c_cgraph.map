@@ -1,0 +1,15 @@
+<map id="EllipseControlPainter::_paintShape" name="EllipseControlPainter::_paintShape">
+<area shape="rect" id="node2" href="$classEllipse.html#a45e3a08914eda116e521b28505567c99" title="Ellipse::getCenter" alt="" coords="491,5,619,32"/>
+<area shape="rect" id="node5" href="$classEllipse.html#a7d140ab03fbb96ec8ea8447e10e65b70" title="Ellipse::getHorizontalRadius" alt="" coords="200,56,391,83"/>
+<area shape="rect" id="node6" href="$classShapeControlPainter.html#a6172af882c2ca08409da17498a75ccba" title="ShapeControlPainter\l::getRescaledShapeStroke" alt="" coords="203,107,388,149"/>
+<area shape="rect" id="node8" href="$classEllipse.html#a41bb574712c32c3de25c7854ad60ad93" title="Ellipse::getRotation" alt="" coords="227,173,364,200"/>
+<area shape="rect" id="node11" href="$classShapeControlPainter.html#a8e1b17d6aaecee9367294b52af667936" title="ShapeControlPainter\l::getShape" alt="" coords="222,242,369,283"/>
+<area shape="rect" id="node13" href="$classEllipse.html#af56d0e5ab3a476768b3b3b9b49d239ac" title="Ellipse::getVerticalRadius" alt="" coords="208,316,383,343"/>
+<area shape="rect" id="node3" href="$classEllipse.html#af9401c0579eeaf50bb35cb4f257f3c68" title="Ellipse::getHorizontalAxis" alt="" coords="720,56,895,83"/>
+<area shape="rect" id="node4" href="$classMShape.html#a188f2b437f86ab09fd08c157c1e12dea" title="MShape::getVertex" alt="" coords="943,56,1081,83"/>
+<area shape="rect" id="node7" href="$classMapperGLCanvas.html#a420b3961b9d8467cb49a98340051ed91" title="MapperGLCanvas::getZoomFactor" alt="" coords="439,107,672,133"/>
+<area shape="rect" id="node9" href="$classEllipse.html#a1b229abdb5f33e469968060bba2d6cd0" title="Ellipse::getRotationRadians" alt="" coords="462,157,649,184"/>
+<area shape="rect" id="node10" href="$Maths_8h.html#ae7f5dc16bb7c816ccaf596e0bdcfe161" title="Converts from radians to degrees. " alt="" coords="486,208,625,235"/>
+<area shape="rect" id="node12" href="$classShapeGraphicsItem.html#a0616e5da39fa76e4a488d93088031731" title="Returns the MShape (depends on mapping and whether this is an input or output). " alt="" coords="481,259,629,301"/>
+<area shape="rect" id="node14" href="$classEllipse.html#a32837fca726ddc9cf849cec887a0358a" title="Ellipse::getVerticalAxis" alt="" coords="728,216,887,243"/>
+</map>

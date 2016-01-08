@@ -3,7 +3,7 @@
 <area shape="rect" id="node6" href="$classEllipse.html#a032b92370ae42a55292cc1a0b2395e50" title="Remaps points so as to make sure this is a correct ellipse, keeping vertices 0 and 2 as reference for..." alt="" coords="1368,402,1483,429"/>
 <area shape="rect" id="node18" href="$classEllipse.html#a7d140ab03fbb96ec8ea8447e10e65b70" title="Ellipse::getHorizontalRadius" alt="" coords="463,151,653,178"/>
 <area shape="rect" id="node19" href="$classEllipse.html#a1b229abdb5f33e469968060bba2d6cd0" title="Ellipse::getRotationRadians" alt="" coords="228,151,415,178"/>
-<area shape="rect" id="node3" href="$classEllipseControlPainter.html#ad858b1c8f52a54245ca047619c4cef9e" title="EllipseControlPainter\l::_paintShape" alt="" coords="721,136,868,177"/>
+<area shape="rect" id="node3" href="$classEllipseControlPainter.html#a527e17b7b43f7bacb6ab4cee31d0e76c" title="EllipseControlPainter\l::_paintShape" alt="" coords="721,136,868,177"/>
 <area shape="rect" id="node4" href="$namespaceUtil.html#a402d544da53b6fbee636acb6b9d2be1b" title="Util::drawControlsEllipse" alt="" coords="711,202,878,229"/>
 <area shape="rect" id="node5" href="$classEllipse.html#ab1e89c0f12a6272812776f0885c1bcc9" title="Ellipse::Ellipse" alt="" coords="741,354,849,381"/>
 <area shape="rect" id="node8" href="$classEllipse.html#aa7d8231b6ba44671a96fcb4050e17e0e" title="Ellipse::setVertex" alt="" coords="1531,297,1657,323"/>

@@ -1,5 +1,5 @@
 <map id="PolygonColorGraphicsItem" name="PolygonColorGraphicsItem">
-<area shape="rect" id="node2" href="$classColorGraphicsItem.html" title="{ColorGraphicsItem\n||+ ~ColorGraphicsItem()\l# ColorGraphicsItem()\l# _prePaint()\l}" alt="" coords="30,505,193,612"/>
-<area shape="rect" id="node3" href="$classShapeGraphicsItem.html" title="Represents a shape as part of a scene graph in one of the GL canvas. " alt="" coords="13,131,210,457"/>
+<area shape="rect" id="node2" href="$classColorGraphicsItem.html" title="{ColorGraphicsItem\n||+ ~ColorGraphicsItem()\l# ColorGraphicsItem()\l# _prePaint()\l}" alt="" coords="30,491,193,597"/>
+<area shape="rect" id="node3" href="$classShapeGraphicsItem.html" title="Represents a shape as part of a scene graph in one of the GL canvas. " alt="" coords="27,131,195,443"/>
 <area shape="rect" id="node4" href="$classQGraphicsItem.html" title="{QGraphicsItem\n||}" alt="" coords="56,5,167,83"/>
 </map>

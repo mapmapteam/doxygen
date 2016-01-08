@@ -6,7 +6,7 @@
 <area shape="rect" id="node6" href="$Maths_8h.html#a89def7cb1ec18125de72c19940fc487d" title="Square of x. " alt="" coords="893,848,931,875"/>
 <area shape="rect" id="node7" href="$classMapperGLCanvas.html#a94e50bea25cadd6de25091cfed85cbee" title="MapperGLCanvas::getCurrent\lShape" alt="" coords="287,1217,489,1258"/>
 <area shape="rect" id="node8" href="$classMapperGLCanvas.html#abbee2789b22a1c32cb1c9c3b5f1863ae" title="MapperGLCanvas::getShape\lFromMappingId" alt="" coords="555,1158,753,1199"/>
-<area shape="rect" id="node15" href="$classMainWindow.html#a0eb87b81740e8b4751899bd553cd5701" title="MainWindow::getMappingManager" alt="" coords="1644,928,1876,955"/>
+<area shape="rect" id="node15" href="$classMainWindow.html#a0eb87b81740e8b4751899bd553cd5701" title="MainWindow::getMappingManager" alt="" coords="1660,928,1892,955"/>
 <area shape="rect" id="node45" href="$classMapperGLCanvas.html#ae22e079a57cdcf1806d80411eb866f70" title="Stick vertex p of Shape orig to another Shape&#39;s vertex, if the 2 vertices are close enough..." alt="" coords="269,1384,507,1411"/>
 <area shape="rect" id="node46" href="$classMappingManager.html#a0d427b746cf6aa1326ca67d4a9f88ab0" title="MappingManager::getVisible\lMappings" alt="" coords="291,1435,485,1477"/>
 <area shape="rect" id="node47" href="$classMapperGLCanvas.html#a6e1571ff03935b8d80235dc2b41c6bcb" title="Returns shape associated with mapping id. " alt="" coords="295,1501,481,1528"/>
@@ -14,10 +14,10 @@
 <area shape="rect" id="node9" href="$classMainWindow.html#a4f7e1bd77c8b2e64bd374874ff347ede" title="MainWindow::instance" alt="" coords="575,1224,733,1251"/>
 <area shape="rect" id="node10" href="$classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb" title="MainWindow::MainWindow" alt="" coords="819,899,1005,925"/>
 <area shape="rect" id="node11" href="$classMainWindow.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="1103,768,1293,795"/>
-<area shape="rect" id="node19" href="$classMainWindow.html#affa76730fa370a3466b62a4caee721e3" title="MainWindow::updateRecent\lFileActions" alt="" coords="1924,281,2115,322"/>
-<area shape="rect" id="node26" href="$classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="1655,440,1865,467"/>
-<area shape="rect" id="node32" href="$classMainWindow.html#a3631bdedbef1d5d7e3ea87b62a80d94e" title="MainWindow::setCurrentFile" alt="" coords="1665,237,1855,264"/>
-<area shape="rect" id="node34" href="$classMainWindow.html#a4f035b25b6181829a9275155e3ca9bbd" title="MainWindow::play" alt="" coords="1418,1181,1551,1208"/>
+<area shape="rect" id="node19" href="$classMainWindow.html#affa76730fa370a3466b62a4caee721e3" title="MainWindow::updateRecent\lFileActions" alt="" coords="1940,281,2131,322"/>
+<area shape="rect" id="node26" href="$classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="1671,440,1881,467"/>
+<area shape="rect" id="node32" href="$classMainWindow.html#a3631bdedbef1d5d7e3ea87b62a80d94e" title="MainWindow::setCurrentFile" alt="" coords="1681,237,1871,264"/>
+<area shape="rect" id="node34" href="$classMainWindow.html#a4f035b25b6181829a9275155e3ca9bbd" title="MainWindow::play" alt="" coords="1426,1181,1559,1208"/>
 <area shape="rect" id="node35" href="$classMainWindow.html#a1f9461bcb5778d6f3e578d2f7f5e91f8" title="MainWindow::createLayout" alt="" coords="1105,869,1291,896"/>
 <area shape="rect" id="node36" href="$classMainWindow.html#a0a617e8e1ea850a95f6fb98f0149b73a" title="MainWindow::createMapping\lContextMenu" alt="" coords="1099,921,1297,962"/>
 <area shape="rect" id="node37" href="$classMainWindow.html#aa4907b0251d305659e403c62921ef331" title="MainWindow::createMenus" alt="" coords="1105,987,1291,1013"/>
@@ -26,26 +26,26 @@
 <area shape="rect" id="node40" href="$classMainWindow.html#acce4e32b95d3d5cb48470c053a1740c2" title="MainWindow::createToolBars" alt="" coords="1097,1139,1299,1165"/>
 <area shape="rect" id="node41" href="$classMedia.html#a2e556609d9e1cdcc89dfab2c3f20e8de" title="Checks whether or not video is supported on this platform. " alt="" coords="1113,5,1283,32"/>
 <area shape="rect" id="node42" href="$classMainWindow.html#a06476208b8466211f3bb0fcae787052b" title="MainWindow::readSettings" alt="" coords="1106,107,1290,133"/>
-<area shape="rect" id="node43" href="$classMainWindow.html#acef373bab5d075a62cb95daec37b8bd8" title="MainWindow::updateRecent\lVideoActions" alt="" coords="1389,121,1580,162"/>
+<area shape="rect" id="node43" href="$classMainWindow.html#acef373bab5d075a62cb95daec37b8bd8" title="MainWindow::updateRecent\lVideoActions" alt="" coords="1397,121,1588,162"/>
 <area shape="rect" id="node44" href="$classMainWindow.html#a14c9d0130057d50cc0f6d2158017dcfb" title="MainWindow::startOscReceiver" alt="" coords="1093,56,1303,83"/>
-<area shape="rect" id="node12" href="$classMainWindow.html#a7be6a5d98970ac1a6296c6f9aee1e9bb" title="MainWindow::about" alt="" coords="1414,557,1555,584"/>
-<area shape="rect" id="node13" href="$classMainWindow.html#a21617f9c17c835feb00242669db12f58" title="MainWindow::addColor" alt="" coords="1402,608,1567,635"/>
-<area shape="rect" id="node14" href="$classMainWindow.html#a8abadd370aa45d729c93333d0cdaff25" title="MainWindow::addEllipse" alt="" coords="1399,877,1570,904"/>
-<area shape="rect" id="node16" href="$classMainWindow.html#afd96c759c09ed53670cd4bfe96154193" title="MainWindow::addMesh" alt="" coords="1402,979,1567,1005"/>
-<area shape="rect" id="node17" href="$classMainWindow.html#a363cdc52f843d78ecd1905d9cb905852" title="MainWindow::addTriangle" alt="" coords="1393,725,1576,752"/>
-<area shape="rect" id="node18" href="$classMainWindow.html#adf4eeeb0264b6900cc13ac579bfdec9a" title="MainWindow::clearRecentFileList" alt="" coords="1649,339,1871,365"/>
-<area shape="rect" id="node20" href="$classMainWindow.html#a616a8405c4ed083d9ea01cad8613c92c" title="MainWindow::cloneItem" alt="" coords="1401,1131,1568,1157"/>
-<area shape="rect" id="node22" href="$classMainWindow.html#a4d84472e785e23988160f93f4282d23c" title="MainWindow::deleteMappingItem" alt="" coords="1373,1029,1596,1056"/>
-<area shape="rect" id="node23" href="$classMainWindow.html#a25c9709f00a7cecf44f7f297f23550de" title="MainWindow::deletePaintItem" alt="" coords="1384,1080,1585,1107"/>
-<area shape="rect" id="node24" href="$classMainWindow.html#abe929556c320ffe886bd6a5c303dd586" title="MainWindow::displayUndoStack" alt="" coords="1376,339,1593,365"/>
-<area shape="rect" id="node25" href="$classMainWindow.html#a797729b37eaeb93ce811c3038d05a40c" title="MainWindow::enableDisplay\lControls" alt="" coords="1387,659,1582,701"/>
-<area shape="rect" id="node27" href="$classMainWindow.html#a1445e292556fdc18d2baf339ca573778" title="MainWindow::enableSticky\lVertices" alt="" coords="1392,491,1577,533"/>
-<area shape="rect" id="node28" href="$classMainWindow.html#a2bf13c67d7025fb51805e1699a0831ab" title="MainWindow::enableTestSignal" alt="" coords="1377,440,1592,467"/>
-<area shape="rect" id="node29" href="$classMainWindow.html#a3cda8590f905d291404bacee1aa8feb0" title="MainWindow::importImage" alt="" coords="1393,776,1576,803"/>
-<area shape="rect" id="node30" href="$classMainWindow.html#a460b782ea4e2a92b75ea97996c09d7b0" title="MainWindow::importVideo" alt="" coords="1395,827,1575,853"/>
-<area shape="rect" id="node31" href="$classMainWindow.html#a69f73b93cc05c89a9ae1be0161105982" title="MainWindow::newFile" alt="" coords="1407,237,1562,264"/>
-<area shape="rect" id="node33" href="$classMainWindow.html#aa7473e4bbbcc281706ac2edef864fb45" title="MainWindow::open" alt="" coords="1415,928,1554,955"/>
-<area shape="rect" id="node21" href="$classMainWindow.html#a6eed84404b7bab6b22016d00499b49f7" title="MainWindow::getItemId" alt="" coords="1679,1105,1841,1132"/>
+<area shape="rect" id="node12" href="$classMainWindow.html#a7be6a5d98970ac1a6296c6f9aee1e9bb" title="MainWindow::about" alt="" coords="1422,557,1563,584"/>
+<area shape="rect" id="node13" href="$classMainWindow.html#a21617f9c17c835feb00242669db12f58" title="MainWindow::addColor" alt="" coords="1410,608,1575,635"/>
+<area shape="rect" id="node14" href="$classMainWindow.html#a8abadd370aa45d729c93333d0cdaff25" title="MainWindow::addEllipse" alt="" coords="1407,877,1578,904"/>
+<area shape="rect" id="node16" href="$classMainWindow.html#afd96c759c09ed53670cd4bfe96154193" title="MainWindow::addMesh" alt="" coords="1410,979,1575,1005"/>
+<area shape="rect" id="node17" href="$classMainWindow.html#a363cdc52f843d78ecd1905d9cb905852" title="MainWindow::addTriangle" alt="" coords="1401,725,1584,752"/>
+<area shape="rect" id="node18" href="$classMainWindow.html#adf4eeeb0264b6900cc13ac579bfdec9a" title="MainWindow::clearRecentFileList" alt="" coords="1665,339,1887,365"/>
+<area shape="rect" id="node20" href="$classMainWindow.html#a4d84472e785e23988160f93f4282d23c" title="MainWindow::deleteMappingItem" alt="" coords="1381,1131,1604,1157"/>
+<area shape="rect" id="node22" href="$classMainWindow.html#a25c9709f00a7cecf44f7f297f23550de" title="MainWindow::deletePaintItem" alt="" coords="1392,1029,1593,1056"/>
+<area shape="rect" id="node23" href="$classMainWindow.html#abe929556c320ffe886bd6a5c303dd586" title="MainWindow::displayUndoStack" alt="" coords="1384,339,1601,365"/>
+<area shape="rect" id="node24" href="$classMainWindow.html#a634190288e3563f9c1097e950c35426f" title="MainWindow::duplicateMappingItem" alt="" coords="1373,1080,1612,1107"/>
+<area shape="rect" id="node25" href="$classMainWindow.html#a797729b37eaeb93ce811c3038d05a40c" title="MainWindow::enableDisplay\lControls" alt="" coords="1395,659,1590,701"/>
+<area shape="rect" id="node27" href="$classMainWindow.html#a1445e292556fdc18d2baf339ca573778" title="MainWindow::enableSticky\lVertices" alt="" coords="1400,491,1585,533"/>
+<area shape="rect" id="node28" href="$classMainWindow.html#a2bf13c67d7025fb51805e1699a0831ab" title="MainWindow::enableTestSignal" alt="" coords="1385,440,1600,467"/>
+<area shape="rect" id="node29" href="$classMainWindow.html#a3cda8590f905d291404bacee1aa8feb0" title="MainWindow::importImage" alt="" coords="1401,776,1584,803"/>
+<area shape="rect" id="node30" href="$classMainWindow.html#a460b782ea4e2a92b75ea97996c09d7b0" title="MainWindow::importVideo" alt="" coords="1403,827,1583,853"/>
+<area shape="rect" id="node31" href="$classMainWindow.html#a69f73b93cc05c89a9ae1be0161105982" title="MainWindow::newFile" alt="" coords="1415,237,1570,264"/>
+<area shape="rect" id="node33" href="$classMainWindow.html#aa7473e4bbbcc281706ac2edef864fb45" title="MainWindow::open" alt="" coords="1423,928,1562,955"/>
+<area shape="rect" id="node21" href="$classMainWindow.html#a6eed84404b7bab6b22016d00499b49f7" title="MainWindow::getItemId" alt="" coords="1695,1105,1857,1132"/>
 <area shape="rect" id="node49" href="$classMainWindow.html#a4658dbe8953b4536ec18c3bb22d493ac" title="MainWindow::getItemRowFromId" alt="" coords="801,1333,1023,1360"/>
 <area shape="rect" id="node50" href="$classMainWindow.html#a301d50489ecbfff26b1b75135d6c469f" title="MainWindow::removeCurrent\lMapping" alt="" coords="555,1385,753,1426"/>
 </map>

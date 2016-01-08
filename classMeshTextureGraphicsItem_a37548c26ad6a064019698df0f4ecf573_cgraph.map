@@ -1,51 +1,51 @@
 <map id="MeshTextureGraphicsItem::_doDrawOutput" name="MeshTextureGraphicsItem::_doDrawOutput">
-<area shape="rect" id="node2" href="$classMeshTextureGraphicsItem.html#a6f6a39a9a10b94d4176d50d4551682fe" title="Builds cache item recursively using the technique described in Oliveira, M. " alt="" coords="259,403,441,444"/>
-<area shape="rect" id="node3" href="$classMShape.html#a188f2b437f86ab09fd08c157c1e12dea" title="MShape::getVertex" alt="" coords="817,410,956,437"/>
-<area shape="rect" id="node5" href="$classPolygonTextureGraphicsItem.html#a6da9326eed742ade5870774538ab907b" title="Returns the bounding rectangle of this item. " alt="" coords="251,600,449,641"/>
-<area shape="rect" id="node7" href="$classPolygon.html#abcdb0e5be74341fc6667ec22dac1aadc" title="Polygon::toPolygon" alt="" coords="816,549,957,575"/>
-<area shape="rect" id="node8" href="$classShapeGraphicsItem.html#a409347c0bb8c17579d9e789c8a786e4e" title="Returns pointer to GL canvas. " alt="" coords="276,695,424,736"/>
-<area shape="rect" id="node38" href="$classShapeGraphicsItem.html#a2effd172b4efada4d5b96510be82dc6f" title="Return whether the item is in the destination/output (true) or source/input (false). " alt="" coords="555,753,703,795"/>
-<area shape="rect" id="node39" href="$classShapeGraphicsItem.html#ace336beca655965fff6324b788f2c571" title="Returns whether the mapping this shape is associated with is currently selected. " alt="" coords="276,812,424,853"/>
-<area shape="rect" id="node42" href="$classMShape.html#ab43b5ed4a2451cd5d1b1aeeb308fb1c0" title="MShape::nVertices" alt="" coords="282,878,418,905"/>
-<area shape="rect" id="node43" href="$namespaceUtil.html#a2b06fd59c3dd967fbc20cc9c39fce47f" title="Takes a point (intputPoint) on texture and outputs it as a GL vertex on output (outputPoint). " alt="" coords="283,1013,417,1039"/>
-<area shape="rect" id="node49" href="$classMapperGLCanvas.html#a6bcb1df29a0f7a878ab6cf688ec1b2ea" title="MapperGLCanvas::shapeGrabbed" alt="" coords="235,1063,465,1090"/>
-<area shape="rect" id="node50" href="$classMapperGLCanvas.html#a34902d8167362aa7a92b182456563b02" title="MapperGLCanvas::vertexGrabbed" alt="" coords="235,1114,465,1141"/>
-<area shape="rect" id="node4" href="$classMeshTextureGraphicsItem.html#ac93a420e865659c8c034fb78110326e2" title="MeshTextureGraphicsItem\l::_split" alt="" coords="539,403,720,444"/>
-<area shape="rect" id="node6" href="$classPolygonTextureGraphicsItem.html#ae4501707821a1d1968236e67e587e33f" title="PolygonTextureGraphicsItem\l::shape" alt="" coords="530,571,729,612"/>
-<area shape="rect" id="node9" href="$classMainWindow.html#ab3765a17ae8cdb5891bd873024630c3b" title="MainWindow::getDestination\lCanvas" alt="" coords="532,636,727,677"/>
-<area shape="rect" id="node10" href="$classMainWindow.html#a4377db0befe543fe0d7914010e21fef1" title="MainWindow::getSourceCanvas" alt="" coords="521,702,738,729"/>
-<area shape="rect" id="node11" href="$classMainWindow.html#a4f7e1bd77c8b2e64bd374874ff347ede" title="MainWindow::instance" alt="" coords="550,819,709,846"/>
-<area shape="rect" id="node12" href="$classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb" title="MainWindow::MainWindow" alt="" coords="793,819,980,846"/>
-<area shape="rect" id="node13" href="$classMainWindow.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="1060,330,1251,357"/>
-<area shape="rect" id="node20" href="$classMainWindow.html#affa76730fa370a3466b62a4caee721e3" title="MainWindow::updateRecent\lFileActions" alt="" coords="1601,323,1792,364"/>
-<area shape="rect" id="node25" href="$classMainWindow.html#a4f035b25b6181829a9275155e3ca9bbd" title="MainWindow::play" alt="" coords="1375,558,1509,585"/>
-<area shape="rect" id="node26" href="$classMainWindow.html#a1f9461bcb5778d6f3e578d2f7f5e91f8" title="MainWindow::createLayout" alt="" coords="1062,761,1249,787"/>
-<area shape="rect" id="node27" href="$classMainWindow.html#a0a617e8e1ea850a95f6fb98f0149b73a" title="MainWindow::createMapping\lContextMenu" alt="" coords="1057,812,1254,853"/>
-<area shape="rect" id="node28" href="$classMainWindow.html#aa4907b0251d305659e403c62921ef331" title="MainWindow::createMenus" alt="" coords="1062,878,1249,905"/>
-<area shape="rect" id="node29" href="$classMainWindow.html#a7db0a504d38b953d63172d57f495dd62" title="MainWindow::createPaintContextMenu" alt="" coords="1028,929,1283,955"/>
-<area shape="rect" id="node30" href="$classMainWindow.html#af0a8a3f54a87bd7ad6f23248dd0e9c09" title="MainWindow::createStatusBar" alt="" coords="1053,979,1257,1006"/>
-<area shape="rect" id="node31" href="$classMainWindow.html#acce4e32b95d3d5cb48470c053a1740c2" title="MainWindow::createToolBars" alt="" coords="1054,1030,1257,1057"/>
-<area shape="rect" id="node32" href="$classMedia.html#a2e556609d9e1cdcc89dfab2c3f20e8de" title="Checks whether or not video is supported on this platform. " alt="" coords="1070,1081,1241,1107"/>
-<area shape="rect" id="node33" href="$classMainWindow.html#a06476208b8466211f3bb0fcae787052b" title="MainWindow::readSettings" alt="" coords="1063,659,1247,686"/>
-<area shape="rect" id="node34" href="$classMainWindow.html#acef373bab5d075a62cb95daec37b8bd8" title="MainWindow::updateRecent\lVideoActions" alt="" coords="1347,711,1537,752"/>
-<area shape="rect" id="node35" href="$classMainWindow.html#a3631bdedbef1d5d7e3ea87b62a80d94e" title="MainWindow::setCurrentFile" alt="" coords="1060,609,1251,635"/>
-<area shape="rect" id="node36" href="$classMainWindow.html#a14c9d0130057d50cc0f6d2158017dcfb" title="MainWindow::startOscReceiver" alt="" coords="1050,1131,1261,1158"/>
-<area shape="rect" id="node37" href="$classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="1050,1182,1261,1209"/>
-<area shape="rect" id="node14" href="$classMainWindow.html#a7be6a5d98970ac1a6296c6f9aee1e9bb" title="MainWindow::about" alt="" coords="1371,305,1513,331"/>
-<area shape="rect" id="node15" href="$classMainWindow.html#a21617f9c17c835feb00242669db12f58" title="MainWindow::addColor" alt="" coords="1359,355,1525,382"/>
-<area shape="rect" id="node16" href="$classMainWindow.html#a8abadd370aa45d729c93333d0cdaff25" title="MainWindow::addEllipse" alt="" coords="1357,406,1527,433"/>
-<area shape="rect" id="node17" href="$classMainWindow.html#afd96c759c09ed53670cd4bfe96154193" title="MainWindow::addMesh" alt="" coords="1359,457,1525,483"/>
-<area shape="rect" id="node18" href="$classMainWindow.html#a363cdc52f843d78ecd1905d9cb905852" title="MainWindow::addTriangle" alt="" coords="1351,507,1533,534"/>
-<area shape="rect" id="node19" href="$classMainWindow.html#adf4eeeb0264b6900cc13ac579bfdec9a" title="MainWindow::clearRecentFileList" alt="" coords="1331,51,1553,78"/>
-<area shape="rect" id="node21" href="$classMainWindow.html#a616a8405c4ed083d9ea01cad8613c92c" title="MainWindow::cloneItem" alt="" coords="1359,102,1525,129"/>
-<area shape="rect" id="node22" href="$classMainWindow.html#a4d84472e785e23988160f93f4282d23c" title="MainWindow::deleteMappingItem" alt="" coords="1331,153,1553,179"/>
-<area shape="rect" id="node23" href="$classMainWindow.html#a25c9709f00a7cecf44f7f297f23550de" title="MainWindow::deletePaintItem" alt="" coords="1341,203,1543,230"/>
-<area shape="rect" id="node24" href="$classMainWindow.html#abe929556c320ffe886bd6a5c303dd586" title="MainWindow::displayUndoStack" alt="" coords="1333,254,1551,281"/>
-<area shape="rect" id="node40" href="$classMainWindow.html#a8626737961e658b6fdb70599d7840474" title="MainWindow::getCurrentMappingId" alt="" coords="513,870,745,897"/>
-<area shape="rect" id="node41" href="$classShapeGraphicsItem.html#adb2e44453f779d41661fa3067e0a2bc0" title="Returns the mapping. " alt="" coords="555,921,703,963"/>
-<area shape="rect" id="node44" href="$namespaceUtil.html#a2705241815455b8999c6e9d04530f740" title="Calls glTexCoord2f() with the corrected texture coordinates. " alt="" coords="546,1139,713,1166"/>
-<area shape="rect" id="node45" href="$classTexture.html#a1b9d77401b6a113d8ff51f97f6e106f3" title="Texture::getX" alt="" coords="577,1190,682,1217"/>
-<area shape="rect" id="node46" href="$classTexture.html#a028abb4fdfd694332a9b4b3874f56906" title="Texture::getWidth" alt="" coords="564,987,695,1014"/>
-<area shape="rect" id="node47" href="$classTexture.html#a2f2145e1efb2e3a6604b85453ce8e87c" title="Texture::getY" alt="" coords="577,1038,682,1065"/>
-<area shape="rect" id="node48" href="$classTexture.html#a8913bc460bbe76fb4dd566b365c42728" title="Texture::getHeight" alt="" coords="562,1089,697,1115"/>
+<area shape="rect" id="node2" href="$classMeshTextureGraphicsItem.html#a6f6a39a9a10b94d4176d50d4551682fe" title="Builds cache item recursively using the technique described in Oliveira, M. " alt="" coords="259,405,441,446"/>
+<area shape="rect" id="node3" href="$classMShape.html#a188f2b437f86ab09fd08c157c1e12dea" title="MShape::getVertex" alt="" coords="817,412,956,439"/>
+<area shape="rect" id="node5" href="$classPolygonTextureGraphicsItem.html#a6da9326eed742ade5870774538ab907b" title="Returns the bounding rectangle of this item. " alt="" coords="251,602,449,644"/>
+<area shape="rect" id="node7" href="$classPolygon.html#abcdb0e5be74341fc6667ec22dac1aadc" title="Polygon::toPolygon" alt="" coords="816,551,957,578"/>
+<area shape="rect" id="node8" href="$classShapeGraphicsItem.html#a409347c0bb8c17579d9e789c8a786e4e" title="Returns pointer to GL canvas. " alt="" coords="276,697,424,738"/>
+<area shape="rect" id="node38" href="$classShapeGraphicsItem.html#a2effd172b4efada4d5b96510be82dc6f" title="Return whether the item is in the destination/output (true) or source/input (false). " alt="" coords="555,756,703,797"/>
+<area shape="rect" id="node39" href="$classShapeGraphicsItem.html#ace336beca655965fff6324b788f2c571" title="Returns whether the mapping this shape is associated with is currently selected. " alt="" coords="276,814,424,856"/>
+<area shape="rect" id="node42" href="$classMShape.html#ab43b5ed4a2451cd5d1b1aeeb308fb1c0" title="MShape::nVertices" alt="" coords="282,880,418,907"/>
+<area shape="rect" id="node43" href="$namespaceUtil.html#a2b06fd59c3dd967fbc20cc9c39fce47f" title="Takes a point (intputPoint) on texture and outputs it as a GL vertex on output (outputPoint). " alt="" coords="283,1015,417,1042"/>
+<area shape="rect" id="node49" href="$classMapperGLCanvas.html#a6bcb1df29a0f7a878ab6cf688ec1b2ea" title="MapperGLCanvas::shapeGrabbed" alt="" coords="235,1066,465,1092"/>
+<area shape="rect" id="node50" href="$classMapperGLCanvas.html#a34902d8167362aa7a92b182456563b02" title="MapperGLCanvas::vertexGrabbed" alt="" coords="235,1116,465,1143"/>
+<area shape="rect" id="node4" href="$classMeshTextureGraphicsItem.html#ac93a420e865659c8c034fb78110326e2" title="MeshTextureGraphicsItem\l::_split" alt="" coords="539,405,720,446"/>
+<area shape="rect" id="node6" href="$classPolygonTextureGraphicsItem.html#ae4501707821a1d1968236e67e587e33f" title="PolygonTextureGraphicsItem\l::shape" alt="" coords="530,573,729,614"/>
+<area shape="rect" id="node9" href="$classMainWindow.html#ab3765a17ae8cdb5891bd873024630c3b" title="MainWindow::getDestination\lCanvas" alt="" coords="532,638,727,680"/>
+<area shape="rect" id="node10" href="$classMainWindow.html#a4377db0befe543fe0d7914010e21fef1" title="MainWindow::getSourceCanvas" alt="" coords="521,704,738,731"/>
+<area shape="rect" id="node11" href="$classMainWindow.html#a4f7e1bd77c8b2e64bd374874ff347ede" title="MainWindow::instance" alt="" coords="550,822,709,848"/>
+<area shape="rect" id="node12" href="$classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb" title="MainWindow::MainWindow" alt="" coords="793,822,980,848"/>
+<area shape="rect" id="node13" href="$classMainWindow.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="1060,332,1251,359"/>
+<area shape="rect" id="node20" href="$classMainWindow.html#affa76730fa370a3466b62a4caee721e3" title="MainWindow::updateRecent\lFileActions" alt="" coords="1617,325,1808,366"/>
+<area shape="rect" id="node25" href="$classMainWindow.html#a4f035b25b6181829a9275155e3ca9bbd" title="MainWindow::play" alt="" coords="1383,560,1517,587"/>
+<area shape="rect" id="node26" href="$classMainWindow.html#a1f9461bcb5778d6f3e578d2f7f5e91f8" title="MainWindow::createLayout" alt="" coords="1062,763,1249,790"/>
+<area shape="rect" id="node27" href="$classMainWindow.html#a0a617e8e1ea850a95f6fb98f0149b73a" title="MainWindow::createMapping\lContextMenu" alt="" coords="1057,814,1254,856"/>
+<area shape="rect" id="node28" href="$classMainWindow.html#aa4907b0251d305659e403c62921ef331" title="MainWindow::createMenus" alt="" coords="1062,880,1249,907"/>
+<area shape="rect" id="node29" href="$classMainWindow.html#a7db0a504d38b953d63172d57f495dd62" title="MainWindow::createPaintContextMenu" alt="" coords="1028,931,1283,958"/>
+<area shape="rect" id="node30" href="$classMainWindow.html#af0a8a3f54a87bd7ad6f23248dd0e9c09" title="MainWindow::createStatusBar" alt="" coords="1053,982,1257,1008"/>
+<area shape="rect" id="node31" href="$classMainWindow.html#acce4e32b95d3d5cb48470c053a1740c2" title="MainWindow::createToolBars" alt="" coords="1054,1032,1257,1059"/>
+<area shape="rect" id="node32" href="$classMedia.html#a2e556609d9e1cdcc89dfab2c3f20e8de" title="Checks whether or not video is supported on this platform. " alt="" coords="1070,1083,1241,1110"/>
+<area shape="rect" id="node33" href="$classMainWindow.html#a06476208b8466211f3bb0fcae787052b" title="MainWindow::readSettings" alt="" coords="1063,662,1247,688"/>
+<area shape="rect" id="node34" href="$classMainWindow.html#acef373bab5d075a62cb95daec37b8bd8" title="MainWindow::updateRecent\lVideoActions" alt="" coords="1355,713,1545,754"/>
+<area shape="rect" id="node35" href="$classMainWindow.html#a3631bdedbef1d5d7e3ea87b62a80d94e" title="MainWindow::setCurrentFile" alt="" coords="1060,611,1251,638"/>
+<area shape="rect" id="node36" href="$classMainWindow.html#a14c9d0130057d50cc0f6d2158017dcfb" title="MainWindow::startOscReceiver" alt="" coords="1050,1134,1261,1160"/>
+<area shape="rect" id="node37" href="$classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="1050,1184,1261,1211"/>
+<area shape="rect" id="node14" href="$classMainWindow.html#a7be6a5d98970ac1a6296c6f9aee1e9bb" title="MainWindow::about" alt="" coords="1379,307,1521,334"/>
+<area shape="rect" id="node15" href="$classMainWindow.html#a21617f9c17c835feb00242669db12f58" title="MainWindow::addColor" alt="" coords="1367,358,1533,384"/>
+<area shape="rect" id="node16" href="$classMainWindow.html#a8abadd370aa45d729c93333d0cdaff25" title="MainWindow::addEllipse" alt="" coords="1365,408,1535,435"/>
+<area shape="rect" id="node17" href="$classMainWindow.html#afd96c759c09ed53670cd4bfe96154193" title="MainWindow::addMesh" alt="" coords="1367,459,1533,486"/>
+<area shape="rect" id="node18" href="$classMainWindow.html#a363cdc52f843d78ecd1905d9cb905852" title="MainWindow::addTriangle" alt="" coords="1359,510,1541,536"/>
+<area shape="rect" id="node19" href="$classMainWindow.html#adf4eeeb0264b6900cc13ac579bfdec9a" title="MainWindow::clearRecentFileList" alt="" coords="1339,54,1561,80"/>
+<area shape="rect" id="node21" href="$classMainWindow.html#a4d84472e785e23988160f93f4282d23c" title="MainWindow::deleteMappingItem" alt="" coords="1339,104,1561,131"/>
+<area shape="rect" id="node22" href="$classMainWindow.html#a25c9709f00a7cecf44f7f297f23550de" title="MainWindow::deletePaintItem" alt="" coords="1349,155,1551,182"/>
+<area shape="rect" id="node23" href="$classMainWindow.html#abe929556c320ffe886bd6a5c303dd586" title="MainWindow::displayUndoStack" alt="" coords="1341,206,1559,232"/>
+<area shape="rect" id="node24" href="$classMainWindow.html#a634190288e3563f9c1097e950c35426f" title="MainWindow::duplicateMappingItem" alt="" coords="1331,256,1569,283"/>
+<area shape="rect" id="node40" href="$classMainWindow.html#a8626737961e658b6fdb70599d7840474" title="MainWindow::getCurrentMappingId" alt="" coords="513,872,745,899"/>
+<area shape="rect" id="node41" href="$classShapeGraphicsItem.html#adb2e44453f779d41661fa3067e0a2bc0" title="Returns the mapping. " alt="" coords="555,924,703,965"/>
+<area shape="rect" id="node44" href="$namespaceUtil.html#a2705241815455b8999c6e9d04530f740" title="Calls glTexCoord2f() with the corrected texture coordinates. " alt="" coords="546,1142,713,1168"/>
+<area shape="rect" id="node45" href="$classTexture.html#a1b9d77401b6a113d8ff51f97f6e106f3" title="Texture::getX" alt="" coords="577,1192,682,1219"/>
+<area shape="rect" id="node46" href="$classTexture.html#a028abb4fdfd694332a9b4b3874f56906" title="Texture::getWidth" alt="" coords="564,990,695,1016"/>
+<area shape="rect" id="node47" href="$classTexture.html#a2f2145e1efb2e3a6604b85453ce8e87c" title="Texture::getY" alt="" coords="577,1040,682,1067"/>
+<area shape="rect" id="node48" href="$classTexture.html#a8913bc460bbe76fb4dd566b365c42728" title="Texture::getHeight" alt="" coords="562,1091,697,1118"/>
 </map>

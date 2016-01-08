@@ -1,51 +1,51 @@
 <map id="MainWindow::updateStatusBar" name="MainWindow::updateStatusBar">
-<area shape="rect" id="node2" href="$classMainWindow.html#af0a8a3f54a87bd7ad6f23248dd0e9c09" title="MainWindow::createStatusBar" alt="" coords="261,142,465,168"/>
-<area shape="rect" id="node13" href="$classMainWindow.html#a77f5c4fcd861b520121a276bfc9dc61f" title="MainWindow::windowModified" alt="" coords="260,316,467,343"/>
-<area shape="rect" id="node3" href="$classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb" title="MainWindow::MainWindow" alt="" coords="1598,434,1785,460"/>
-<area shape="rect" id="node4" href="$classMainWindow.html#a4f7e1bd77c8b2e64bd374874ff347ede" title="MainWindow::instance" alt="" coords="1841,434,2000,460"/>
-<area shape="rect" id="node5" href="$classDestinationGLCanvas.html#a2cb035c3db3f046023ad02c4bfe60baa" title="DestinationGLCanvas\l::getShapeGraphicsItemFrom\lMappingId" alt="" coords="2050,416,2249,472"/>
-<area shape="rect" id="node6" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2124,235,2175,262"/>
-<area shape="rect" id="node7" href="$classMapperGLCanvas.html#a94e50bea25cadd6de25091cfed85cbee" title="MapperGLCanvas::getCurrent\lShape" alt="" coords="2048,548,2251,589"/>
-<area shape="rect" id="node8" href="$classMapperGLCanvas.html#a135b9b4b298bd1106b145f44bb4babbe" title="MapperGLCanvas::_glueVertex" alt="" coords="2299,526,2511,552"/>
-<area shape="rect" id="node9" href="$classMapperGLCanvas.html#a6828b1fbd4c1a3e5d31ca00990a55517" title="MapperGLCanvas::getCurrent\lShapeGraphicsItem" alt="" coords="2048,613,2251,654"/>
-<area shape="rect" id="node10" href="$classShapeGraphicsItem.html#a409347c0bb8c17579d9e789c8a786e4e" title="Returns pointer to GL canvas. " alt="" coords="2075,678,2223,720"/>
-<area shape="rect" id="node11" href="$classShapeGraphicsItem.html#ace336beca655965fff6324b788f2c571" title="Returns whether the mapping this shape is associated with is currently selected. " alt="" coords="2075,286,2223,328"/>
-<area shape="rect" id="node12" href="$classSourceGLCanvas.html#a94f9e854c975b989b81798dde07c372e" title="SourceGLCanvas::getShape\lGraphicsItemFromMappingId" alt="" coords="2051,352,2247,393"/>
-<area shape="rect" id="node14" href="$classMainWindow.html#a5bcadeee786003146ba7e00256ed9e31" title="Clears all mappings and paints. " alt="" coords="540,316,720,343"/>
-<area shape="rect" id="node22" href="$classMainWindow.html#af8ee33b7b46265fdc557e6d99cf74e2a" title="MainWindow::addPaintItem" alt="" coords="1084,1110,1271,1136"/>
-<area shape="rect" id="node28" href="$classMainWindow.html#aa01a27c4815dcac8256fee330e43ef5d" title="MainWindow::updatePaintItem" alt="" coords="528,892,732,919"/>
-<area shape="rect" id="node30" href="$classMainWindow.html#a91afdf837defb9031caa1517c8cb5c69" title="MainWindow::addMappingItem" alt="" coords="526,648,734,675"/>
-<area shape="rect" id="node45" href="$classMainWindow.html#ad0f3c47ed18fc3df0209d1a3c87e575e" title="MainWindow::removeMappingItem" alt="" coords="515,190,745,216"/>
-<area shape="rect" id="node49" href="$classMainWindow.html#ad95384495a22bb52595bae5369431e00" title="MainWindow::removePaintItem" alt="" coords="806,190,1015,216"/>
-<area shape="rect" id="node15" href="$classMainWindow.html#a7a34526615dcdacc1c565db03e6550e0" title="MainWindow::loadFile" alt="" coords="832,270,989,296"/>
-<area shape="rect" id="node20" href="$classMainWindow.html#a10533d699cd751d03b9599ae206b7f32" title="MainWindow::clearWindow" alt="" coords="817,320,1004,347"/>
-<area shape="rect" id="node16" href="$classMainWindow.html#aa7473e4bbbcc281706ac2edef864fb45" title="MainWindow::open" alt="" coords="1108,387,1247,414"/>
-<area shape="rect" id="node19" href="$classMainWindow.html#a935316315edb9b7af42657da20be0e54" title="MainWindow::openRecentFile" alt="" coords="1076,286,1279,312"/>
-<area shape="rect" id="node17" href="$classMainWindow.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="1339,436,1529,463"/>
-<area shape="rect" id="node18" href="$classMainWindow.html#aa0916a59a9d7ee37159ed0a2e0528960" title="MainWindow::eventFilter" alt="" coords="1349,488,1519,515"/>
-<area shape="rect" id="node21" href="$classMainWindow.html#a69f73b93cc05c89a9ae1be0161105982" title="MainWindow::newFile" alt="" coords="1100,438,1255,464"/>
-<area shape="rect" id="node23" href="$classMainWindow.html#aadc615244c4f281a6e5f926cbe9fbf31" title="Create or replace a media paint (or image). " alt="" coords="1327,1084,1541,1111"/>
-<area shape="rect" id="node26" href="$classMainWindow.html#af91ac4a62957c12b5773dd03b091a60f" title="Create or replace a color paint. " alt="" coords="1329,1135,1539,1162"/>
-<area shape="rect" id="node24" href="$classMainWindow.html#a42b7e29d096ab698cfca1c6695d4896d" title="MainWindow::importMediaFile" alt="" coords="1589,1059,1793,1086"/>
-<area shape="rect" id="node25" href="$classProjectReader.html#a391edcb62249726718fa32347300a3d3" title="ProjectReader::parsePaint" alt="" coords="1601,1110,1782,1136"/>
-<area shape="rect" id="node27" href="$classMainWindow.html#a98b305515fc880633dcd0e58d5402c44" title="MainWindow::addColorPaint" alt="" coords="1594,1160,1789,1187"/>
-<area shape="rect" id="node29" href="$classMainWindow.html#aea0966c14cf9707f35c1051817615aba" title="MainWindow::handlePaintChanged" alt="" coords="793,1084,1028,1111"/>
-<area shape="rect" id="node31" href="$classAddShapesCommand.html#a8521096ef210cc17c124f0ccb899a524" title="AddShapesCommand::redo" alt="" coords="815,1034,1007,1060"/>
-<area shape="rect" id="node32" href="$classDeleteMappingCommand.html#ad5b8989668fdee7466d4e9483c11c34b" title="DeleteMappingCommand\l::undo" alt="" coords="823,524,999,565"/>
-<area shape="rect" id="node33" href="$classMainWindow.html#afd96c759c09ed53670cd4bfe96154193" title="MainWindow::addMesh" alt="" coords="1095,539,1260,566"/>
-<area shape="rect" id="node34" href="$classMainWindow.html#a363cdc52f843d78ecd1905d9cb905852" title="MainWindow::addTriangle" alt="" coords="1086,590,1269,616"/>
-<area shape="rect" id="node35" href="$classMainWindow.html#a8abadd370aa45d729c93333d0cdaff25" title="MainWindow::addEllipse" alt="" coords="1092,488,1263,515"/>
-<area shape="rect" id="node36" href="$classMainWindow.html#a989259763921ac95e590694124c399b4" title="Creates a textured mesh. " alt="" coords="797,772,1024,813"/>
-<area shape="rect" id="node38" href="$classMainWindow.html#a83b3ecf3df0b4781c99e0becda062c99" title="Creates a textured triangle. " alt="" coords="812,902,1009,944"/>
-<area shape="rect" id="node39" href="$classMainWindow.html#a523651b9efbff461c220078db1866891" title="Creates a textured ellipse. " alt="" coords="818,641,1003,682"/>
-<area shape="rect" id="node40" href="$classMainWindow.html#aea57482425bbef3cc55cb996d8c06ae4" title="Creates a color quad. " alt="" coords="805,968,1017,1009"/>
-<area shape="rect" id="node41" href="$classMainWindow.html#ad965d83a69f9eb079bf2bddb9c6c2e59" title="Creates a color triangle. " alt="" coords="812,837,1009,878"/>
-<area shape="rect" id="node42" href="$classMainWindow.html#aae195efe439efb0df179dce54ee563f7" title="Creates a color ellipse. " alt="" coords="818,706,1003,748"/>
-<area shape="rect" id="node43" href="$classMainWindow.html#addc367cf02cd16098e9360446b3c8b49" title="Clone/duplicate a mapping. " alt="" coords="802,371,1019,398"/>
-<area shape="rect" id="node37" href="$classProjectReader.html#aadf279196fbd97b09e4654f6b78f4403" title="ProjectReader::parseMapping" alt="" coords="1076,812,1279,839"/>
-<area shape="rect" id="node44" href="$classMainWindow.html#a616a8405c4ed083d9ea01cad8613c92c" title="MainWindow::cloneItem" alt="" coords="1094,336,1261,363"/>
-<area shape="rect" id="node46" href="$classMainWindow.html#adee7602073d020ba78b95421d2255668" title="Deletes/removes a mapping. " alt="" coords="812,134,1009,160"/>
-<area shape="rect" id="node47" href="$classAddShapesCommand.html#acee7ba76607b5c87eed865844966a839" title="AddShapesCommand::undo" alt="" coords="1080,134,1275,160"/>
-<area shape="rect" id="node48" href="$classDeleteMappingCommand.html#a936ed4ffa3da5f80644fb768a9b1ef9a" title="DeleteMappingCommand\l::redo" alt="" coords="1089,68,1265,109"/>
-<area shape="rect" id="node50" href="$classMainWindow.html#a5fc2057376339eb97f27f7c3563aeafe" title="Deletes/removes a paint and all associated mappigns. " alt="" coords="1089,184,1265,211"/>
+<area shape="rect" id="node2" href="$classMainWindow.html#af0a8a3f54a87bd7ad6f23248dd0e9c09" title="MainWindow::createStatusBar" alt="" coords="261,143,465,170"/>
+<area shape="rect" id="node13" href="$classMainWindow.html#a77f5c4fcd861b520121a276bfc9dc61f" title="MainWindow::windowModified" alt="" coords="260,318,467,345"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb" title="MainWindow::MainWindow" alt="" coords="1634,435,1821,462"/>
+<area shape="rect" id="node4" href="$classMainWindow.html#a4f7e1bd77c8b2e64bd374874ff347ede" title="MainWindow::instance" alt="" coords="1877,435,2036,462"/>
+<area shape="rect" id="node5" href="$classDestinationGLCanvas.html#a2cb035c3db3f046023ad02c4bfe60baa" title="DestinationGLCanvas\l::getShapeGraphicsItemFrom\lMappingId" alt="" coords="2086,418,2285,474"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2160,237,2211,263"/>
+<area shape="rect" id="node7" href="$classMapperGLCanvas.html#a94e50bea25cadd6de25091cfed85cbee" title="MapperGLCanvas::getCurrent\lShape" alt="" coords="2084,549,2287,591"/>
+<area shape="rect" id="node8" href="$classMapperGLCanvas.html#a135b9b4b298bd1106b145f44bb4babbe" title="MapperGLCanvas::_glueVertex" alt="" coords="2335,527,2547,554"/>
+<area shape="rect" id="node9" href="$classMapperGLCanvas.html#a6828b1fbd4c1a3e5d31ca00990a55517" title="MapperGLCanvas::getCurrent\lShapeGraphicsItem" alt="" coords="2084,615,2287,656"/>
+<area shape="rect" id="node10" href="$classShapeGraphicsItem.html#a409347c0bb8c17579d9e789c8a786e4e" title="Returns pointer to GL canvas. " alt="" coords="2111,680,2259,721"/>
+<area shape="rect" id="node11" href="$classShapeGraphicsItem.html#ace336beca655965fff6324b788f2c571" title="Returns whether the mapping this shape is associated with is currently selected. " alt="" coords="2111,288,2259,329"/>
+<area shape="rect" id="node12" href="$classSourceGLCanvas.html#a94f9e854c975b989b81798dde07c372e" title="SourceGLCanvas::getShape\lGraphicsItemFromMappingId" alt="" coords="2087,353,2283,395"/>
+<area shape="rect" id="node14" href="$classMainWindow.html#a5bcadeee786003146ba7e00256ed9e31" title="Clears all mappings and paints. " alt="" coords="540,318,720,345"/>
+<area shape="rect" id="node22" href="$classMainWindow.html#af8ee33b7b46265fdc557e6d99cf74e2a" title="MainWindow::addPaintItem" alt="" coords="1102,1111,1289,1138"/>
+<area shape="rect" id="node28" href="$classMainWindow.html#aa01a27c4815dcac8256fee330e43ef5d" title="MainWindow::updatePaintItem" alt="" coords="528,894,732,921"/>
+<area shape="rect" id="node30" href="$classMainWindow.html#a91afdf837defb9031caa1517c8cb5c69" title="MainWindow::addMappingItem" alt="" coords="526,650,734,677"/>
+<area shape="rect" id="node45" href="$classMainWindow.html#ad0f3c47ed18fc3df0209d1a3c87e575e" title="MainWindow::removeMappingItem" alt="" coords="515,191,745,218"/>
+<area shape="rect" id="node49" href="$classMainWindow.html#ad95384495a22bb52595bae5369431e00" title="MainWindow::removePaintItem" alt="" coords="806,191,1015,218"/>
+<area shape="rect" id="node15" href="$classMainWindow.html#a7a34526615dcdacc1c565db03e6550e0" title="MainWindow::loadFile" alt="" coords="832,271,989,298"/>
+<area shape="rect" id="node20" href="$classMainWindow.html#a10533d699cd751d03b9599ae206b7f32" title="MainWindow::clearWindow" alt="" coords="817,322,1004,349"/>
+<area shape="rect" id="node16" href="$classMainWindow.html#aa7473e4bbbcc281706ac2edef864fb45" title="MainWindow::open" alt="" coords="1126,389,1265,415"/>
+<area shape="rect" id="node19" href="$classMainWindow.html#a935316315edb9b7af42657da20be0e54" title="MainWindow::openRecentFile" alt="" coords="1094,287,1297,314"/>
+<area shape="rect" id="node17" href="$classMainWindow.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="1375,438,1565,465"/>
+<area shape="rect" id="node18" href="$classMainWindow.html#aa0916a59a9d7ee37159ed0a2e0528960" title="MainWindow::eventFilter" alt="" coords="1385,490,1555,517"/>
+<area shape="rect" id="node21" href="$classMainWindow.html#a69f73b93cc05c89a9ae1be0161105982" title="MainWindow::newFile" alt="" coords="1118,439,1273,466"/>
+<area shape="rect" id="node23" href="$classMainWindow.html#aadc615244c4f281a6e5f926cbe9fbf31" title="Create or replace a media paint (or image). " alt="" coords="1363,1086,1577,1113"/>
+<area shape="rect" id="node26" href="$classMainWindow.html#af91ac4a62957c12b5773dd03b091a60f" title="Create or replace a color paint. " alt="" coords="1365,1137,1575,1163"/>
+<area shape="rect" id="node24" href="$classMainWindow.html#a42b7e29d096ab698cfca1c6695d4896d" title="MainWindow::importMediaFile" alt="" coords="1625,1061,1829,1087"/>
+<area shape="rect" id="node25" href="$classProjectReader.html#a391edcb62249726718fa32347300a3d3" title="ProjectReader::parsePaint" alt="" coords="1637,1111,1818,1138"/>
+<area shape="rect" id="node27" href="$classMainWindow.html#a98b305515fc880633dcd0e58d5402c44" title="MainWindow::addColorPaint" alt="" coords="1630,1162,1825,1189"/>
+<area shape="rect" id="node29" href="$classMainWindow.html#aea0966c14cf9707f35c1051817615aba" title="MainWindow::handlePaintChanged" alt="" coords="793,1086,1028,1113"/>
+<area shape="rect" id="node31" href="$classAddShapesCommand.html#a8521096ef210cc17c124f0ccb899a524" title="AddShapesCommand::redo" alt="" coords="815,1035,1007,1062"/>
+<area shape="rect" id="node32" href="$classDeleteMappingCommand.html#ad5b8989668fdee7466d4e9483c11c34b" title="DeleteMappingCommand\l::undo" alt="" coords="823,525,999,567"/>
+<area shape="rect" id="node33" href="$classMainWindow.html#afd96c759c09ed53670cd4bfe96154193" title="MainWindow::addMesh" alt="" coords="1113,541,1278,567"/>
+<area shape="rect" id="node34" href="$classMainWindow.html#a363cdc52f843d78ecd1905d9cb905852" title="MainWindow::addTriangle" alt="" coords="1104,591,1287,618"/>
+<area shape="rect" id="node35" href="$classMainWindow.html#a8abadd370aa45d729c93333d0cdaff25" title="MainWindow::addEllipse" alt="" coords="1110,490,1281,517"/>
+<area shape="rect" id="node36" href="$classMainWindow.html#a989259763921ac95e590694124c399b4" title="Creates a textured mesh. " alt="" coords="797,773,1024,815"/>
+<area shape="rect" id="node38" href="$classMainWindow.html#a83b3ecf3df0b4781c99e0becda062c99" title="Creates a textured triangle. " alt="" coords="812,904,1009,945"/>
+<area shape="rect" id="node39" href="$classMainWindow.html#a523651b9efbff461c220078db1866891" title="Creates a textured ellipse. " alt="" coords="818,643,1003,684"/>
+<area shape="rect" id="node40" href="$classMainWindow.html#aea57482425bbef3cc55cb996d8c06ae4" title="Creates a color quad. " alt="" coords="805,969,1017,1011"/>
+<area shape="rect" id="node41" href="$classMainWindow.html#ad965d83a69f9eb079bf2bddb9c6c2e59" title="Creates a color triangle. " alt="" coords="812,839,1009,880"/>
+<area shape="rect" id="node42" href="$classMainWindow.html#aae195efe439efb0df179dce54ee563f7" title="Creates a color ellipse. " alt="" coords="818,708,1003,749"/>
+<area shape="rect" id="node43" href="$classMainWindow.html#a0a3167ad880ce1c20a10945854085598" title="Clone/duplicate a mapping. " alt="" coords="804,373,1017,399"/>
+<area shape="rect" id="node37" href="$classProjectReader.html#aadf279196fbd97b09e4654f6b78f4403" title="ProjectReader::parseMapping" alt="" coords="1094,814,1297,841"/>
+<area shape="rect" id="node44" href="$classMainWindow.html#a634190288e3563f9c1097e950c35426f" title="MainWindow::duplicateMappingItem" alt="" coords="1076,338,1315,365"/>
+<area shape="rect" id="node46" href="$classMainWindow.html#adee7602073d020ba78b95421d2255668" title="Deletes/removes a mapping. " alt="" coords="812,135,1009,162"/>
+<area shape="rect" id="node47" href="$classAddShapesCommand.html#acee7ba76607b5c87eed865844966a839" title="AddShapesCommand::undo" alt="" coords="1098,135,1293,162"/>
+<area shape="rect" id="node48" href="$classDeleteMappingCommand.html#a936ed4ffa3da5f80644fb768a9b1ef9a" title="DeleteMappingCommand\l::redo" alt="" coords="1107,69,1283,111"/>
+<area shape="rect" id="node50" href="$classMainWindow.html#a5fc2057376339eb97f27f7c3563aeafe" title="Deletes/removes a paint and all associated mappigns. " alt="" coords="1107,186,1283,213"/>
 </map>

@@ -67,7 +67,7 @@
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
 <div class="center"><img src="classPolygonControlPainter__inherit__graph.png" border="0" usemap="#PolygonControlPainter_inherit__map" alt="Inheritance graph"/></div>
 <map name="PolygonControlPainter_inherit__map" id="PolygonControlPainter_inherit__map">
-<area shape="rect" id="node2" href="classShapeControlPainter.html" title="An object responsible to paint control points for a specific ShapeGraphicsItem. " alt="" coords="11,5,185,156"/></map>
+<area shape="rect" id="node2" href="classShapeControlPainter.html" title="An object responsible to paint control points for a specific ShapeGraphicsItem. " alt="" coords="5,5,201,171"/></map>
 </div>
 <div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-1-trigger" src="closed.png" alt="+"/> Collaboration diagram for PolygonControlPainter:</div>
@@ -76,7 +76,7 @@
 <div id="dynsection-1-content" class="dyncontent" style="display:none;">
 <div class="center"><img src="classPolygonControlPainter__coll__graph.png" border="0" usemap="#PolygonControlPainter_coll__map" alt="Collaboration graph"/></div>
 <map name="PolygonControlPainter_coll__map" id="PolygonControlPainter_coll__map">
-<area shape="rect" id="node2" href="classShapeControlPainter.html" title="An object responsible to paint control points for a specific ShapeGraphicsItem. " alt="" coords="17,521,191,672"/><area shape="rect" id="node3" href="classShapeGraphicsItem.html" title="Represents a shape as part of a scene graph in one of the GL canvas. " alt="" coords="5,132,203,459"/><area shape="rect" id="node4" href="classQGraphicsItem.html" title="{QGraphicsItem\n||}" alt="" coords="49,5,159,83"/></map>
+<area shape="rect" id="node2" href="classShapeControlPainter.html" title="An object responsible to paint control points for a specific ShapeGraphicsItem. " alt="" coords="5,507,201,672"/><area shape="rect" id="node3" href="classShapeGraphicsItem.html" title="Represents a shape as part of a scene graph in one of the GL canvas. " alt="" coords="19,132,187,444"/><area shape="rect" id="node4" href="classQGraphicsItem.html" title="{QGraphicsItem\n||}" alt="" coords="48,5,159,83"/></map>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
@@ -93,15 +93,17 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a18c3f9856e0678e178bc982459d6e80f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8e1b17d6aaecee9367294b52af667936"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classMShape.html#abaea0495adea6f577e352d8d90fe161e">MShape::ptr</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classShapeControlPainter.html#a8e1b17d6aaecee9367294b52af667936">getShape</a> () const </td></tr>
 <tr class="separator:a8e1b17d6aaecee9367294b52af667936"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acf7b5733ad7f7827960fa226d92dfacb"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classShapeControlPainter.html#acf7b5733ad7f7827960fa226d92dfacb">paint</a> (QPainter *painter, const QList&lt; int &gt; &amp;selectedVertices=QList&lt; int &gt;())</td></tr>
-<tr class="separator:acf7b5733ad7f7827960fa226d92dfacb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a545518ded9e831c05a008f08f4f58a0b"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classShapeControlPainter.html#a545518ded9e831c05a008f08f4f58a0b">paint</a> (QPainter *painter, <a class="el" href="classMapperGLCanvas.html">MapperGLCanvas</a> *canvas, const QList&lt; int &gt; &amp;selectedVertices=QList&lt; int &gt;())</td></tr>
+<tr class="separator:a545518ded9e831c05a008f08f4f58a0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
-<tr class="memitem:adb676c3371605930d669701b65580f51"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPolygonControlPainter.html#adb676c3371605930d669701b65580f51">_paintShape</a> (QPainter *painter)</td></tr>
-<tr class="separator:adb676c3371605930d669701b65580f51"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3f98d005fa8202d873bb34ada3e78ef0"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classShapeControlPainter.html#a3f98d005fa8202d873bb34ada3e78ef0">_paintVertices</a> (QPainter *painter, const QList&lt; int &gt; &amp;selectedVertices=QList&lt; int &gt;())</td></tr>
-<tr class="separator:a3f98d005fa8202d873bb34ada3e78ef0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4f3dfb8ae383a8d01d18173875f25138"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPolygonControlPainter.html#a4f3dfb8ae383a8d01d18173875f25138">_paintShape</a> (QPainter *painter, <a class="el" href="classMapperGLCanvas.html">MapperGLCanvas</a> *canvas)</td></tr>
+<tr class="separator:a4f3dfb8ae383a8d01d18173875f25138"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8774237d93d0630b7f71116142840f6f"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classShapeControlPainter.html#a8774237d93d0630b7f71116142840f6f">_paintVertices</a> (QPainter *painter, <a class="el" href="classMapperGLCanvas.html">MapperGLCanvas</a> *canvas, const QList&lt; int &gt; &amp;selectedVertices=QList&lt; int &gt;())</td></tr>
+<tr class="separator:a8774237d93d0630b7f71116142840f6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6172af882c2ca08409da17498a75ccba"><td class="memItemLeft" align="right" valign="top">QPen&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classShapeControlPainter.html#a6172af882c2ca08409da17498a75ccba">getRescaledShapeStroke</a> (<a class="el" href="classMapperGLCanvas.html">MapperGLCanvas</a> *canvas, bool innerStroke=false)</td></tr>
+<tr class="separator:a6172af882c2ca08409da17498a75ccba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-attribs"></a>
 Protected Attributes</h2></td></tr>
@@ -111,7 +113,7 @@ Protected Attributes</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Control painter for polygons. </p>
 
-<p>Definition at line <a class="el" href="ShapeControlPainter_8h_source.html#l00054">54</a> of file <a class="el" href="ShapeControlPainter_8h_source.html">ShapeControlPainter.h</a>.</p>
+<p>Definition at line <a class="el" href="ShapeControlPainter_8h_source.html#l00058">58</a> of file <a class="el" href="ShapeControlPainter_8h_source.html">ShapeControlPainter.h</a>.</p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
 <a class="anchor" id="a355c87605d56c72fd87db51e503724ed"></a>
 <div class="memitem">
@@ -131,7 +133,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="ShapeControlPainter_8h_source.html#l00037">37</a> of file <a class="el" href="ShapeControlPainter_8h_source.html">ShapeControlPainter.h</a>.</p>
+<p>Definition at line <a class="el" href="ShapeControlPainter_8h_source.html#l00039">39</a> of file <a class="el" href="ShapeControlPainter_8h_source.html">ShapeControlPainter.h</a>.</p>
 
 </div>
 </div>
@@ -150,8 +152,8 @@ Protected Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="ShapeControlPainter_8h_source.html#l00057">57</a> of file <a class="el" href="ShapeControlPainter_8h_source.html">ShapeControlPainter.h</a>.</p>
-<div class="fragment"><div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;: <a class="code" href="classShapeControlPainter.html#a90643fecd6f06bdfe30c993e952b383c">ShapeControlPainter</a>(shapeItem) {}</div>
+<p>Definition at line <a class="el" href="ShapeControlPainter_8h_source.html#l00061">61</a> of file <a class="el" href="ShapeControlPainter_8h_source.html">ShapeControlPainter.h</a>.</p>
+<div class="fragment"><div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;: <a class="code" href="classShapeControlPainter.html#a90643fecd6f06bdfe30c993e952b383c">ShapeControlPainter</a>(shapeItem) {}</div>
 <div class="ttc" id="classShapeControlPainter_html_a90643fecd6f06bdfe30c993e952b383c"><div class="ttname"><a href="classShapeControlPainter.html#a90643fecd6f06bdfe30c993e952b383c">ShapeControlPainter::ShapeControlPainter</a></div><div class="ttdeci">ShapeControlPainter(ShapeGraphicsItem *shapeItem)</div><div class="ttdef"><b>Definition:</b> <a href="ShapeControlPainter_8cpp_source.html#l00024">ShapeControlPainter.cpp:24</a></div></div>
 </div><!-- fragment -->
 </div>
@@ -177,13 +179,13 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="ShapeControlPainter_8h_source.html#l00058">58</a> of file <a class="el" href="ShapeControlPainter_8h_source.html">ShapeControlPainter.h</a>.</p>
-<div class="fragment"><div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;{}</div>
+<p>Definition at line <a class="el" href="ShapeControlPainter_8h_source.html#l00062">62</a> of file <a class="el" href="ShapeControlPainter_8h_source.html">ShapeControlPainter.h</a>.</p>
+<div class="fragment"><div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;{}</div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a class="anchor" id="adb676c3371605930d669701b65580f51"></a>
+<a class="anchor" id="a4f3dfb8ae383a8d01d18173875f25138"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -194,8 +196,18 @@ Protected Attributes</h2></td></tr>
           <td class="memname">void PolygonControlPainter::_paintShape </td>
           <td>(</td>
           <td class="paramtype">QPainter *&#160;</td>
-          <td class="paramname"><em>painter</em></td><td>)</td>
+          <td class="paramname"><em>painter</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="classMapperGLCanvas.html">MapperGLCanvas</a> *&#160;</td>
+          <td class="paramname"><em>canvas</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -205,35 +217,34 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implements <a class="el" href="classShapeControlPainter.html#adce0bf44d889b5322f2c426238da68c8">ShapeControlPainter</a>.</p>
+<p>Implements <a class="el" href="classShapeControlPainter.html#aa7ecafb2bad9a647a8c3ecca306fc8de">ShapeControlPainter</a>.</p>
 
-<p>Definition at line <a class="el" href="ShapeControlPainter_8cpp_source.html#l00046">46</a> of file <a class="el" href="ShapeControlPainter_8cpp_source.html">ShapeControlPainter.cpp</a>.</p>
+<p>Definition at line <a class="el" href="ShapeControlPainter_8cpp_source.html#l00051">51</a> of file <a class="el" href="ShapeControlPainter_8cpp_source.html">ShapeControlPainter.cpp</a>.</p>
 
-<p>References <a class="el" href="ShapeControlPainter_8h_source.html#l00050">ShapeControlPainter::_shapeItem</a>, <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00060">ShapeGraphicsItem::getRescaledShapeStroke()</a>, <a class="el" href="ShapeControlPainter_8cpp_source.html#l00028">ShapeControlPainter::getShape()</a>, and <a class="el" href="Shape_8cpp_source.html#l00119">Polygon::toPolygon()</a>.</p>
-<div class="fragment"><div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;{</div>
-<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;  <a class="code" href="classPolygon.html">Polygon</a>* poly = <span class="keyword">static_cast&lt;</span><a class="code" href="classPolygon.html">Polygon</a>*<span class="keyword">&gt;</span>(<a class="code" href="classShapeControlPainter.html#a8e1b17d6aaecee9367294b52af667936">getShape</a>().data());</div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;  Q_ASSERT(poly);</div>
-<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;</div>
-<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;  <span class="comment">// Init colors and stroke.</span></div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;  painter-&gt;setPen(<a class="code" href="classShapeControlPainter.html#a1e0f76d40c703a09a839eee6abdeff5e">_shapeItem</a>-&gt;<a class="code" href="classShapeGraphicsItem.html#a66a0f1cdddb3e00cc3fe6d30a601ddd0">getRescaledShapeStroke</a>());</div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;</div>
-<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;  <span class="comment">// Draw inner quads.</span></div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;  painter-&gt;drawPolygon(poly-&gt;<a class="code" href="classPolygon.html#abcdb0e5be74341fc6667ec22dac1aadc">toPolygon</a>());</div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;}</div>
+<p>References <a class="el" href="ShapeControlPainter_8cpp_source.html#l00046">ShapeControlPainter::getRescaledShapeStroke()</a>, <a class="el" href="ShapeControlPainter_8cpp_source.html#l00028">ShapeControlPainter::getShape()</a>, and <a class="el" href="Shape_8cpp_source.html#l00119">Polygon::toPolygon()</a>.</p>
+<div class="fragment"><div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;{</div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;  <a class="code" href="classPolygon.html">Polygon</a>* poly = <span class="keyword">static_cast&lt;</span><a class="code" href="classPolygon.html">Polygon</a>*<span class="keyword">&gt;</span>(<a class="code" href="classShapeControlPainter.html#a8e1b17d6aaecee9367294b52af667936">getShape</a>().data());</div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;  Q_ASSERT(poly);</div>
+<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;</div>
+<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;  <span class="comment">// Init colors and stroke.</span></div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;  painter-&gt;setPen(<a class="code" href="classShapeControlPainter.html#a6172af882c2ca08409da17498a75ccba">getRescaledShapeStroke</a>(canvas));</div>
+<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;</div>
+<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;  <span class="comment">// Draw inner quads.</span></div>
+<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;  painter-&gt;drawPolygon(poly-&gt;<a class="code" href="classPolygon.html#abcdb0e5be74341fc6667ec22dac1aadc">toPolygon</a>());</div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;}</div>
 <div class="ttc" id="classPolygon_html_abcdb0e5be74341fc6667ec22dac1aadc"><div class="ttname"><a href="classPolygon.html#abcdb0e5be74341fc6667ec22dac1aadc">Polygon::toPolygon</a></div><div class="ttdeci">virtual QPolygonF toPolygon() const </div><div class="ttdef"><b>Definition:</b> <a href="Shape_8cpp_source.html#l00119">Shape.cpp:119</a></div></div>
-<div class="ttc" id="classShapeControlPainter_html_a1e0f76d40c703a09a839eee6abdeff5e"><div class="ttname"><a href="classShapeControlPainter.html#a1e0f76d40c703a09a839eee6abdeff5e">ShapeControlPainter::_shapeItem</a></div><div class="ttdeci">ShapeGraphicsItem * _shapeItem</div><div class="ttdef"><b>Definition:</b> <a href="ShapeControlPainter_8h_source.html#l00050">ShapeControlPainter.h:50</a></div></div>
 <div class="ttc" id="classPolygon_html"><div class="ttname"><a href="classPolygon.html">Polygon</a></div><div class="ttdoc">This class represents a simple polygon (ie. </div><div class="ttdef"><b>Definition:</b> <a href="Shape_8h_source.html#l00113">Shape.h:113</a></div></div>
+<div class="ttc" id="classShapeControlPainter_html_a6172af882c2ca08409da17498a75ccba"><div class="ttname"><a href="classShapeControlPainter.html#a6172af882c2ca08409da17498a75ccba">ShapeControlPainter::getRescaledShapeStroke</a></div><div class="ttdeci">QPen getRescaledShapeStroke(MapperGLCanvas *canvas, bool innerStroke=false)</div><div class="ttdef"><b>Definition:</b> <a href="ShapeControlPainter_8cpp_source.html#l00046">ShapeControlPainter.cpp:46</a></div></div>
 <div class="ttc" id="classShapeControlPainter_html_a8e1b17d6aaecee9367294b52af667936"><div class="ttname"><a href="classShapeControlPainter.html#a8e1b17d6aaecee9367294b52af667936">ShapeControlPainter::getShape</a></div><div class="ttdeci">MShape::ptr getShape() const </div><div class="ttdef"><b>Definition:</b> <a href="ShapeControlPainter_8cpp_source.html#l00028">ShapeControlPainter.cpp:28</a></div></div>
-<div class="ttc" id="classShapeGraphicsItem_html_a66a0f1cdddb3e00cc3fe6d30a601ddd0"><div class="ttname"><a href="classShapeGraphicsItem.html#a66a0f1cdddb3e00cc3fe6d30a601ddd0">ShapeGraphicsItem::getRescaledShapeStroke</a></div><div class="ttdeci">QPen getRescaledShapeStroke(bool innerStroke=false)</div><div class="ttdoc">Utility function: returns a stroke with rescaled width such that the stroke appears invariant to the ...</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8cpp_source.html#l00060">ShapeGraphicsItem.cpp:60</a></div></div>
 </div><!-- fragment -->
 <p><div id="dynsection-2" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-2-trigger" src="closed.png" alt="+"/> Here is the call graph for this function:</div>
 <div id="dynsection-2-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-2-content" class="dyncontent" style="display:none;">
-<div class="center"><img src="classPolygonControlPainter_adb676c3371605930d669701b65580f51_cgraph.png" border="0" usemap="#classPolygonControlPainter_adb676c3371605930d669701b65580f51_cgraph" alt=""/></div>
-<map name="classPolygonControlPainter_adb676c3371605930d669701b65580f51_cgraph" id="classPolygonControlPainter_adb676c3371605930d669701b65580f51_cgraph">
-<area shape="rect" id="node2" href="classShapeGraphicsItem.html#a66a0f1cdddb3e00cc3fe6d30a601ddd0" title="Utility function: returns a stroke with rescaled width such that the stroke appears invariant to the ..." alt="" coords="211,1301,388,1342"/><area shape="rect" id="node48" href="classShapeControlPainter.html#a8e1b17d6aaecee9367294b52af667936" title="ShapeControlPainter\l::getShape" alt="" coords="226,1366,373,1408"/><area shape="rect" id="node50" href="classPolygon.html#abcdb0e5be74341fc6667ec22dac1aadc" title="Polygon::toPolygon" alt="" coords="229,1432,370,1459"/><area shape="rect" id="node3" href="classShapeGraphicsItem.html#a409347c0bb8c17579d9e789c8a786e4e" title="Returns pointer to GL canvas. " alt="" coords="436,1301,584,1342"/><area shape="rect" id="node4" href="classMainWindow.html#ab3765a17ae8cdb5891bd873024630c3b" title="MainWindow::getDestination\lCanvas" alt="" coords="643,1217,838,1258"/><area shape="rect" id="node5" href="classMainWindow.html#a4377db0befe543fe0d7914010e21fef1" title="MainWindow::getSourceCanvas" alt="" coords="632,1283,849,1310"/><area shape="rect" id="node6" href="classMainWindow.html#a4f7e1bd77c8b2e64bd374874ff347ede" title="MainWindow::instance" alt="" coords="661,1334,820,1360"/><area shape="rect" id="node47" href="classShapeGraphicsItem.html#a2effd172b4efada4d5b96510be82dc6f" title="Return whether the item is in the destination/output (true) or source/input (false). " alt="" coords="667,1385,815,1426"/><area shape="rect" id="node7" href="classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb" title="MainWindow::MainWindow" alt="" coords="897,1334,1084,1360"/><area shape="rect" id="node8" href="classMainWindow.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="1164,912,1355,939"/><area shape="rect" id="node15" href="classMainWindow.html#affa76730fa370a3466b62a4caee721e3" title="MainWindow::updateRecent\lFileActions" alt="" coords="1984,162,2175,204"/><area shape="rect" id="node21" href="classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="1719,1207,1930,1234"/><area shape="rect" id="node27" href="classMainWindow.html#a3631bdedbef1d5d7e3ea87b62a80d94e" title="MainWindow::setCurrentFile" alt="" coords="1729,228,1920,255"/><area shape="rect" id="node32" href="classMainWindow.html#a4f035b25b6181829a9275155e3ca9bbd" title="MainWindow::play" alt="" coords="1483,1527,1617,1554"/><area shape="rect" id="node37" href="classMainWindow.html#a1f9461bcb5778d6f3e578d2f7f5e91f8" title="MainWindow::createLayout" alt="" coords="1166,1334,1353,1360"/><area shape="rect" id="node38" href="classMainWindow.html#a0a617e8e1ea850a95f6fb98f0149b73a" title="MainWindow::createMapping\lContextMenu" alt="" coords="1161,1385,1358,1426"/><area shape="rect" id="node39" href="classMainWindow.html#aa4907b0251d305659e403c62921ef331" title="MainWindow::createMenus" alt="" coords="1166,1451,1353,1478"/><area shape="rect" id="node40" href="classMainWindow.html#a7db0a504d38b953d63172d57f495dd62" title="MainWindow::createPaintContextMenu" alt="" coords="1132,1502,1387,1528"/><area shape="rect" id="node41" href="classMainWindow.html#af0a8a3f54a87bd7ad6f23248dd0e9c09" title="MainWindow::createStatusBar" alt="" coords="1157,1552,1361,1579"/><area shape="rect" id="node42" href="classMainWindow.html#acce4e32b95d3d5cb48470c053a1740c2" title="MainWindow::createToolBars" alt="" coords="1158,1603,1361,1630"/><area shape="rect" id="node43" href="classMedia.html#a2e556609d9e1cdcc89dfab2c3f20e8de" title="Checks whether or not video is supported on this platform. " alt="" coords="1174,1654,1345,1680"/><area shape="rect" id="node44" href="classMainWindow.html#a06476208b8466211f3bb0fcae787052b" title="MainWindow::readSettings" alt="" coords="1167,127,1351,154"/><area shape="rect" id="node45" href="classMainWindow.html#acef373bab5d075a62cb95daec37b8bd8" title="MainWindow::updateRecent\lVideoActions" alt="" coords="1455,162,1645,204"/><area shape="rect" id="node46" href="classMainWindow.html#a14c9d0130057d50cc0f6d2158017dcfb" title="MainWindow::startOscReceiver" alt="" coords="1154,1704,1365,1731"/><area shape="rect" id="node9" href="classMainWindow.html#a7be6a5d98970ac1a6296c6f9aee1e9bb" title="MainWindow::about" alt="" coords="1479,482,1621,508"/><area shape="rect" id="node10" href="classMainWindow.html#a21617f9c17c835feb00242669db12f58" title="MainWindow::addColor" alt="" coords="1467,532,1633,559"/><area shape="rect" id="node11" href="classMainWindow.html#a8abadd370aa45d729c93333d0cdaff25" title="MainWindow::addEllipse" alt="" coords="1465,583,1635,610"/><area shape="rect" id="node12" href="classMainWindow.html#afd96c759c09ed53670cd4bfe96154193" title="MainWindow::addMesh" alt="" coords="1467,634,1633,660"/><area shape="rect" id="node13" href="classMainWindow.html#a363cdc52f843d78ecd1905d9cb905852" title="MainWindow::addTriangle" alt="" coords="1459,684,1641,711"/><area shape="rect" id="node14" href="classMainWindow.html#adf4eeeb0264b6900cc13ac579bfdec9a" title="MainWindow::clearRecentFileList" alt="" coords="1713,279,1936,306"/><area shape="rect" id="node16" href="classMainWindow.html#a616a8405c4ed083d9ea01cad8613c92c" title="MainWindow::cloneItem" alt="" coords="1467,938,1633,964"/><area shape="rect" id="node17" href="classMainWindow.html#a4d84472e785e23988160f93f4282d23c" title="MainWindow::deleteMappingItem" alt="" coords="1439,988,1661,1015"/><area shape="rect" id="node18" href="classMainWindow.html#a25c9709f00a7cecf44f7f297f23550de" title="MainWindow::deletePaintItem" alt="" coords="1449,1039,1651,1066"/><area shape="rect" id="node19" href="classMainWindow.html#abe929556c320ffe886bd6a5c303dd586" title="MainWindow::displayUndoStack" alt="" coords="1441,1090,1659,1116"/><area shape="rect" id="node20" href="classMainWindow.html#a797729b37eaeb93ce811c3038d05a40c" title="MainWindow::enableDisplay\lControls" alt="" coords="1453,1141,1647,1182"/><area shape="rect" id="node22" href="classMainWindow.html#a1445e292556fdc18d2baf339ca573778" title="MainWindow::enableSticky\lVertices" alt="" coords="1457,1258,1643,1300"/><area shape="rect" id="node23" href="classMainWindow.html#a2bf13c67d7025fb51805e1699a0831ab" title="MainWindow::enableTestSignal" alt="" coords="1443,1207,1657,1234"/><area shape="rect" id="node24" href="classMainWindow.html#a3cda8590f905d291404bacee1aa8feb0" title="MainWindow::importImage" alt="" coords="1459,1324,1641,1351"/><area shape="rect" id="node25" href="classMainWindow.html#a460b782ea4e2a92b75ea97996c09d7b0" title="MainWindow::importVideo" alt="" coords="1460,1375,1640,1402"/><area shape="rect" id="node26" href="classMainWindow.html#a69f73b93cc05c89a9ae1be0161105982" title="MainWindow::newFile" alt="" coords="1473,786,1627,812"/><area shape="rect" id="node28" href="classMainWindow.html#aa7473e4bbbcc281706ac2edef864fb45" title="MainWindow::open" alt="" coords="1481,1426,1619,1452"/><area shape="rect" id="node29" href="classMainWindow.html#a935316315edb9b7af42657da20be0e54" title="MainWindow::openRecentFile" alt="" coords="1449,1476,1651,1503"/><area shape="rect" id="node30" href="classMainWindow.html#a34e2fd1c21a92f5bc3ffc62d8aeeb003" title="MainWindow::openRecentVideo" alt="" coords="1442,330,1658,356"/><area shape="rect" id="node31" href="classMainWindow.html#a17cb661f62805c510b99d9162ac8201a" title="MainWindow::pause" alt="" coords="1477,380,1623,407"/><area shape="rect" id="node33" href="classMainWindow.html#ace4923667dd042d1d8befd28057b0cfa" title="MainWindow::preferences" alt="" coords="1461,431,1639,458"/><area shape="rect" id="node34" href="classMainWindow.html#a3473ce527c5fa8605f56f6e34848935b" title="MainWindow::renameMappingItem" alt="" coords="1435,735,1665,762"/><area shape="rect" id="node35" href="classMainWindow.html#a2b65e72a709c8e96352c593b2abad779" title="MainWindow::renamePaintItem" alt="" coords="1445,836,1655,863"/><area shape="rect" id="node36" href="classMainWindow.html#ae2e2689c253c024e3157ef19c35afe48" title="MainWindow::rewind" alt="" coords="1476,887,1624,914"/><area shape="rect" id="node49" href="classShapeGraphicsItem.html#a0616e5da39fa76e4a488d93088031731" title="Returns the MShape (depends on mapping and whether this is an input or output). " alt="" coords="436,1366,584,1408"/></map>
+<div class="center"><img src="classPolygonControlPainter_a4f3dfb8ae383a8d01d18173875f25138_cgraph.png" border="0" usemap="#classPolygonControlPainter_a4f3dfb8ae383a8d01d18173875f25138_cgraph" alt=""/></div>
+<map name="classPolygonControlPainter_a4f3dfb8ae383a8d01d18173875f25138_cgraph" id="classPolygonControlPainter_a4f3dfb8ae383a8d01d18173875f25138_cgraph">
+<area shape="rect" id="node2" href="classShapeControlPainter.html#a6172af882c2ca08409da17498a75ccba" title="ShapeControlPainter\l::getRescaledShapeStroke" alt="" coords="211,5,396,47"/><area shape="rect" id="node4" href="classShapeControlPainter.html#a8e1b17d6aaecee9367294b52af667936" title="ShapeControlPainter\l::getShape" alt="" coords="230,71,377,112"/><area shape="rect" id="node6" href="classPolygon.html#abcdb0e5be74341fc6667ec22dac1aadc" title="Polygon::toPolygon" alt="" coords="233,137,374,163"/><area shape="rect" id="node3" href="classMapperGLCanvas.html#a420b3961b9d8467cb49a98340051ed91" title="MapperGLCanvas::getZoomFactor" alt="" coords="444,13,677,39"/><area shape="rect" id="node5" href="classShapeGraphicsItem.html#a0616e5da39fa76e4a488d93088031731" title="Returns the MShape (depends on mapping and whether this is an input or output). " alt="" coords="487,71,635,112"/></map>
 </div>
 </p>
 
@@ -262,11 +273,11 @@ Protected Attributes</h2></td></tr>
 
 <p>Definition at line <a class="el" href="ShapeControlPainter_8cpp_source.html#l00028">28</a> of file <a class="el" href="ShapeControlPainter_8cpp_source.html">ShapeControlPainter.cpp</a>.</p>
 
-<p>References <a class="el" href="ShapeControlPainter_8h_source.html#l00050">ShapeControlPainter::_shapeItem</a>, and <a class="el" href="ShapeGraphicsItem_8h_source.html#l00060">ShapeGraphicsItem::getShape()</a>.</p>
+<p>References <a class="el" href="ShapeControlPainter_8h_source.html#l00054">ShapeControlPainter::_shapeItem</a>, and <a class="el" href="ShapeGraphicsItem_8h_source.html#l00060">ShapeGraphicsItem::getShape()</a>.</p>
 
-<p>Referenced by <a class="el" href="ShapeControlPainter_8cpp_source.html#l00046">_paintShape()</a>, <a class="el" href="ShapeControlPainter_8cpp_source.html#l00059">EllipseControlPainter::_paintShape()</a>, <a class="el" href="ShapeControlPainter_8cpp_source.html#l00077">MeshControlPainter::_paintShape()</a>, and <a class="el" href="ShapeControlPainter_8cpp_source.html#l00036">ShapeControlPainter::_paintVertices()</a>.</p>
+<p>Referenced by <a class="el" href="ShapeControlPainter_8cpp_source.html#l00051">_paintShape()</a>, <a class="el" href="ShapeControlPainter_8cpp_source.html#l00064">EllipseControlPainter::_paintShape()</a>, <a class="el" href="ShapeControlPainter_8cpp_source.html#l00082">MeshControlPainter::_paintShape()</a>, and <a class="el" href="ShapeControlPainter_8cpp_source.html#l00036">ShapeControlPainter::_paintVertices()</a>.</p>
 <div class="fragment"><div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;{ <span class="keywordflow">return</span> <a class="code" href="classShapeControlPainter.html#a1e0f76d40c703a09a839eee6abdeff5e">_shapeItem</a>-&gt;<a class="code" href="classShapeGraphicsItem.html#a0616e5da39fa76e4a488d93088031731">getShape</a>(); }</div>
-<div class="ttc" id="classShapeControlPainter_html_a1e0f76d40c703a09a839eee6abdeff5e"><div class="ttname"><a href="classShapeControlPainter.html#a1e0f76d40c703a09a839eee6abdeff5e">ShapeControlPainter::_shapeItem</a></div><div class="ttdeci">ShapeGraphicsItem * _shapeItem</div><div class="ttdef"><b>Definition:</b> <a href="ShapeControlPainter_8h_source.html#l00050">ShapeControlPainter.h:50</a></div></div>
+<div class="ttc" id="classShapeControlPainter_html_a1e0f76d40c703a09a839eee6abdeff5e"><div class="ttname"><a href="classShapeControlPainter.html#a1e0f76d40c703a09a839eee6abdeff5e">ShapeControlPainter::_shapeItem</a></div><div class="ttdeci">ShapeGraphicsItem * _shapeItem</div><div class="ttdef"><b>Definition:</b> <a href="ShapeControlPainter_8h_source.html#l00054">ShapeControlPainter.h:54</a></div></div>
 <div class="ttc" id="classShapeGraphicsItem_html_a0616e5da39fa76e4a488d93088031731"><div class="ttname"><a href="classShapeGraphicsItem.html#a0616e5da39fa76e4a488d93088031731">ShapeGraphicsItem::getShape</a></div><div class="ttdeci">MShape::ptr getShape() const </div><div class="ttdoc">Returns the MShape (depends on mapping and whether this is an input or output). </div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00060">ShapeGraphicsItem.h:60</a></div></div>
 </div><!-- fragment -->
 <p><div id="dynsection-3" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
@@ -287,13 +298,13 @@ Protected Attributes</h2></td></tr>
 <div id="dynsection-4-content" class="dyncontent" style="display:none;">
 <div class="center"><img src="classShapeControlPainter_a8e1b17d6aaecee9367294b52af667936_icgraph.png" border="0" usemap="#classShapeControlPainter_a8e1b17d6aaecee9367294b52af667936_icgraph" alt=""/></div>
 <map name="classShapeControlPainter_a8e1b17d6aaecee9367294b52af667936_icgraph" id="classShapeControlPainter_a8e1b17d6aaecee9367294b52af667936_icgraph">
-<area shape="rect" id="node2" href="classPolygonControlPainter.html#adb676c3371605930d669701b65580f51" title="PolygonControlPainter\l::_paintShape" alt="" coords="200,5,357,47"/><area shape="rect" id="node3" href="classEllipseControlPainter.html#ad858b1c8f52a54245ca047619c4cef9e" title="EllipseControlPainter\l::_paintShape" alt="" coords="205,71,352,112"/><area shape="rect" id="node4" href="classMeshControlPainter.html#a6aebae0b4e8d9b49c53d8d8b9e3904e3" title="MeshControlPainter\l::_paintShape" alt="" coords="209,136,349,177"/><area shape="rect" id="node5" href="classShapeControlPainter.html#a3f98d005fa8202d873bb34ada3e78ef0" title="ShapeControlPainter\l::_paintVertices" alt="" coords="205,201,352,243"/><area shape="rect" id="node6" href="classShapeControlPainter.html#acf7b5733ad7f7827960fa226d92dfacb" title="ShapeControlPainter\l::paint" alt="" coords="405,201,552,243"/></map>
+<area shape="rect" id="node2" href="classPolygonControlPainter.html#a4f3dfb8ae383a8d01d18173875f25138" title="PolygonControlPainter\l::_paintShape" alt="" coords="200,5,357,47"/><area shape="rect" id="node3" href="classEllipseControlPainter.html#a527e17b7b43f7bacb6ab4cee31d0e76c" title="EllipseControlPainter\l::_paintShape" alt="" coords="205,71,352,112"/><area shape="rect" id="node4" href="classMeshControlPainter.html#a3ddce4455d2e32de45b743438d037867" title="MeshControlPainter\l::_paintShape" alt="" coords="209,136,349,177"/><area shape="rect" id="node5" href="classShapeControlPainter.html#a8774237d93d0630b7f71116142840f6f" title="ShapeControlPainter\l::_paintVertices" alt="" coords="205,201,352,243"/><area shape="rect" id="node6" href="classShapeControlPainter.html#a545518ded9e831c05a008f08f4f58a0b" title="ShapeControlPainter\l::paint" alt="" coords="405,201,552,243"/></map>
 </div>
 </p>
 
 </div>
 </div>
-<a class="anchor" id="acf7b5733ad7f7827960fa226d92dfacb"></a>
+<a class="anchor" id="a545518ded9e831c05a008f08f4f58a0b"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -305,6 +316,12 @@ Protected Attributes</h2></td></tr>
           <td>(</td>
           <td class="paramtype">QPainter *&#160;</td>
           <td class="paramname"><em>painter</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="classMapperGLCanvas.html">MapperGLCanvas</a> *&#160;</td>
+          <td class="paramname"><em>canvas</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -327,28 +344,28 @@ Protected Attributes</h2></td></tr>
 
 <p>Definition at line <a class="el" href="ShapeControlPainter_8cpp_source.html#l00030">30</a> of file <a class="el" href="ShapeControlPainter_8cpp_source.html">ShapeControlPainter.cpp</a>.</p>
 
-<p>References <a class="el" href="classShapeControlPainter.html#adce0bf44d889b5322f2c426238da68c8">ShapeControlPainter::_paintShape()</a>, and <a class="el" href="ShapeControlPainter_8cpp_source.html#l00036">ShapeControlPainter::_paintVertices()</a>.</p>
+<p>References <a class="el" href="classShapeControlPainter.html#aa7ecafb2bad9a647a8c3ecca306fc8de">ShapeControlPainter::_paintShape()</a>, and <a class="el" href="ShapeControlPainter_8cpp_source.html#l00036">ShapeControlPainter::_paintVertices()</a>.</p>
 <div class="fragment"><div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;{</div>
-<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;  <a class="code" href="classShapeControlPainter.html#adce0bf44d889b5322f2c426238da68c8">_paintShape</a>(painter);</div>
-<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;  <a class="code" href="classShapeControlPainter.html#a3f98d005fa8202d873bb34ada3e78ef0">_paintVertices</a>(painter, selectedVertices);</div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;  <a class="code" href="classShapeControlPainter.html#aa7ecafb2bad9a647a8c3ecca306fc8de">_paintShape</a>(painter, canvas);</div>
+<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;  <a class="code" href="classShapeControlPainter.html#a8774237d93d0630b7f71116142840f6f">_paintVertices</a>(painter, canvas, selectedVertices);</div>
 <div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;}</div>
-<div class="ttc" id="classShapeControlPainter_html_a3f98d005fa8202d873bb34ada3e78ef0"><div class="ttname"><a href="classShapeControlPainter.html#a3f98d005fa8202d873bb34ada3e78ef0">ShapeControlPainter::_paintVertices</a></div><div class="ttdeci">virtual void _paintVertices(QPainter *painter, const QList&lt; int &gt; &amp;selectedVertices=QList&lt; int &gt;())</div><div class="ttdef"><b>Definition:</b> <a href="ShapeControlPainter_8cpp_source.html#l00036">ShapeControlPainter.cpp:36</a></div></div>
-<div class="ttc" id="classShapeControlPainter_html_adce0bf44d889b5322f2c426238da68c8"><div class="ttname"><a href="classShapeControlPainter.html#adce0bf44d889b5322f2c426238da68c8">ShapeControlPainter::_paintShape</a></div><div class="ttdeci">virtual void _paintShape(QPainter *painter)=0</div></div>
+<div class="ttc" id="classShapeControlPainter_html_a8774237d93d0630b7f71116142840f6f"><div class="ttname"><a href="classShapeControlPainter.html#a8774237d93d0630b7f71116142840f6f">ShapeControlPainter::_paintVertices</a></div><div class="ttdeci">virtual void _paintVertices(QPainter *painter, MapperGLCanvas *canvas, const QList&lt; int &gt; &amp;selectedVertices=QList&lt; int &gt;())</div><div class="ttdef"><b>Definition:</b> <a href="ShapeControlPainter_8cpp_source.html#l00036">ShapeControlPainter.cpp:36</a></div></div>
+<div class="ttc" id="classShapeControlPainter_html_aa7ecafb2bad9a647a8c3ecca306fc8de"><div class="ttname"><a href="classShapeControlPainter.html#aa7ecafb2bad9a647a8c3ecca306fc8de">ShapeControlPainter::_paintShape</a></div><div class="ttdeci">virtual void _paintShape(QPainter *painter, MapperGLCanvas *canvas)=0</div></div>
 </div><!-- fragment -->
 <p><div id="dynsection-5" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-5-trigger" src="closed.png" alt="+"/> Here is the call graph for this function:</div>
 <div id="dynsection-5-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-5-content" class="dyncontent" style="display:none;">
-<div class="center"><img src="classShapeControlPainter_acf7b5733ad7f7827960fa226d92dfacb_cgraph.png" border="0" usemap="#classShapeControlPainter_acf7b5733ad7f7827960fa226d92dfacb_cgraph" alt=""/></div>
-<map name="classShapeControlPainter_acf7b5733ad7f7827960fa226d92dfacb_cgraph" id="classShapeControlPainter_acf7b5733ad7f7827960fa226d92dfacb_cgraph">
-<area shape="rect" id="node2" href="classShapeControlPainter.html#adce0bf44d889b5322f2c426238da68c8" title="ShapeControlPainter\l::_paintShape" alt="" coords="200,1291,347,1332"/><area shape="rect" id="node3" href="classShapeControlPainter.html#a3f98d005fa8202d873bb34ada3e78ef0" title="ShapeControlPainter\l::_paintVertices" alt="" coords="200,1356,347,1398"/><area shape="rect" id="node4" href="namespaceUtil.html#a3e46993e9719513fc118a3b662ceaf7d" title="Util::drawControlsVertex" alt="" coords="428,1272,595,1298"/><area shape="rect" id="node5" href="classShapeGraphicsItem.html#a409347c0bb8c17579d9e789c8a786e4e" title="Returns pointer to GL canvas. " alt="" coords="437,1323,585,1364"/><area shape="rect" id="node48" href="classShapeControlPainter.html#a8e1b17d6aaecee9367294b52af667936" title="ShapeControlPainter\l::getShape" alt="" coords="438,1388,585,1430"/><area shape="rect" id="node50" href="classMapperGLCanvas.html#a420b3961b9d8467cb49a98340051ed91" title="MapperGLCanvas::getZoomFactor" alt="" coords="395,1454,628,1481"/><area shape="rect" id="node6" href="classMainWindow.html#ab3765a17ae8cdb5891bd873024630c3b" title="MainWindow::getDestination\lCanvas" alt="" coords="687,1388,882,1430"/><area shape="rect" id="node7" href="classMainWindow.html#a4377db0befe543fe0d7914010e21fef1" title="MainWindow::getSourceCanvas" alt="" coords="676,1221,893,1248"/><area shape="rect" id="node8" href="classMainWindow.html#a4f7e1bd77c8b2e64bd374874ff347ede" title="MainWindow::instance" alt="" coords="705,1272,864,1298"/><area shape="rect" id="node47" href="classShapeGraphicsItem.html#a2effd172b4efada4d5b96510be82dc6f" title="Return whether the item is in the destination/output (true) or source/input (false). " alt="" coords="711,1323,859,1364"/><area shape="rect" id="node9" href="classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb" title="MainWindow::MainWindow" alt="" coords="941,1272,1128,1298"/><area shape="rect" id="node10" href="classMainWindow.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="1208,892,1399,918"/><area shape="rect" id="node17" href="classMainWindow.html#affa76730fa370a3466b62a4caee721e3" title="MainWindow::updateRecent\lFileActions" alt="" coords="2028,194,2219,235"/><area shape="rect" id="node23" href="classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="1763,749,1974,776"/><area shape="rect" id="node29" href="classMainWindow.html#a3631bdedbef1d5d7e3ea87b62a80d94e" title="MainWindow::setCurrentFile" alt="" coords="1773,226,1964,253"/><area shape="rect" id="node34" href="classMainWindow.html#a4f035b25b6181829a9275155e3ca9bbd" title="MainWindow::play" alt="" coords="1527,1424,1661,1450"/><area shape="rect" id="node37" href="classMainWindow.html#a1f9461bcb5778d6f3e578d2f7f5e91f8" title="MainWindow::createLayout" alt="" coords="1210,1272,1397,1298"/><area shape="rect" id="node38" href="classMainWindow.html#a0a617e8e1ea850a95f6fb98f0149b73a" title="MainWindow::createMapping\lContextMenu" alt="" coords="1205,1323,1402,1364"/><area shape="rect" id="node39" href="classMainWindow.html#aa4907b0251d305659e403c62921ef331" title="MainWindow::createMenus" alt="" coords="1210,1389,1397,1416"/><area shape="rect" id="node40" href="classMainWindow.html#a7db0a504d38b953d63172d57f495dd62" title="MainWindow::createPaintContextMenu" alt="" coords="1176,1440,1431,1466"/><area shape="rect" id="node41" href="classMainWindow.html#af0a8a3f54a87bd7ad6f23248dd0e9c09" title="MainWindow::createStatusBar" alt="" coords="1201,1490,1405,1517"/><area shape="rect" id="node42" href="classMainWindow.html#acce4e32b95d3d5cb48470c053a1740c2" title="MainWindow::createToolBars" alt="" coords="1202,1541,1405,1568"/><area shape="rect" id="node43" href="classMedia.html#a2e556609d9e1cdcc89dfab2c3f20e8de" title="Checks whether or not video is supported on this platform. " alt="" coords="1218,1592,1389,1618"/><area shape="rect" id="node44" href="classMainWindow.html#a06476208b8466211f3bb0fcae787052b" title="MainWindow::readSettings" alt="" coords="1211,176,1395,202"/><area shape="rect" id="node45" href="classMainWindow.html#acef373bab5d075a62cb95daec37b8bd8" title="MainWindow::updateRecent\lVideoActions" alt="" coords="1499,110,1689,151"/><area shape="rect" id="node46" href="classMainWindow.html#a14c9d0130057d50cc0f6d2158017dcfb" title="MainWindow::startOscReceiver" alt="" coords="1198,1642,1409,1669"/><area shape="rect" id="node11" href="classMainWindow.html#a7be6a5d98970ac1a6296c6f9aee1e9bb" title="MainWindow::about" alt="" coords="1523,1120,1665,1146"/><area shape="rect" id="node12" href="classMainWindow.html#a21617f9c17c835feb00242669db12f58" title="MainWindow::addColor" alt="" coords="1511,1170,1677,1197"/><area shape="rect" id="node13" href="classMainWindow.html#a8abadd370aa45d729c93333d0cdaff25" title="MainWindow::addEllipse" alt="" coords="1509,1221,1679,1248"/><area shape="rect" id="node14" href="classMainWindow.html#afd96c759c09ed53670cd4bfe96154193" title="MainWindow::addMesh" alt="" coords="1511,1272,1677,1298"/><area shape="rect" id="node15" href="classMainWindow.html#a363cdc52f843d78ecd1905d9cb905852" title="MainWindow::addTriangle" alt="" coords="1503,1322,1685,1349"/><area shape="rect" id="node16" href="classMainWindow.html#adf4eeeb0264b6900cc13ac579bfdec9a" title="MainWindow::clearRecentFileList" alt="" coords="1757,277,1980,304"/><area shape="rect" id="node18" href="classMainWindow.html#a616a8405c4ed083d9ea01cad8613c92c" title="MainWindow::cloneItem" alt="" coords="1511,429,1677,456"/><area shape="rect" id="node19" href="classMainWindow.html#a4d84472e785e23988160f93f4282d23c" title="MainWindow::deleteMappingItem" alt="" coords="1483,480,1705,506"/><area shape="rect" id="node20" href="classMainWindow.html#a25c9709f00a7cecf44f7f297f23550de" title="MainWindow::deletePaintItem" alt="" coords="1493,530,1695,557"/><area shape="rect" id="node21" href="classMainWindow.html#abe929556c320ffe886bd6a5c303dd586" title="MainWindow::displayUndoStack" alt="" coords="1485,698,1703,725"/><area shape="rect" id="node22" href="classMainWindow.html#a797729b37eaeb93ce811c3038d05a40c" title="MainWindow::enableDisplay\lControls" alt="" coords="1497,632,1691,674"/><area shape="rect" id="node24" href="classMainWindow.html#a1445e292556fdc18d2baf339ca573778" title="MainWindow::enableSticky\lVertices" alt="" coords="1501,800,1687,842"/><area shape="rect" id="node25" href="classMainWindow.html#a2bf13c67d7025fb51805e1699a0831ab" title="MainWindow::enableTestSignal" alt="" coords="1487,749,1701,776"/><area shape="rect" id="node26" href="classMainWindow.html#a3cda8590f905d291404bacee1aa8feb0" title="MainWindow::importImage" alt="" coords="1503,866,1685,893"/><area shape="rect" id="node27" href="classMainWindow.html#a460b782ea4e2a92b75ea97996c09d7b0" title="MainWindow::importVideo" alt="" coords="1504,917,1684,944"/><area shape="rect" id="node28" href="classMainWindow.html#a69f73b93cc05c89a9ae1be0161105982" title="MainWindow::newFile" alt="" coords="1517,581,1671,608"/><area shape="rect" id="node30" href="classMainWindow.html#aa7473e4bbbcc281706ac2edef864fb45" title="MainWindow::open" alt="" coords="1525,968,1663,994"/><area shape="rect" id="node31" href="classMainWindow.html#a935316315edb9b7af42657da20be0e54" title="MainWindow::openRecentFile" alt="" coords="1493,1018,1695,1045"/><area shape="rect" id="node32" href="classMainWindow.html#a34e2fd1c21a92f5bc3ffc62d8aeeb003" title="MainWindow::openRecentVideo" alt="" coords="1486,1069,1702,1096"/><area shape="rect" id="node33" href="classMainWindow.html#a17cb661f62805c510b99d9162ac8201a" title="MainWindow::pause" alt="" coords="1521,1373,1667,1400"/><area shape="rect" id="node35" href="classMainWindow.html#ace4923667dd042d1d8befd28057b0cfa" title="MainWindow::preferences" alt="" coords="1505,328,1683,354"/><area shape="rect" id="node36" href="classMainWindow.html#a3473ce527c5fa8605f56f6e34848935b" title="MainWindow::renameMappingItem" alt="" coords="1479,378,1709,405"/><area shape="rect" id="node49" href="classShapeGraphicsItem.html#a0616e5da39fa76e4a488d93088031731" title="Returns the MShape (depends on mapping and whether this is an input or output). " alt="" coords="711,1454,859,1495"/></map>
+<div class="center"><img src="classShapeControlPainter_a545518ded9e831c05a008f08f4f58a0b_cgraph.png" border="0" usemap="#classShapeControlPainter_a545518ded9e831c05a008f08f4f58a0b_cgraph" alt=""/></div>
+<map name="classShapeControlPainter_a545518ded9e831c05a008f08f4f58a0b_cgraph" id="classShapeControlPainter_a545518ded9e831c05a008f08f4f58a0b_cgraph">
+<area shape="rect" id="node2" href="classShapeControlPainter.html#aa7ecafb2bad9a647a8c3ecca306fc8de" title="ShapeControlPainter\l::_paintShape" alt="" coords="200,5,347,47"/><area shape="rect" id="node3" href="classShapeControlPainter.html#a8774237d93d0630b7f71116142840f6f" title="ShapeControlPainter\l::_paintVertices" alt="" coords="200,71,347,112"/><area shape="rect" id="node4" href="namespaceUtil.html#a3e46993e9719513fc118a3b662ceaf7d" title="Util::drawControlsVertex" alt="" coords="428,19,595,46"/><area shape="rect" id="node5" href="classShapeControlPainter.html#a8e1b17d6aaecee9367294b52af667936" title="ShapeControlPainter\l::getShape" alt="" coords="438,71,585,112"/><area shape="rect" id="node7" href="classMapperGLCanvas.html#a420b3961b9d8467cb49a98340051ed91" title="MapperGLCanvas::getZoomFactor" alt="" coords="395,137,628,163"/><area shape="rect" id="node6" href="classShapeGraphicsItem.html#a0616e5da39fa76e4a488d93088031731" title="Returns the MShape (depends on mapping and whether this is an input or output). " alt="" coords="676,71,824,112"/></map>
 </div>
 </p>
 
 </div>
 </div>
-<a class="anchor" id="a3f98d005fa8202d873bb34ada3e78ef0"></a>
+<a class="anchor" id="a8774237d93d0630b7f71116142840f6f"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -360,6 +377,12 @@ Protected Attributes</h2></td></tr>
           <td>(</td>
           <td class="paramtype">QPainter *&#160;</td>
           <td class="paramname"><em>painter</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="classMapperGLCanvas.html">MapperGLCanvas</a> *&#160;</td>
+          <td class="paramname"><em>canvas</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -382,21 +405,19 @@ Protected Attributes</h2></td></tr>
 
 <p>Definition at line <a class="el" href="ShapeControlPainter_8cpp_source.html#l00036">36</a> of file <a class="el" href="ShapeControlPainter_8cpp_source.html">ShapeControlPainter.cpp</a>.</p>
 
-<p>References <a class="el" href="ShapeControlPainter_8h_source.html#l00050">ShapeControlPainter::_shapeItem</a>, <a class="el" href="Util_8cpp_source.html#l00153">Util::drawControlsVertex()</a>, <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00031">ShapeGraphicsItem::getCanvas()</a>, <a class="el" href="ShapeControlPainter_8cpp_source.html#l00028">ShapeControlPainter::getShape()</a>, <a class="el" href="MapperGLCanvas_8h_source.html#l00089">MapperGLCanvas::getZoomFactor()</a>, <a class="el" href="MM_8h_source.html#l00067">MM::VERTEX_SELECT_RADIUS</a>, and <a class="el" href="MM_8h_source.html#l00068">MM::VERTEX_SELECT_STROKE_WIDTH</a>.</p>
+<p>References <a class="el" href="Util_8cpp_source.html#l00153">Util::drawControlsVertex()</a>, <a class="el" href="ShapeControlPainter_8cpp_source.html#l00028">ShapeControlPainter::getShape()</a>, <a class="el" href="MapperGLCanvas_8h_source.html#l00089">MapperGLCanvas::getZoomFactor()</a>, <a class="el" href="MM_8h_source.html#l00067">MM::VERTEX_SELECT_RADIUS</a>, and <a class="el" href="MM_8h_source.html#l00068">MM::VERTEX_SELECT_STROKE_WIDTH</a>.</p>
 
 <p>Referenced by <a class="el" href="ShapeControlPainter_8cpp_source.html#l00030">ShapeControlPainter::paint()</a>.</p>
 <div class="fragment"><div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;{</div>
-<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;  qreal zoomFactor = <a class="code" href="classShapeControlPainter.html#a1e0f76d40c703a09a839eee6abdeff5e">_shapeItem</a>-&gt;<a class="code" href="classShapeGraphicsItem.html#a409347c0bb8c17579d9e789c8a786e4e">getCanvas</a>()-&gt;<a class="code" href="classMapperGLCanvas.html#a420b3961b9d8467cb49a98340051ed91">getZoomFactor</a>();</div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;  qreal zoomFactor = canvas-&gt;<a class="code" href="classMapperGLCanvas.html#a420b3961b9d8467cb49a98340051ed91">getZoomFactor</a>();</div>
 <div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;  qreal selectRadius = <a class="code" href="classMM.html#a081aaf867b03efa1dc48c9729672ac85">MM::VERTEX_SELECT_RADIUS</a> / zoomFactor;</div>
 <div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;  qreal strokeWidth  = <a class="code" href="classMM.html#a85453e30f1e4bdfde29a26545c54100b">MM::VERTEX_SELECT_STROKE_WIDTH</a> / zoomFactor;</div>
 <div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;</div>
 <div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;  <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i=0; i&lt;<a class="code" href="classShapeControlPainter.html#a8e1b17d6aaecee9367294b52af667936">getShape</a>()-&gt;nVertices(); i++)</div>
 <div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;    <a class="code" href="namespaceUtil.html#a3e46993e9719513fc118a3b662ceaf7d">Util::drawControlsVertex</a>(painter, <a class="code" href="classShapeControlPainter.html#a8e1b17d6aaecee9367294b52af667936">getShape</a>()-&gt;getVertex(i), selectedVertices.contains(i), selectRadius, strokeWidth);</div>
 <div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;}</div>
-<div class="ttc" id="classShapeControlPainter_html_a1e0f76d40c703a09a839eee6abdeff5e"><div class="ttname"><a href="classShapeControlPainter.html#a1e0f76d40c703a09a839eee6abdeff5e">ShapeControlPainter::_shapeItem</a></div><div class="ttdeci">ShapeGraphicsItem * _shapeItem</div><div class="ttdef"><b>Definition:</b> <a href="ShapeControlPainter_8h_source.html#l00050">ShapeControlPainter.h:50</a></div></div>
 <div class="ttc" id="classMapperGLCanvas_html_a420b3961b9d8467cb49a98340051ed91"><div class="ttname"><a href="classMapperGLCanvas.html#a420b3961b9d8467cb49a98340051ed91">MapperGLCanvas::getZoomFactor</a></div><div class="ttdeci">qreal getZoomFactor() const </div><div class="ttdef"><b>Definition:</b> <a href="MapperGLCanvas_8h_source.html#l00089">MapperGLCanvas.h:89</a></div></div>
 <div class="ttc" id="classShapeControlPainter_html_a8e1b17d6aaecee9367294b52af667936"><div class="ttname"><a href="classShapeControlPainter.html#a8e1b17d6aaecee9367294b52af667936">ShapeControlPainter::getShape</a></div><div class="ttdeci">MShape::ptr getShape() const </div><div class="ttdef"><b>Definition:</b> <a href="ShapeControlPainter_8cpp_source.html#l00028">ShapeControlPainter.cpp:28</a></div></div>
-<div class="ttc" id="classShapeGraphicsItem_html_a409347c0bb8c17579d9e789c8a786e4e"><div class="ttname"><a href="classShapeGraphicsItem.html#a409347c0bb8c17579d9e789c8a786e4e">ShapeGraphicsItem::getCanvas</a></div><div class="ttdeci">MapperGLCanvas * getCanvas() const </div><div class="ttdoc">Returns pointer to GL canvas. </div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8cpp_source.html#l00031">ShapeGraphicsItem.cpp:31</a></div></div>
 <div class="ttc" id="classMM_html_a85453e30f1e4bdfde29a26545c54100b"><div class="ttname"><a href="classMM.html#a85453e30f1e4bdfde29a26545c54100b">MM::VERTEX_SELECT_STROKE_WIDTH</a></div><div class="ttdeci">static const qreal VERTEX_SELECT_STROKE_WIDTH</div><div class="ttdef"><b>Definition:</b> <a href="MM_8h_source.html#l00068">MM.h:68</a></div></div>
 <div class="ttc" id="classMM_html_a081aaf867b03efa1dc48c9729672ac85"><div class="ttname"><a href="classMM.html#a081aaf867b03efa1dc48c9729672ac85">MM::VERTEX_SELECT_RADIUS</a></div><div class="ttdeci">static const qreal VERTEX_SELECT_RADIUS</div><div class="ttdef"><b>Definition:</b> <a href="MM_8h_source.html#l00067">MM.h:67</a></div></div>
 <div class="ttc" id="namespaceUtil_html_a3e46993e9719513fc118a3b662ceaf7d"><div class="ttname"><a href="namespaceUtil.html#a3e46993e9719513fc118a3b662ceaf7d">Util::drawControlsVertex</a></div><div class="ttdeci">void drawControlsVertex(QPainter *painter, const QPointF &amp;vertex, bool selected, qreal radius, qreal strokeWidth)</div><div class="ttdef"><b>Definition:</b> <a href="Util_8cpp_source.html#l00153">Util.cpp:153</a></div></div>
@@ -406,9 +427,9 @@ Protected Attributes</h2></td></tr>
 <div id="dynsection-6-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-6-content" class="dyncontent" style="display:none;">
-<div class="center"><img src="classShapeControlPainter_a3f98d005fa8202d873bb34ada3e78ef0_cgraph.png" border="0" usemap="#classShapeControlPainter_a3f98d005fa8202d873bb34ada3e78ef0_cgraph" alt=""/></div>
-<map name="classShapeControlPainter_a3f98d005fa8202d873bb34ada3e78ef0_cgraph" id="classShapeControlPainter_a3f98d005fa8202d873bb34ada3e78ef0_cgraph">
-<area shape="rect" id="node2" href="namespaceUtil.html#a3e46993e9719513fc118a3b662ceaf7d" title="Util::drawControlsVertex" alt="" coords="233,1224,400,1251"/><area shape="rect" id="node3" href="classShapeGraphicsItem.html#a409347c0bb8c17579d9e789c8a786e4e" title="Returns pointer to GL canvas. " alt="" coords="243,1276,391,1317"/><area shape="rect" id="node48" href="classShapeControlPainter.html#a8e1b17d6aaecee9367294b52af667936" title="ShapeControlPainter\l::getShape" alt="" coords="243,1341,390,1382"/><area shape="rect" id="node50" href="classMapperGLCanvas.html#a420b3961b9d8467cb49a98340051ed91" title="MapperGLCanvas::getZoomFactor" alt="" coords="200,1407,433,1434"/><area shape="rect" id="node4" href="classMainWindow.html#ab3765a17ae8cdb5891bd873024630c3b" title="MainWindow::getDestination\lCanvas" alt="" coords="493,1217,687,1258"/><area shape="rect" id="node5" href="classMainWindow.html#a4377db0befe543fe0d7914010e21fef1" title="MainWindow::getSourceCanvas" alt="" coords="481,1283,699,1310"/><area shape="rect" id="node6" href="classMainWindow.html#a4f7e1bd77c8b2e64bd374874ff347ede" title="MainWindow::instance" alt="" coords="511,1334,669,1360"/><area shape="rect" id="node47" href="classShapeGraphicsItem.html#a2effd172b4efada4d5b96510be82dc6f" title="Return whether the item is in the destination/output (true) or source/input (false). " alt="" coords="516,1152,664,1193"/><area shape="rect" id="node7" href="classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb" title="MainWindow::MainWindow" alt="" coords="747,1334,933,1360"/><area shape="rect" id="node8" href="classMainWindow.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="1013,912,1204,939"/><area shape="rect" id="node15" href="classMainWindow.html#affa76730fa370a3466b62a4caee721e3" title="MainWindow::updateRecent\lFileActions" alt="" coords="1833,162,2024,204"/><area shape="rect" id="node21" href="classMainWindow.html#a3472ef0c3538f2d03f5a6760ea58f941" title="Updates all canvases. " alt="" coords="1569,1207,1779,1234"/><area shape="rect" id="node27" href="classMainWindow.html#a3631bdedbef1d5d7e3ea87b62a80d94e" title="MainWindow::setCurrentFile" alt="" coords="1579,228,1769,255"/><area shape="rect" id="node32" href="classMainWindow.html#a4f035b25b6181829a9275155e3ca9bbd" title="MainWindow::play" alt="" coords="1333,1527,1466,1554"/><area shape="rect" id="node37" href="classMainWindow.html#a1f9461bcb5778d6f3e578d2f7f5e91f8" title="MainWindow::createLayout" alt="" coords="1015,1334,1202,1360"/><area shape="rect" id="node38" href="classMainWindow.html#a0a617e8e1ea850a95f6fb98f0149b73a" title="MainWindow::createMapping\lContextMenu" alt="" coords="1010,1385,1207,1426"/><area shape="rect" id="node39" href="classMainWindow.html#aa4907b0251d305659e403c62921ef331" title="MainWindow::createMenus" alt="" coords="1015,1451,1202,1478"/><area shape="rect" id="node40" href="classMainWindow.html#a7db0a504d38b953d63172d57f495dd62" title="MainWindow::createPaintContextMenu" alt="" coords="981,1502,1236,1528"/><area shape="rect" id="node41" href="classMainWindow.html#af0a8a3f54a87bd7ad6f23248dd0e9c09" title="MainWindow::createStatusBar" alt="" coords="1007,1552,1211,1579"/><area shape="rect" id="node42" href="classMainWindow.html#acce4e32b95d3d5cb48470c053a1740c2" title="MainWindow::createToolBars" alt="" coords="1007,1603,1210,1630"/><area shape="rect" id="node43" href="classMedia.html#a2e556609d9e1cdcc89dfab2c3f20e8de" title="Checks whether or not video is supported on this platform. " alt="" coords="1023,1654,1194,1680"/><area shape="rect" id="node44" href="classMainWindow.html#a06476208b8466211f3bb0fcae787052b" title="MainWindow::readSettings" alt="" coords="1017,127,1201,154"/><area shape="rect" id="node45" href="classMainWindow.html#acef373bab5d075a62cb95daec37b8bd8" title="MainWindow::updateRecent\lVideoActions" alt="" coords="1304,162,1495,204"/><area shape="rect" id="node46" href="classMainWindow.html#a14c9d0130057d50cc0f6d2158017dcfb" title="MainWindow::startOscReceiver" alt="" coords="1003,1704,1214,1731"/><area shape="rect" id="node9" href="classMainWindow.html#a7be6a5d98970ac1a6296c6f9aee1e9bb" title="MainWindow::about" alt="" coords="1329,482,1470,508"/><area shape="rect" id="node10" href="classMainWindow.html#a21617f9c17c835feb00242669db12f58" title="MainWindow::addColor" alt="" coords="1317,532,1482,559"/><area shape="rect" id="node11" href="classMainWindow.html#a8abadd370aa45d729c93333d0cdaff25" title="MainWindow::addEllipse" alt="" coords="1314,583,1485,610"/><area shape="rect" id="node12" href="classMainWindow.html#afd96c759c09ed53670cd4bfe96154193" title="MainWindow::addMesh" alt="" coords="1317,634,1482,660"/><area shape="rect" id="node13" href="classMainWindow.html#a363cdc52f843d78ecd1905d9cb905852" title="MainWindow::addTriangle" alt="" coords="1308,684,1491,711"/><area shape="rect" id="node14" href="classMainWindow.html#adf4eeeb0264b6900cc13ac579bfdec9a" title="MainWindow::clearRecentFileList" alt="" coords="1563,279,1785,306"/><area shape="rect" id="node16" href="classMainWindow.html#a616a8405c4ed083d9ea01cad8613c92c" title="MainWindow::cloneItem" alt="" coords="1316,938,1483,964"/><area shape="rect" id="node17" href="classMainWindow.html#a4d84472e785e23988160f93f4282d23c" title="MainWindow::deleteMappingItem" alt="" coords="1288,988,1511,1015"/><area shape="rect" id="node18" href="classMainWindow.html#a25c9709f00a7cecf44f7f297f23550de" title="MainWindow::deletePaintItem" alt="" coords="1299,1039,1500,1066"/><area shape="rect" id="node19" href="classMainWindow.html#abe929556c320ffe886bd6a5c303dd586" title="MainWindow::displayUndoStack" alt="" coords="1291,1090,1508,1116"/><area shape="rect" id="node20" href="classMainWindow.html#a797729b37eaeb93ce811c3038d05a40c" title="MainWindow::enableDisplay\lControls" alt="" coords="1302,1141,1497,1182"/><area shape="rect" id="node22" href="classMainWindow.html#a1445e292556fdc18d2baf339ca573778" title="MainWindow::enableSticky\lVertices" alt="" coords="1307,1258,1492,1300"/><area shape="rect" id="node23" href="classMainWindow.html#a2bf13c67d7025fb51805e1699a0831ab" title="MainWindow::enableTestSignal" alt="" coords="1292,1207,1507,1234"/><area shape="rect" id="node24" href="classMainWindow.html#a3cda8590f905d291404bacee1aa8feb0" title="MainWindow::importImage" alt="" coords="1308,1324,1491,1351"/><area shape="rect" id="node25" href="classMainWindow.html#a460b782ea4e2a92b75ea97996c09d7b0" title="MainWindow::importVideo" alt="" coords="1309,1375,1489,1402"/><area shape="rect" id="node26" href="classMainWindow.html#a69f73b93cc05c89a9ae1be0161105982" title="MainWindow::newFile" alt="" coords="1322,786,1477,812"/><area shape="rect" id="node28" href="classMainWindow.html#aa7473e4bbbcc281706ac2edef864fb45" title="MainWindow::open" alt="" coords="1330,1426,1469,1452"/><area shape="rect" id="node29" href="classMainWindow.html#a935316315edb9b7af42657da20be0e54" title="MainWindow::openRecentFile" alt="" coords="1298,1476,1501,1503"/><area shape="rect" id="node30" href="classMainWindow.html#a34e2fd1c21a92f5bc3ffc62d8aeeb003" title="MainWindow::openRecentVideo" alt="" coords="1291,330,1507,356"/><area shape="rect" id="node31" href="classMainWindow.html#a17cb661f62805c510b99d9162ac8201a" title="MainWindow::pause" alt="" coords="1327,380,1472,407"/><area shape="rect" id="node33" href="classMainWindow.html#ace4923667dd042d1d8befd28057b0cfa" title="MainWindow::preferences" alt="" coords="1310,431,1489,458"/><area shape="rect" id="node34" href="classMainWindow.html#a3473ce527c5fa8605f56f6e34848935b" title="MainWindow::renameMappingItem" alt="" coords="1284,735,1515,762"/><area shape="rect" id="node35" href="classMainWindow.html#a2b65e72a709c8e96352c593b2abad779" title="MainWindow::renamePaintItem" alt="" coords="1295,836,1504,863"/><area shape="rect" id="node36" href="classMainWindow.html#ae2e2689c253c024e3157ef19c35afe48" title="MainWindow::rewind" alt="" coords="1325,887,1473,914"/><area shape="rect" id="node49" href="classShapeGraphicsItem.html#a0616e5da39fa76e4a488d93088031731" title="Returns the MShape (depends on mapping and whether this is an input or output). " alt="" coords="516,1385,664,1426"/></map>
+<div class="center"><img src="classShapeControlPainter_a8774237d93d0630b7f71116142840f6f_cgraph.png" border="0" usemap="#classShapeControlPainter_a8774237d93d0630b7f71116142840f6f_cgraph" alt=""/></div>
+<map name="classShapeControlPainter_a8774237d93d0630b7f71116142840f6f_cgraph" id="classShapeControlPainter_a8774237d93d0630b7f71116142840f6f_cgraph">
+<area shape="rect" id="node2" href="namespaceUtil.html#a3e46993e9719513fc118a3b662ceaf7d" title="Util::drawControlsVertex" alt="" coords="233,5,400,32"/><area shape="rect" id="node3" href="classShapeControlPainter.html#a8e1b17d6aaecee9367294b52af667936" title="ShapeControlPainter\l::getShape" alt="" coords="243,57,390,98"/><area shape="rect" id="node5" href="classMapperGLCanvas.html#a420b3961b9d8467cb49a98340051ed91" title="MapperGLCanvas::getZoomFactor" alt="" coords="200,123,433,149"/><area shape="rect" id="node4" href="classShapeGraphicsItem.html#a0616e5da39fa76e4a488d93088031731" title="Returns the MShape (depends on mapping and whether this is an input or output). " alt="" coords="481,57,629,98"/></map>
 </div>
 </p>
 
@@ -417,9 +438,78 @@ Protected Attributes</h2></td></tr>
 <div id="dynsection-7-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-7-content" class="dyncontent" style="display:none;">
-<div class="center"><img src="classShapeControlPainter_a3f98d005fa8202d873bb34ada3e78ef0_icgraph.png" border="0" usemap="#classShapeControlPainter_a3f98d005fa8202d873bb34ada3e78ef0_icgraph" alt=""/></div>
-<map name="classShapeControlPainter_a3f98d005fa8202d873bb34ada3e78ef0_icgraph" id="classShapeControlPainter_a3f98d005fa8202d873bb34ada3e78ef0_icgraph">
-<area shape="rect" id="node2" href="classShapeControlPainter.html#acf7b5733ad7f7827960fa226d92dfacb" title="ShapeControlPainter\l::paint" alt="" coords="200,5,347,47"/></map>
+<div class="center"><img src="classShapeControlPainter_a8774237d93d0630b7f71116142840f6f_icgraph.png" border="0" usemap="#classShapeControlPainter_a8774237d93d0630b7f71116142840f6f_icgraph" alt=""/></div>
+<map name="classShapeControlPainter_a8774237d93d0630b7f71116142840f6f_icgraph" id="classShapeControlPainter_a8774237d93d0630b7f71116142840f6f_icgraph">
+<area shape="rect" id="node2" href="classShapeControlPainter.html#a545518ded9e831c05a008f08f4f58a0b" title="ShapeControlPainter\l::paint" alt="" coords="200,5,347,47"/></map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="a6172af882c2ca08409da17498a75ccba"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">QPen ShapeControlPainter::getRescaledShapeStroke </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classMapperGLCanvas.html">MapperGLCanvas</a> *&#160;</td>
+          <td class="paramname"><em>canvas</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>innerStroke</em> = <code>false</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">inherited</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="ShapeControlPainter_8cpp_source.html#l00046">46</a> of file <a class="el" href="ShapeControlPainter_8cpp_source.html">ShapeControlPainter.cpp</a>.</p>
+
+<p>References <a class="el" href="MM_8h_source.html#l00056">MM::CONTROL_COLOR</a>, <a class="el" href="MapperGLCanvas_8h_source.html#l00089">MapperGLCanvas::getZoomFactor()</a>, <a class="el" href="MM_8h_source.html#l00061">MM::SHAPE_INNER_STROKE_WIDTH</a>, and <a class="el" href="MM_8h_source.html#l00060">MM::SHAPE_STROKE_WIDTH</a>.</p>
+
+<p>Referenced by <a class="el" href="ShapeControlPainter_8cpp_source.html#l00051">_paintShape()</a>, <a class="el" href="ShapeControlPainter_8cpp_source.html#l00064">EllipseControlPainter::_paintShape()</a>, and <a class="el" href="ShapeControlPainter_8cpp_source.html#l00082">MeshControlPainter::_paintShape()</a>.</p>
+<div class="fragment"><div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;{</div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;  <span class="keywordflow">return</span> QPen(QBrush(<a class="code" href="classMM.html#acf236186d97df84fafc2d16d8ec227ab">MM::CONTROL_COLOR</a>), (innerStroke ? <a class="code" href="classMM.html#abfaba4dbc650e1ff9d64ed16345cdcf8">MM::SHAPE_INNER_STROKE_WIDTH</a> : <a class="code" href="classMM.html#a28ff60d0aa3a76309ffe94b7b3f4e196">MM::SHAPE_STROKE_WIDTH</a>) / canvas-&gt;<a class="code" href="classMapperGLCanvas.html#a420b3961b9d8467cb49a98340051ed91">getZoomFactor</a>());</div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;}</div>
+<div class="ttc" id="classMapperGLCanvas_html_a420b3961b9d8467cb49a98340051ed91"><div class="ttname"><a href="classMapperGLCanvas.html#a420b3961b9d8467cb49a98340051ed91">MapperGLCanvas::getZoomFactor</a></div><div class="ttdeci">qreal getZoomFactor() const </div><div class="ttdef"><b>Definition:</b> <a href="MapperGLCanvas_8h_source.html#l00089">MapperGLCanvas.h:89</a></div></div>
+<div class="ttc" id="classMM_html_acf236186d97df84fafc2d16d8ec227ab"><div class="ttname"><a href="classMM.html#acf236186d97df84fafc2d16d8ec227ab">MM::CONTROL_COLOR</a></div><div class="ttdeci">static const QColor CONTROL_COLOR</div><div class="ttdef"><b>Definition:</b> <a href="MM_8h_source.html#l00056">MM.h:56</a></div></div>
+<div class="ttc" id="classMM_html_abfaba4dbc650e1ff9d64ed16345cdcf8"><div class="ttname"><a href="classMM.html#abfaba4dbc650e1ff9d64ed16345cdcf8">MM::SHAPE_INNER_STROKE_WIDTH</a></div><div class="ttdeci">static const qreal SHAPE_INNER_STROKE_WIDTH</div><div class="ttdef"><b>Definition:</b> <a href="MM_8h_source.html#l00061">MM.h:61</a></div></div>
+<div class="ttc" id="classMM_html_a28ff60d0aa3a76309ffe94b7b3f4e196"><div class="ttname"><a href="classMM.html#a28ff60d0aa3a76309ffe94b7b3f4e196">MM::SHAPE_STROKE_WIDTH</a></div><div class="ttdeci">static const qreal SHAPE_STROKE_WIDTH</div><div class="ttdef"><b>Definition:</b> <a href="MM_8h_source.html#l00060">MM.h:60</a></div></div>
+</div><!-- fragment -->
+<p><div id="dynsection-8" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-8-trigger" src="closed.png" alt="+"/> Here is the call graph for this function:</div>
+<div id="dynsection-8-summary" class="dynsummary" style="display:block;">
+</div>
+<div id="dynsection-8-content" class="dyncontent" style="display:none;">
+<div class="center"><img src="classShapeControlPainter_a6172af882c2ca08409da17498a75ccba_cgraph.png" border="0" usemap="#classShapeControlPainter_a6172af882c2ca08409da17498a75ccba_cgraph" alt=""/></div>
+<map name="classShapeControlPainter_a6172af882c2ca08409da17498a75ccba_cgraph" id="classShapeControlPainter_a6172af882c2ca08409da17498a75ccba_cgraph">
+<area shape="rect" id="node2" href="classMapperGLCanvas.html#a420b3961b9d8467cb49a98340051ed91" title="MapperGLCanvas::getZoomFactor" alt="" coords="239,13,472,39"/></map>
+</div>
+</p>
+
+<p><div id="dynsection-9" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-9-trigger" src="closed.png" alt="+"/> Here is the caller graph for this function:</div>
+<div id="dynsection-9-summary" class="dynsummary" style="display:block;">
+</div>
+<div id="dynsection-9-content" class="dyncontent" style="display:none;">
+<div class="center"><img src="classShapeControlPainter_a6172af882c2ca08409da17498a75ccba_icgraph.png" border="0" usemap="#classShapeControlPainter_a6172af882c2ca08409da17498a75ccba_icgraph" alt=""/></div>
+<map name="classShapeControlPainter_a6172af882c2ca08409da17498a75ccba_icgraph" id="classShapeControlPainter_a6172af882c2ca08409da17498a75ccba_icgraph">
+<area shape="rect" id="node2" href="classPolygonControlPainter.html#a4f3dfb8ae383a8d01d18173875f25138" title="PolygonControlPainter\l::_paintShape" alt="" coords="239,5,396,47"/><area shape="rect" id="node3" href="classEllipseControlPainter.html#a527e17b7b43f7bacb6ab4cee31d0e76c" title="EllipseControlPainter\l::_paintShape" alt="" coords="244,71,391,112"/><area shape="rect" id="node4" href="classMeshControlPainter.html#a3ddce4455d2e32de45b743438d037867" title="MeshControlPainter\l::_paintShape" alt="" coords="247,136,387,177"/></map>
 </div>
 </p>
 
@@ -444,9 +534,9 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="ShapeControlPainter_8h_source.html#l00050">50</a> of file <a class="el" href="ShapeControlPainter_8h_source.html">ShapeControlPainter.h</a>.</p>
+<p>Definition at line <a class="el" href="ShapeControlPainter_8h_source.html#l00054">54</a> of file <a class="el" href="ShapeControlPainter_8h_source.html">ShapeControlPainter.h</a>.</p>
 
-<p>Referenced by <a class="el" href="ShapeControlPainter_8cpp_source.html#l00046">_paintShape()</a>, <a class="el" href="ShapeControlPainter_8cpp_source.html#l00059">EllipseControlPainter::_paintShape()</a>, <a class="el" href="ShapeControlPainter_8cpp_source.html#l00077">MeshControlPainter::_paintShape()</a>, <a class="el" href="ShapeControlPainter_8cpp_source.html#l00036">ShapeControlPainter::_paintVertices()</a>, and <a class="el" href="ShapeControlPainter_8cpp_source.html#l00028">ShapeControlPainter::getShape()</a>.</p>
+<p>Referenced by <a class="el" href="ShapeControlPainter_8cpp_source.html#l00082">MeshControlPainter::_paintShape()</a>, and <a class="el" href="ShapeControlPainter_8cpp_source.html#l00028">ShapeControlPainter::getShape()</a>.</p>
 
 </div>
 </div>
@@ -457,7 +547,7 @@ Protected Attributes</h2></td></tr>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Thu Dec 31 2015 20:28:06 for MapMap by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Fri Jan 8 2016 09:37:05 for MapMap by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.8
 </small></address>

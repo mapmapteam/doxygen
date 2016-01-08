@@ -1,10 +1,4 @@
 <map id="MainWindow::getDestinationCanvas" name="MainWindow::getDestinationCanvas">
-<area shape="rect" id="node2" href="$classShapeGraphicsItem.html#a409347c0bb8c17579d9e789c8a786e4e" title="Returns pointer to GL canvas. " alt="" coords="248,71,396,112"/>
+<area shape="rect" id="node2" href="$classShapeGraphicsItem.html#a409347c0bb8c17579d9e789c8a786e4e" title="Returns pointer to GL canvas. " alt="" coords="248,5,396,47"/>
 <area shape="rect" id="node3" href="$classMeshTextureGraphicsItem.html#a37548c26ad6a064019698df0f4ecf573" title="MeshTextureGraphicsItem\l::_doDrawOutput" alt="" coords="444,5,625,47"/>
-<area shape="rect" id="node4" href="$classShapeControlPainter.html#a3f98d005fa8202d873bb34ada3e78ef0" title="ShapeControlPainter\l::_paintVertices" alt="" coords="461,71,608,112"/>
-<area shape="rect" id="node6" href="$classShapeGraphicsItem.html#a66a0f1cdddb3e00cc3fe6d30a601ddd0" title="Utility function: returns a stroke with rescaled width such that the stroke appears invariant to the ..." alt="" coords="446,168,623,209"/>
-<area shape="rect" id="node5" href="$classShapeControlPainter.html#acf7b5733ad7f7827960fa226d92dfacb" title="ShapeControlPainter\l::paint" alt="" coords="679,53,825,95"/>
-<area shape="rect" id="node7" href="$classPolygonControlPainter.html#adb676c3371605930d669701b65580f51" title="PolygonControlPainter\l::_paintShape" alt="" coords="673,119,831,160"/>
-<area shape="rect" id="node8" href="$classEllipseControlPainter.html#ad858b1c8f52a54245ca047619c4cef9e" title="EllipseControlPainter\l::_paintShape" alt="" coords="679,184,825,225"/>
-<area shape="rect" id="node9" href="$classMeshControlPainter.html#a6aebae0b4e8d9b49c53d8d8b9e3904e3" title="MeshControlPainter\l::_paintShape" alt="" coords="682,249,822,291"/>
 </map>

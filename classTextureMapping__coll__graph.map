@@ -1,4 +1,4 @@
 <map id="TextureMapping" name="TextureMapping">
-<area shape="rect" id="node2" href="$classMapping.html" title="Mapping is the central concept of this software. " alt="" coords="8,204,143,560"/>
+<area shape="rect" id="node2" href="$classMapping.html" title="Mapping is the central concept of this software. " alt="" coords="8,204,143,575"/>
 <area shape="rect" id="node3" href="$classUidAllocator.html" title="Allocates uids for instances by appending an incremental number to a given string. " alt="" coords="28,5,123,141"/>
 </map>

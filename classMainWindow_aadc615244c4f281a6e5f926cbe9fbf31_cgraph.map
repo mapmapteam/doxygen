@@ -4,7 +4,7 @@
 <area shape="rect" id="node7" href="$classMainWindow.html#a1d6f21aca555b13f6a122f63838bc95d" title="MainWindow::createFileIcon" alt="" coords="823,5,1017,32"/>
 <area shape="rect" id="node8" href="$classMainWindow.html#a471c0a0202f839508a6204ff4d7f43cf" title="MainWindow::createImageIcon" alt="" coords="815,56,1025,83"/>
 <area shape="rect" id="node16" href="$classMainWindow.html#a37bcca7fc7bf0b871d99913c447c237f" title="MainWindow::strippedName" alt="" coords="825,477,1015,504"/>
-<area shape="rect" id="node22" href="$classMainWindow.html#ae51c798d3bd8c40fd7aea97e1dc68950" title="MainWindow::fileExists" alt="" coords="291,389,451,416"/>
+<area shape="rect" id="node22" href="$classMainWindow.html#aae1d27d172a528d8204180a520aa6c21" title="MainWindow::fileExists" alt="" coords="291,389,451,416"/>
 <area shape="rect" id="node23" href="$classPaint.html#a208998b017844226fc0a9279d4bed02b" title="Paint::getUidAllocator" alt="" coords="295,440,447,467"/>
 <area shape="rect" id="node24" href="$classMainWindow.html#afe75f32bbda1df2a9249d5035a37b4de" title="MainWindow::locateMediaFile" alt="" coords="268,491,473,517"/>
 <area shape="rect" id="node25" href="$classTexture.html#a59953f856e37a6350b58bb02087a8724" title="Texture::setPosition" alt="" coords="299,541,442,568"/>

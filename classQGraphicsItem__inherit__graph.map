@@ -1,11 +1,11 @@
 <map id="QGraphicsItem" name="QGraphicsItem">
-<area shape="rect" id="node2" href="$classShapeGraphicsItem.html" title="Represents a shape as part of a scene graph in one of the GL canvas. " alt="" coords="357,131,554,457"/>
-<area shape="rect" id="node3" href="$classColorGraphicsItem.html" title="{ColorGraphicsItem\n||+ ~ColorGraphicsItem()\l# ColorGraphicsItem()\l# _prePaint()\l}" alt="" coords="255,549,418,656"/>
-<area shape="rect" id="node6" href="$classTextureGraphicsItem.html" title="Abstract class for texture graphics items. " alt="" coords="486,505,662,700"/>
-<area shape="rect" id="node4" href="$classEllipseColorGraphicsItem.html" title="Graphics item for colored polygons (eg. quad, triangle). " alt="" coords="5,763,207,884"/>
-<area shape="rect" id="node5" href="$classPolygonColorGraphicsItem.html" title="Graphics item for colored polygons (eg. quad, triangle). " alt="" coords="231,763,443,884"/>
-<area shape="rect" id="node7" href="$classEllipseTextureGraphicsItem.html" title="Graphics item for textured mesh. " alt="" coords="467,748,681,899"/>
-<area shape="rect" id="node8" href="$classPolygonTextureGraphicsItem.html" title="Graphics item for textured polygons (eg. triangles). " alt="" coords="706,763,933,884"/>
-<area shape="rect" id="node9" href="$classMeshTextureGraphicsItem.html" title="Graphics item for textured mesh. " alt="" coords="593,947,803,1127"/>
-<area shape="rect" id="node10" href="$classTriangleTextureGraphicsItem.html" title="Graphics item for textured triangles. " alt="" coords="827,983,1054,1090"/>
+<area shape="rect" id="node2" href="$classShapeGraphicsItem.html" title="Represents a shape as part of a scene graph in one of the GL canvas. " alt="" coords="371,131,539,443"/>
+<area shape="rect" id="node3" href="$classColorGraphicsItem.html" title="{ColorGraphicsItem\n||+ ~ColorGraphicsItem()\l# ColorGraphicsItem()\l# _prePaint()\l}" alt="" coords="255,535,418,641"/>
+<area shape="rect" id="node6" href="$classTextureGraphicsItem.html" title="Abstract class for texture graphics items. " alt="" coords="486,491,662,685"/>
+<area shape="rect" id="node4" href="$classEllipseColorGraphicsItem.html" title="Graphics item for colored polygons (eg. quad, triangle). " alt="" coords="5,748,207,869"/>
+<area shape="rect" id="node5" href="$classPolygonColorGraphicsItem.html" title="Graphics item for colored polygons (eg. quad, triangle). " alt="" coords="231,748,443,869"/>
+<area shape="rect" id="node7" href="$classEllipseTextureGraphicsItem.html" title="Graphics item for textured mesh. " alt="" coords="467,733,681,884"/>
+<area shape="rect" id="node8" href="$classPolygonTextureGraphicsItem.html" title="Graphics item for textured polygons (eg. triangles). " alt="" coords="706,748,933,869"/>
+<area shape="rect" id="node9" href="$classMeshTextureGraphicsItem.html" title="Graphics item for textured mesh. " alt="" coords="593,932,803,1112"/>
+<area shape="rect" id="node10" href="$classTriangleTextureGraphicsItem.html" title="Graphics item for textured triangles. " alt="" coords="827,969,1054,1075"/>
 </map>

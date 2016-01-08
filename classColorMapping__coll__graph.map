@@ -1,4 +1,4 @@
 <map id="ColorMapping" name="ColorMapping">
-<area shape="rect" id="node2" href="$classMapping.html" title="Mapping is the central concept of this software. " alt="" coords="5,204,140,560"/>
+<area shape="rect" id="node2" href="$classMapping.html" title="Mapping is the central concept of this software. " alt="" coords="5,204,140,575"/>
 <area shape="rect" id="node3" href="$classUidAllocator.html" title="Allocates uids for instances by appending an incremental number to a given string. " alt="" coords="25,5,120,141"/>
 </map>

@@ -1,6 +1,4 @@
 <map id="MediaImpl::videoIsConnected" name="MediaImpl::videoIsConnected">
-<area shape="rect" id="node2" href="$classMediaImpl.html#acc08bb736ff7a1bdd7567eb025d38109" title="Returns the height of the video image. " alt="" coords="256,5,405,32"/>
-<area shape="rect" id="node3" href="$classMedia.html#ae1dd3fa2bb52d480647c327b48835abb" title="Media::getHeight" alt="" coords="453,44,579,71"/>
-<area shape="rect" id="node4" href="$classMediaImpl.html#ab129ab4ea6d1fae464ea74c6c7396ebc" title="Returns the width of the video image. " alt="" coords="258,107,403,133"/>
-<area shape="rect" id="node5" href="$classMedia.html#a6f47473e63d5c30b5c54b5e34df2dce8" title="Media::getWidth" alt="" coords="455,120,577,147"/>
+<area shape="rect" id="node2" href="$classMedia.html#ae1dd3fa2bb52d480647c327b48835abb" title="Media::getHeight" alt="" coords="256,5,381,32"/>
+<area shape="rect" id="node3" href="$classMedia.html#a6f47473e63d5c30b5c54b5e34df2dce8" title="Media::getWidth" alt="" coords="258,56,379,83"/>
 </map>

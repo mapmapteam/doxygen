@@ -1,0 +1,7 @@
+<map id="MainWindow::mappingListEditEnd" name="MainWindow::mappingListEditEnd">
+<area shape="rect" id="node2" href="$classMainWindow.html#a6eed84404b7bab6b22016d00499b49f7" title="MainWindow::getItemId" alt="" coords="1080,19,1243,45"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a166e4340610b0c85812ab8c8d3bd082d" title="MainWindow::renameMapping" alt="" coords="277,31,483,57"/>
+<area shape="rect" id="node4" href="$classMappingManager.html#a5f725de7227d100962da39ad646e9a03" title="Returns mapping with given uid. " alt="" coords="531,31,763,57"/>
+<area shape="rect" id="node5" href="$classMainWindow.html#aeb868c14b8b36df1001736b97529dfb1" title="MainWindow::getItemFromId" alt="" coords="549,81,744,108"/>
+<area shape="rect" id="node6" href="$classMainWindow.html#a4658dbe8953b4536ec18c3bb22d493ac" title="MainWindow::getItemRowFromId" alt="" coords="811,56,1032,83"/>
+</map>

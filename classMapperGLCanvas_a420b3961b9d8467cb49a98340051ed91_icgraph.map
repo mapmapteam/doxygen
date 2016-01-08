@@ -1,5 +1,9 @@
 <map id="MapperGLCanvas::getZoomFactor" name="MapperGLCanvas::getZoomFactor">
-<area shape="rect" id="node2" href="$classShapeControlPainter.html#a3f98d005fa8202d873bb34ada3e78ef0" title="ShapeControlPainter\l::_paintVertices" alt="" coords="318,5,465,47"/>
-<area shape="rect" id="node4" href="$classMapperGLCanvas.html#a98ac5a1505444bc7e1ff9f37eef9148e" title="MapperGLCanvas::wheelEvent" alt="" coords="287,71,496,98"/>
-<area shape="rect" id="node3" href="$classShapeControlPainter.html#acf7b5733ad7f7827960fa226d92dfacb" title="ShapeControlPainter\l::paint" alt="" coords="544,5,691,47"/>
+<area shape="rect" id="node2" href="$classShapeControlPainter.html#a8774237d93d0630b7f71116142840f6f" title="ShapeControlPainter\l::_paintVertices" alt="" coords="318,23,465,64"/>
+<area shape="rect" id="node4" href="$classShapeControlPainter.html#a6172af882c2ca08409da17498a75ccba" title="ShapeControlPainter\l::getRescaledShapeStroke" alt="" coords="299,120,484,161"/>
+<area shape="rect" id="node8" href="$classMapperGLCanvas.html#a98ac5a1505444bc7e1ff9f37eef9148e" title="MapperGLCanvas::wheelEvent" alt="" coords="287,186,496,213"/>
+<area shape="rect" id="node3" href="$classShapeControlPainter.html#a545518ded9e831c05a008f08f4f58a0b" title="ShapeControlPainter\l::paint" alt="" coords="549,5,696,47"/>
+<area shape="rect" id="node5" href="$classPolygonControlPainter.html#a4f3dfb8ae383a8d01d18173875f25138" title="PolygonControlPainter\l::_paintShape" alt="" coords="544,71,701,112"/>
+<area shape="rect" id="node6" href="$classEllipseControlPainter.html#a527e17b7b43f7bacb6ab4cee31d0e76c" title="EllipseControlPainter\l::_paintShape" alt="" coords="549,136,696,177"/>
+<area shape="rect" id="node7" href="$classMeshControlPainter.html#a3ddce4455d2e32de45b743438d037867" title="MeshControlPainter\l::_paintShape" alt="" coords="553,201,693,243"/>
 </map>

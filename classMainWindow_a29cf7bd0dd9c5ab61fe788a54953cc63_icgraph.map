@@ -1,40 +1,34 @@
 <map id="MainWindow::saveAs" name="MainWindow::saveAs">
-<area shape="rect" id="node2" href="$classMainWindow.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="860,326,1051,353"/>
-<area shape="rect" id="node34" href="$classMainWindow.html#aa3d482e80b77965da25d42920f9e93c7" title="MainWindow::save" alt="" coords="208,345,347,371"/>
-<area shape="rect" id="node3" href="$classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb" title="MainWindow::MainWindow" alt="" coords="1099,326,1285,353"/>
-<area shape="rect" id="node4" href="$classMainWindow.html#a4f7e1bd77c8b2e64bd374874ff347ede" title="MainWindow::instance" alt="" coords="1333,326,1492,353"/>
-<area shape="rect" id="node5" href="$classDestinationGLCanvas.html#a2cb035c3db3f046023ad02c4bfe60baa" title="DestinationGLCanvas\l::getShapeGraphicsItemFrom\lMappingId" alt="" coords="1542,78,1741,134"/>
-<area shape="rect" id="node6" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1616,158,1667,185"/>
-<area shape="rect" id="node7" href="$classMapperGLCanvas.html#a94e50bea25cadd6de25091cfed85cbee" title="MapperGLCanvas::getCurrent\lShape" alt="" coords="1540,260,1743,301"/>
+<area shape="rect" id="node2" href="$classMainWindow.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="860,287,1051,314"/>
+<area shape="rect" id="node28" href="$classMainWindow.html#aa3d482e80b77965da25d42920f9e93c7" title="MainWindow::save" alt="" coords="208,306,347,333"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb" title="MainWindow::MainWindow" alt="" coords="1099,287,1285,314"/>
+<area shape="rect" id="node4" href="$classMainWindow.html#a4f7e1bd77c8b2e64bd374874ff347ede" title="MainWindow::instance" alt="" coords="1333,287,1492,314"/>
+<area shape="rect" id="node5" href="$classDestinationGLCanvas.html#a2cb035c3db3f046023ad02c4bfe60baa" title="DestinationGLCanvas\l::getShapeGraphicsItemFrom\lMappingId" alt="" coords="1542,65,1741,121"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1616,145,1667,171"/>
+<area shape="rect" id="node7" href="$classMapperGLCanvas.html#a94e50bea25cadd6de25091cfed85cbee" title="MapperGLCanvas::getCurrent\lShape" alt="" coords="1540,247,1743,288"/>
 <area shape="rect" id="node8" href="$classMapperGLCanvas.html#a135b9b4b298bd1106b145f44bb4babbe" title="MapperGLCanvas::_glueVertex" alt="" coords="1805,27,2017,54"/>
-<area shape="rect" id="node19" href="$classMapperGLCanvas.html#a6828b1fbd4c1a3e5d31ca00990a55517" title="MapperGLCanvas::getCurrent\lShapeGraphicsItem" alt="" coords="1540,351,1743,392"/>
-<area shape="rect" id="node22" href="$classShapeGraphicsItem.html#a409347c0bb8c17579d9e789c8a786e4e" title="Returns pointer to GL canvas. " alt="" coords="1567,508,1715,549"/>
-<area shape="rect" id="node30" href="$classShapeGraphicsItem.html#ace336beca655965fff6324b788f2c571" title="Returns whether the mapping this shape is associated with is currently selected. " alt="" coords="1567,443,1715,484"/>
-<area shape="rect" id="node33" href="$classSourceGLCanvas.html#a94f9e854c975b989b81798dde07c372e" title="SourceGLCanvas::getShape\lGraphicsItemFromMappingId" alt="" coords="1543,573,1739,615"/>
+<area shape="rect" id="node19" href="$classMapperGLCanvas.html#a6828b1fbd4c1a3e5d31ca00990a55517" title="MapperGLCanvas::getCurrent\lShapeGraphicsItem" alt="" coords="1540,312,1743,353"/>
+<area shape="rect" id="node22" href="$classShapeGraphicsItem.html#a409347c0bb8c17579d9e789c8a786e4e" title="Returns pointer to GL canvas. " alt="" coords="1567,377,1715,419"/>
+<area shape="rect" id="node24" href="$classShapeGraphicsItem.html#ace336beca655965fff6324b788f2c571" title="Returns whether the mapping this shape is associated with is currently selected. " alt="" coords="1567,443,1715,484"/>
+<area shape="rect" id="node27" href="$classSourceGLCanvas.html#a94f9e854c975b989b81798dde07c372e" title="SourceGLCanvas::getShape\lGraphicsItemFromMappingId" alt="" coords="1543,508,1739,549"/>
 <area shape="rect" id="node9" href="$classMapperGLCanvas.html#a0fc8394d1d84870f6e2f1fabdf7c7d85" title="MapperGLCanvas::mouseMove\lEvent" alt="" coords="2087,71,2302,112"/>
-<area shape="rect" id="node12" href="$classMapperGLCanvas.html#a14dfb3ee24fa439b460c663dec088cda" title="This function needs to be called after a shape inside the canvas has been changed for appropriate sig..." alt="" coords="1801,325,2020,367"/>
-<area shape="rect" id="node15" href="$classMapperGLCanvas.html#ab59949b056699824afb41195002dfa76" title="MapperGLCanvas::keyPress\lEvent" alt="" coords="1812,195,2009,236"/>
+<area shape="rect" id="node12" href="$classMapperGLCanvas.html#a14dfb3ee24fa439b460c663dec088cda" title="This function needs to be called after a shape inside the canvas has been changed for appropriate sig..." alt="" coords="1801,260,2020,301"/>
+<area shape="rect" id="node15" href="$classMapperGLCanvas.html#ab59949b056699824afb41195002dfa76" title="MapperGLCanvas::keyPress\lEvent" alt="" coords="1812,325,2009,367"/>
 <area shape="rect" id="node17" href="$classMapperGLCanvas.html#ab52fae5217c3d97ebcaa4a5099eb9053" title="MapperGLCanvas::mousePress\lEvent" alt="" coords="1803,129,2019,171"/>
-<area shape="rect" id="node18" href="$classTransformShapeCommand.html#a38361c52c867d2abcbd47d1309bcef37" title="TransformShapeCommand\l::TransformShapeCommand" alt="" coords="1813,260,2008,301"/>
+<area shape="rect" id="node18" href="$classTransformShapeCommand.html#a38361c52c867d2abcbd47d1309bcef37" title="TransformShapeCommand\l::TransformShapeCommand" alt="" coords="1813,195,2008,236"/>
 <area shape="rect" id="node11" href="$classMapperGLCanvas.html#a2741ecbd52014c1f657732a6ee917135" title="MapperGLCanvas::mouseRelease\lEvent" alt="" coords="2079,5,2311,47"/>
 <area shape="rect" id="node10" href="$classOutputGLCanvas.html#a7f96e84fdabf74506cbb5f5c94cc3f4a" title="OutputGLCanvas::mouseMove\lEvent" alt="" coords="2359,71,2565,112"/>
-<area shape="rect" id="node13" href="$classTransformShapeCommand.html#a160b6c68b1b4a0d89e5492444ae60820" title="TransformShapeCommand\l::redo" alt="" coords="2101,260,2288,301"/>
-<area shape="rect" id="node14" href="$classTransformShapeCommand.html#adefad09c09e0ab150439fed8c45262db" title="TransformShapeCommand\l::undo" alt="" coords="2101,325,2288,367"/>
-<area shape="rect" id="node16" href="$classMapperGLCanvas.html#af63b2cc7eb6e8204475404696c1f30a9" title="MapperGLCanvas::eventFilter" alt="" coords="2093,202,2296,229"/>
+<area shape="rect" id="node13" href="$classTransformShapeCommand.html#a160b6c68b1b4a0d89e5492444ae60820" title="TransformShapeCommand\l::redo" alt="" coords="2101,263,2288,304"/>
+<area shape="rect" id="node14" href="$classTransformShapeCommand.html#adefad09c09e0ab150439fed8c45262db" title="TransformShapeCommand\l::undo" alt="" coords="2101,197,2288,239"/>
+<area shape="rect" id="node16" href="$classMapperGLCanvas.html#af63b2cc7eb6e8204475404696c1f30a9" title="MapperGLCanvas::eventFilter" alt="" coords="2093,333,2296,359"/>
 <area shape="rect" id="node20" href="$classMapperGLCanvas.html#a4caa5ec632e0b850b409007ae14d2233" title="MapperGLCanvas::drawForeground" alt="" coords="1791,391,2031,418"/>
 <area shape="rect" id="node21" href="$classOutputGLCanvas.html#a6a7e16c6f71da3bdba0e4949fd72d097" title="OutputGLCanvas::drawForeground" alt="" coords="2079,391,2311,418"/>
-<area shape="rect" id="node23" href="$classMeshTextureGraphicsItem.html#a37548c26ad6a064019698df0f4ecf573" title="MeshTextureGraphicsItem\l::_doDrawOutput" alt="" coords="1820,508,2001,549"/>
-<area shape="rect" id="node24" href="$classShapeControlPainter.html#a3f98d005fa8202d873bb34ada3e78ef0" title="ShapeControlPainter\l::_paintVertices" alt="" coords="1837,671,1984,712"/>
-<area shape="rect" id="node26" href="$classShapeGraphicsItem.html#a66a0f1cdddb3e00cc3fe6d30a601ddd0" title="Utility function: returns a stroke with rescaled width such that the stroke appears invariant to the ..." alt="" coords="1822,573,1999,615"/>
-<area shape="rect" id="node25" href="$classShapeControlPainter.html#acf7b5733ad7f7827960fa226d92dfacb" title="ShapeControlPainter\l::paint" alt="" coords="2121,704,2268,745"/>
-<area shape="rect" id="node27" href="$classPolygonControlPainter.html#adb676c3371605930d669701b65580f51" title="PolygonControlPainter\l::_paintShape" alt="" coords="2116,639,2273,680"/>
-<area shape="rect" id="node28" href="$classEllipseControlPainter.html#ad858b1c8f52a54245ca047619c4cef9e" title="EllipseControlPainter\l::_paintShape" alt="" coords="2121,508,2268,549"/>
-<area shape="rect" id="node29" href="$classMeshControlPainter.html#a6aebae0b4e8d9b49c53d8d8b9e3904e3" title="MeshControlPainter\l::_paintShape" alt="" coords="2125,573,2265,615"/>
-<area shape="rect" id="node31" href="$classTextureGraphicsItem.html#a73dbad4408293dccec1c265b1c7d81e0" title="TextureGraphicsItem\l::_doDrawInput" alt="" coords="1837,443,1985,484"/>
-<area shape="rect" id="node32" href="$classTextureGraphicsItem.html#a444c9470ae70bf1c277baaf0d0d70475" title="Main paint function that needs to be overriden (called by paint()). " alt="" coords="2121,443,2269,484"/>
-<area shape="rect" id="node35" href="$classMainWindow.html#aa0916a59a9d7ee37159ed0a2e0528960" title="MainWindow::eventFilter" alt="" coords="870,402,1041,429"/>
-<area shape="rect" id="node36" href="$classMainWindow.html#aa29287cd319fc301d4b49a07d13c0c3e" title="MainWindow::okToContinue" alt="" coords="395,377,589,403"/>
-<area shape="rect" id="node37" href="$classMainWindow.html#a4e20a4a065fbb0e4d3532a45a0a91425" title="MainWindow::closeEvent" alt="" coords="637,453,812,479"/>
-<area shape="rect" id="node38" href="$classMainWindow.html#a69f73b93cc05c89a9ae1be0161105982" title="MainWindow::newFile" alt="" coords="647,402,802,429"/>
-<area shape="rect" id="node39" href="$classMainWindow.html#aa7473e4bbbcc281706ac2edef864fb45" title="MainWindow::open" alt="" coords="655,351,794,378"/>
+<area shape="rect" id="node23" href="$classMeshTextureGraphicsItem.html#a37548c26ad6a064019698df0f4ecf573" title="MeshTextureGraphicsItem\l::_doDrawOutput" alt="" coords="1820,443,2001,484"/>
+<area shape="rect" id="node25" href="$classTextureGraphicsItem.html#a73dbad4408293dccec1c265b1c7d81e0" title="TextureGraphicsItem\l::_doDrawInput" alt="" coords="1837,508,1985,549"/>
+<area shape="rect" id="node26" href="$classTextureGraphicsItem.html#a444c9470ae70bf1c277baaf0d0d70475" title="Main paint function that needs to be overriden (called by paint()). " alt="" coords="2121,508,2269,549"/>
+<area shape="rect" id="node29" href="$classMainWindow.html#aa0916a59a9d7ee37159ed0a2e0528960" title="MainWindow::eventFilter" alt="" coords="870,363,1041,390"/>
+<area shape="rect" id="node30" href="$classMainWindow.html#aa29287cd319fc301d4b49a07d13c0c3e" title="MainWindow::okToContinue" alt="" coords="395,338,589,365"/>
+<area shape="rect" id="node31" href="$classMainWindow.html#a4e20a4a065fbb0e4d3532a45a0a91425" title="MainWindow::closeEvent" alt="" coords="637,414,812,441"/>
+<area shape="rect" id="node32" href="$classMainWindow.html#a69f73b93cc05c89a9ae1be0161105982" title="MainWindow::newFile" alt="" coords="647,363,802,390"/>
+<area shape="rect" id="node33" href="$classMainWindow.html#aa7473e4bbbcc281706ac2edef864fb45" title="MainWindow::open" alt="" coords="655,313,794,339"/>
 </map>

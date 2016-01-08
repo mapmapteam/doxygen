@@ -1,7 +1,7 @@
 <map id="Ellipse::getRotationRadians" name="Ellipse::getRotationRadians">
 <area shape="rect" id="node2" href="$classEllipse.html#a41bb574712c32c3de25c7854ad60ad93" title="Ellipse::getRotation" alt="" coords="240,143,377,170"/>
 <area shape="rect" id="node9" href="$classEllipse.html#aa38d3c36521e5a524aaf799e10438cb4" title="Remaps point from ellipse to a circle with radius 1 set at origin (0,0). " alt="" coords="240,303,377,330"/>
-<area shape="rect" id="node3" href="$classEllipseControlPainter.html#ad858b1c8f52a54245ca047619c4cef9e" title="EllipseControlPainter\l::_paintShape" alt="" coords="445,5,592,47"/>
+<area shape="rect" id="node3" href="$classEllipseControlPainter.html#a527e17b7b43f7bacb6ab4cee31d0e76c" title="EllipseControlPainter\l::_paintShape" alt="" coords="445,5,592,47"/>
 <area shape="rect" id="node4" href="$classEllipseColorGraphicsItem.html#a1e5f1f39a33c4824ef9b9bd530eb5628" title="EllipseColorGraphicsItem\l::shape" alt="" coords="432,71,605,112"/>
 <area shape="rect" id="node6" href="$classEllipseTextureGraphicsItem.html#a5a3ce56c292f77431d1ffc185a6c20ea" title="EllipseTextureGraphicsItem\l::shape" alt="" coords="425,136,612,177"/>
 <area shape="rect" id="node8" href="$namespaceUtil.html#a402d544da53b6fbee636acb6b9d2be1b" title="Util::drawControlsEllipse" alt="" coords="435,202,602,229"/>

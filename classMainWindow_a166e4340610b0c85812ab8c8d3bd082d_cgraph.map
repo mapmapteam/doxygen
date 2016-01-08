@@ -1,0 +1,6 @@
+<map id="MainWindow::renameMapping" name="MainWindow::renameMapping">
+<area shape="rect" id="node2" href="$classMainWindow.html#aeb868c14b8b36df1001736b97529dfb1" title="MainWindow::getItemFromId" alt="" coords="277,5,472,32"/>
+<area shape="rect" id="node5" href="$classMappingManager.html#a5f725de7227d100962da39ad646e9a03" title="Returns mapping with given uid. " alt="" coords="259,56,491,83"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a4658dbe8953b4536ec18c3bb22d493ac" title="MainWindow::getItemRowFromId" alt="" coords="539,5,760,32"/>
+<area shape="rect" id="node4" href="$classMainWindow.html#a6eed84404b7bab6b22016d00499b49f7" title="MainWindow::getItemId" alt="" coords="808,5,971,32"/>
+</map>

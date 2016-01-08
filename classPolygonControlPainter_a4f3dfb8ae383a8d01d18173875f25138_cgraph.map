@@ -1,0 +1,7 @@
+<map id="PolygonControlPainter::_paintShape" name="PolygonControlPainter::_paintShape">
+<area shape="rect" id="node2" href="$classShapeControlPainter.html#a6172af882c2ca08409da17498a75ccba" title="ShapeControlPainter\l::getRescaledShapeStroke" alt="" coords="211,5,396,47"/>
+<area shape="rect" id="node4" href="$classShapeControlPainter.html#a8e1b17d6aaecee9367294b52af667936" title="ShapeControlPainter\l::getShape" alt="" coords="230,71,377,112"/>
+<area shape="rect" id="node6" href="$classPolygon.html#abcdb0e5be74341fc6667ec22dac1aadc" title="Polygon::toPolygon" alt="" coords="233,137,374,163"/>
+<area shape="rect" id="node3" href="$classMapperGLCanvas.html#a420b3961b9d8467cb49a98340051ed91" title="MapperGLCanvas::getZoomFactor" alt="" coords="444,13,677,39"/>
+<area shape="rect" id="node5" href="$classShapeGraphicsItem.html#a0616e5da39fa76e4a488d93088031731" title="Returns the MShape (depends on mapping and whether this is an input or output). " alt="" coords="487,71,635,112"/>
+</map>

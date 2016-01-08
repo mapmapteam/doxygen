@@ -1,12 +1,12 @@
 <map id="ShapeGraphicsItem.h" name="ShapeGraphicsItem.h">
-<area shape="rect" id="node6" href="$Shape_8h.html" title="Shape.h" alt="" coords="2050,304,2121,331"/>
-<area shape="rect" id="node19" href="$Paint_8h.html" title="Paint.h" alt="" coords="841,304,903,331"/>
-<area shape="rect" id="node26" href="$Mapping_8h.html" title="Mapping.h" alt="" coords="1857,229,1940,256"/>
-<area shape="rect" id="node27" href="$MapperGLCanvas_8h.html" title="MapperGLCanvas.h" alt="" coords="2370,80,2513,107"/>
-<area shape="rect" id="node18" href="$Maths_8h.html" title="Maths.h" alt="" coords="1745,379,1813,405"/>
-<area shape="rect" id="node24" href="$UidAllocator_8h.html" title="UidAllocator.h" alt="" coords="1271,379,1377,405"/>
-<area shape="rect" id="node35" href="$MM_8h.html" title="MM.h" alt="" coords="1107,304,1162,331"/>
-<area shape="rect" id="node38" href="$MappingGui_8h.html" title="MappingGui.h" alt="" coords="1139,155,1243,181"/>
-<area shape="rect" id="node39" href="$ShapeControlPainter_8h.html" title="ShapeControlPainter.h" alt="" coords="145,229,301,256"/>
-<area shape="rect" id="node40" href="$Util_8h.html" title="Util.h" alt="" coords="1271,229,1321,256"/>
+<area shape="rect" id="node6" href="$Shape_8h.html" title="Shape.h" alt="" coords="1813,304,1884,331"/>
+<area shape="rect" id="node19" href="$Paint_8h.html" title="Paint.h" alt="" coords="272,304,335,331"/>
+<area shape="rect" id="node26" href="$Mapping_8h.html" title="Mapping.h" alt="" coords="106,229,189,256"/>
+<area shape="rect" id="node27" href="$MapperGLCanvas_8h.html" title="MapperGLCanvas.h" alt="" coords="1807,80,1949,107"/>
+<area shape="rect" id="node18" href="$Maths_8h.html" title="Maths.h" alt="" coords="2401,379,2469,405"/>
+<area shape="rect" id="node24" href="$UidAllocator_8h.html" title="UidAllocator.h" alt="" coords="5,379,111,405"/>
+<area shape="rect" id="node35" href="$MM_8h.html" title="MM.h" alt="" coords="2493,304,2548,331"/>
+<area shape="rect" id="node38" href="$MappingGui_8h.html" title="MappingGui.h" alt="" coords="1374,155,1478,181"/>
+<area shape="rect" id="node39" href="$ShapeControlPainter_8h.html" title="ShapeControlPainter.h" alt="" coords="1912,229,2068,256"/>
+<area shape="rect" id="node40" href="$Util_8h.html" title="Util.h" alt="" coords="1685,229,1735,256"/>
 </map>

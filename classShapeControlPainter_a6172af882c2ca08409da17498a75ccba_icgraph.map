@@ -1,0 +1,5 @@
+<map id="ShapeControlPainter::getRescaledShapeStroke" name="ShapeControlPainter::getRescaledShapeStroke">
+<area shape="rect" id="node2" href="$classPolygonControlPainter.html#a4f3dfb8ae383a8d01d18173875f25138" title="PolygonControlPainter\l::_paintShape" alt="" coords="239,5,396,47"/>
+<area shape="rect" id="node3" href="$classEllipseControlPainter.html#a527e17b7b43f7bacb6ab4cee31d0e76c" title="EllipseControlPainter\l::_paintShape" alt="" coords="244,71,391,112"/>
+<area shape="rect" id="node4" href="$classMeshControlPainter.html#a3ddce4455d2e32de45b743438d037867" title="MeshControlPainter\l::_paintShape" alt="" coords="247,136,387,177"/>
+</map>

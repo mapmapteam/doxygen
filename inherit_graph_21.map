@@ -1,3 +1,8 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structqt__meta__stringdata__EllipseColorMapper__t.html" title="qt_meta_stringdata\l_EllipseColorMapper_t" alt="" coords="5,5,161,47"/>
+<area shape="rect" id="node1" href="$classQUndoCommand.html" title="QUndoCommand" alt="" coords="5,56,132,83"/>
+<area shape="rect" id="node2" href="$classAddShapesCommand.html" title="AddShapesCommand" alt="" coords="195,5,351,32"/>
+<area shape="rect" id="node3" href="$classDeleteMappingCommand.html" title="DeleteMappingCommand" alt="" coords="185,56,361,83"/>
+<area shape="rect" id="node4" href="$classTransformShapeCommand.html" title="TransformShapeCommand" alt="" coords="180,107,367,133"/>
+<area shape="rect" id="node5" href="$classMoveVertexCommand.html" title="MoveVertexCommand" alt="" coords="427,81,585,108"/>
+<area shape="rect" id="node6" href="$classTranslateShapeCommand.html" title="TranslateShapeCommand" alt="" coords="415,132,597,159"/>
 </map>

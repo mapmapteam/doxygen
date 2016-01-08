@@ -1,5 +1,5 @@
 <map id="PolygonTextureGraphicsItem" name="PolygonTextureGraphicsItem">
-<area shape="rect" id="node2" href="$classTextureGraphicsItem.html" title="Abstract class for texture graphics items. " alt="" coords="31,505,207,700"/>
-<area shape="rect" id="node3" href="$classShapeGraphicsItem.html" title="Represents a shape as part of a scene graph in one of the GL canvas. " alt="" coords="20,131,217,457"/>
+<area shape="rect" id="node2" href="$classTextureGraphicsItem.html" title="Abstract class for texture graphics items. " alt="" coords="31,491,207,685"/>
+<area shape="rect" id="node3" href="$classShapeGraphicsItem.html" title="Represents a shape as part of a scene graph in one of the GL canvas. " alt="" coords="35,131,203,443"/>
 <area shape="rect" id="node4" href="$classQGraphicsItem.html" title="{QGraphicsItem\n||}" alt="" coords="63,5,174,83"/>
 </map>

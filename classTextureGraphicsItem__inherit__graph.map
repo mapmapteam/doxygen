@@ -1,8 +1,8 @@
 <map id="TextureGraphicsItem" name="TextureGraphicsItem">
-<area shape="rect" id="node4" href="$classEllipseTextureGraphicsItem.html" title="Graphics item for textured mesh. " alt="" coords="5,748,220,899"/>
-<area shape="rect" id="node5" href="$classPolygonTextureGraphicsItem.html" title="Graphics item for textured polygons (eg. triangles). " alt="" coords="245,763,471,884"/>
-<area shape="rect" id="node2" href="$classShapeGraphicsItem.html" title="Represents a shape as part of a scene graph in one of the GL canvas. " alt="" coords="137,131,334,457"/>
+<area shape="rect" id="node4" href="$classEllipseTextureGraphicsItem.html" title="Graphics item for textured mesh. " alt="" coords="5,733,220,884"/>
+<area shape="rect" id="node5" href="$classPolygonTextureGraphicsItem.html" title="Graphics item for textured polygons (eg. triangles). " alt="" coords="245,748,471,869"/>
+<area shape="rect" id="node2" href="$classShapeGraphicsItem.html" title="Represents a shape as part of a scene graph in one of the GL canvas. " alt="" coords="151,131,319,443"/>
 <area shape="rect" id="node3" href="$classQGraphicsItem.html" title="{QGraphicsItem\n||}" alt="" coords="180,5,291,83"/>
-<area shape="rect" id="node6" href="$classMeshTextureGraphicsItem.html" title="Graphics item for textured mesh. " alt="" coords="132,947,341,1127"/>
-<area shape="rect" id="node7" href="$classTriangleTextureGraphicsItem.html" title="Graphics item for textured triangles. " alt="" coords="366,983,593,1090"/>
+<area shape="rect" id="node6" href="$classMeshTextureGraphicsItem.html" title="Graphics item for textured mesh. " alt="" coords="132,932,341,1112"/>
+<area shape="rect" id="node7" href="$classTriangleTextureGraphicsItem.html" title="Graphics item for textured triangles. " alt="" coords="366,969,593,1075"/>
 </map>

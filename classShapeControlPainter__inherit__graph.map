@@ -1,5 +1,5 @@
 <map id="ShapeControlPainter" name="ShapeControlPainter">
-<area shape="rect" id="node2" href="$classEllipseControlPainter.html" title="Control painter for ellipses. " alt="" coords="5,204,180,311"/>
-<area shape="rect" id="node3" href="$classMeshControlPainter.html" title="Control painter for meshes. " alt="" coords="205,204,373,311"/>
-<area shape="rect" id="node4" href="$classPolygonControlPainter.html" title="Control painter for polygons. " alt="" coords="397,204,583,311"/>
+<area shape="rect" id="node2" href="$classEllipseControlPainter.html" title="Control painter for ellipses. " alt="" coords="5,219,180,325"/>
+<area shape="rect" id="node3" href="$classMeshControlPainter.html" title="Control painter for meshes. " alt="" coords="205,219,373,325"/>
+<area shape="rect" id="node4" href="$classPolygonControlPainter.html" title="Control painter for polygons. " alt="" coords="397,219,583,325"/>
 </map>

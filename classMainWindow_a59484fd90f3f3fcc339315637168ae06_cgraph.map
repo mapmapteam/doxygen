@@ -1,20 +1,21 @@
 <map id="MainWindow::saveFile" name="MainWindow::saveFile">
 <area shape="rect" id="node2" href="$classMainWindow.html#a3631bdedbef1d5d7e3ea87b62a80d94e" title="MainWindow::setCurrentFile" alt="" coords="213,64,404,91"/>
-<area shape="rect" id="node5" href="$classProjectWriter.html#a1284e0b85870c6bfbc80c549c08146fd" title="ProjectWriter::writeFile" alt="" coords="230,233,387,260"/>
+<area shape="rect" id="node5" href="$classProjectWriter.html#a1284e0b85870c6bfbc80c549c08146fd" title="ProjectWriter::writeFile" alt="" coords="230,259,387,285"/>
 <area shape="rect" id="node3" href="$classMainWindow.html#a37bcca7fc7bf0b871d99913c447c237f" title="MainWindow::strippedName" alt="" coords="705,5,896,32"/>
 <area shape="rect" id="node4" href="$classMainWindow.html#affa76730fa370a3466b62a4caee721e3" title="MainWindow::updateRecent\lFileActions" alt="" coords="459,57,650,98"/>
-<area shape="rect" id="node6" href="$classMappingManager.html#a681d3e7a713c6f8402ed0fe857cd1e8c" title="Returns the number of paints. " alt="" coords="465,157,644,184"/>
-<area shape="rect" id="node7" href="$classProjectWriter.html#a984b289316164b617612129c019907df" title="ProjectWriter::writeItem" alt="" coords="475,208,635,235"/>
-<area shape="rect" id="node17" href="$classMappingManager.html#aef61397e0ebfebee3f98aa1bcef2e15b" title="Returns the i&#45;th paint in the vector. Good for iterating over all paints. " alt="" coords="463,259,647,285"/>
-<area shape="rect" id="node18" href="$classMappingManager.html#ad1ece7d9f58875c5f711748457436159" title="Returns the number of mappings. " alt="" coords="455,309,655,336"/>
-<area shape="rect" id="node19" href="$classMappingManager.html#a172f9d2600d9f8d0b5daa2bf8d4e2a5d" title="Returns the i&#45;th mapping in the vector. " alt="" coords="452,360,657,387"/>
+<area shape="rect" id="node6" href="$classMappingManager.html#a681d3e7a713c6f8402ed0fe857cd1e8c" title="Returns the number of paints. " alt="" coords="465,183,644,209"/>
+<area shape="rect" id="node7" href="$classProjectWriter.html#a984b289316164b617612129c019907df" title="ProjectWriter::writeItem" alt="" coords="475,233,635,260"/>
+<area shape="rect" id="node18" href="$classMappingManager.html#aef61397e0ebfebee3f98aa1bcef2e15b" title="Returns the i&#45;th paint in the vector. Good for iterating over all paints. " alt="" coords="463,284,647,311"/>
+<area shape="rect" id="node19" href="$classMappingManager.html#ad1ece7d9f58875c5f711748457436159" title="Returns the number of mappings. " alt="" coords="455,335,655,361"/>
+<area shape="rect" id="node20" href="$classMappingManager.html#a172f9d2600d9f8d0b5daa2bf8d4e2a5d" title="Returns the i&#45;th mapping in the vector. " alt="" coords="452,385,657,412"/>
 <area shape="rect" id="node8" href="$classPaint.html#a9ce271092b60f4ab1a6737cd202b637c" title="Paint::getId" alt="" coords="755,56,846,83"/>
-<area shape="rect" id="node9" href="$classPaint.html#a03222a7a35334458129ad3a9acace369" title="Paint::getType" alt="" coords="745,107,856,133"/>
-<area shape="rect" id="node10" href="$classMedia.html#a72b91edb335d45614b3e3bf49adc36fd" title="Media::getUri" alt="" coords="749,157,852,184"/>
-<area shape="rect" id="node11" href="$classTexture.html#a1b9d77401b6a113d8ff51f97f6e106f3" title="Texture::getX" alt="" coords="748,208,853,235"/>
-<area shape="rect" id="node12" href="$classTexture.html#a2f2145e1efb2e3a6604b85453ce8e87c" title="Texture::getY" alt="" coords="748,259,853,285"/>
-<area shape="rect" id="node13" href="$classMedia.html#adbd9f274384a6dacc87e97e56a23e805" title="Returns playback rate. " alt="" coords="743,309,858,336"/>
-<area shape="rect" id="node15" href="$classImage.html#a2c61d9466ffe4cf8b662617c03e7b8cf" title="Image::getUri" alt="" coords="749,360,852,387"/>
-<area shape="rect" id="node16" href="$classColor.html#a2eb88895a9d7f67823b6ec7a4c6c5b3b" title="Color::getColor" alt="" coords="743,411,858,437"/>
-<area shape="rect" id="node14" href="$classMediaImpl.html#a288c75ed527d063896d4e41724c88318" title="MediaImpl::getRate" alt="" coords="944,309,1083,336"/>
+<area shape="rect" id="node9" href="$classPaint.html#aff5469d95ea8d5f211b4b8b66a83bb38" title="Paint::getName" alt="" coords="743,107,858,133"/>
+<area shape="rect" id="node10" href="$classPaint.html#a03222a7a35334458129ad3a9acace369" title="Paint::getType" alt="" coords="745,157,856,184"/>
+<area shape="rect" id="node11" href="$classMedia.html#a72b91edb335d45614b3e3bf49adc36fd" title="Media::getUri" alt="" coords="749,208,852,235"/>
+<area shape="rect" id="node12" href="$classTexture.html#a1b9d77401b6a113d8ff51f97f6e106f3" title="Texture::getX" alt="" coords="748,259,853,285"/>
+<area shape="rect" id="node13" href="$classTexture.html#a2f2145e1efb2e3a6604b85453ce8e87c" title="Texture::getY" alt="" coords="748,309,853,336"/>
+<area shape="rect" id="node14" href="$classMedia.html#adbd9f274384a6dacc87e97e56a23e805" title="Returns playback rate. " alt="" coords="743,360,858,387"/>
+<area shape="rect" id="node16" href="$classImage.html#a2c61d9466ffe4cf8b662617c03e7b8cf" title="Image::getUri" alt="" coords="749,411,852,437"/>
+<area shape="rect" id="node17" href="$classColor.html#a2eb88895a9d7f67823b6ec7a4c6c5b3b" title="Color::getColor" alt="" coords="743,461,858,488"/>
+<area shape="rect" id="node15" href="$classMediaImpl.html#a288c75ed527d063896d4e41724c88318" title="MediaImpl::getRate" alt="" coords="944,360,1083,387"/>
 </map>

@@ -1,7 +1,7 @@
 <map id="ShapeControlPainter::getShape" name="ShapeControlPainter::getShape">
-<area shape="rect" id="node2" href="$classPolygonControlPainter.html#adb676c3371605930d669701b65580f51" title="PolygonControlPainter\l::_paintShape" alt="" coords="200,5,357,47"/>
-<area shape="rect" id="node3" href="$classEllipseControlPainter.html#ad858b1c8f52a54245ca047619c4cef9e" title="EllipseControlPainter\l::_paintShape" alt="" coords="205,71,352,112"/>
-<area shape="rect" id="node4" href="$classMeshControlPainter.html#a6aebae0b4e8d9b49c53d8d8b9e3904e3" title="MeshControlPainter\l::_paintShape" alt="" coords="209,136,349,177"/>
-<area shape="rect" id="node5" href="$classShapeControlPainter.html#a3f98d005fa8202d873bb34ada3e78ef0" title="ShapeControlPainter\l::_paintVertices" alt="" coords="205,201,352,243"/>
-<area shape="rect" id="node6" href="$classShapeControlPainter.html#acf7b5733ad7f7827960fa226d92dfacb" title="ShapeControlPainter\l::paint" alt="" coords="405,201,552,243"/>
+<area shape="rect" id="node2" href="$classPolygonControlPainter.html#a4f3dfb8ae383a8d01d18173875f25138" title="PolygonControlPainter\l::_paintShape" alt="" coords="200,5,357,47"/>
+<area shape="rect" id="node3" href="$classEllipseControlPainter.html#a527e17b7b43f7bacb6ab4cee31d0e76c" title="EllipseControlPainter\l::_paintShape" alt="" coords="205,71,352,112"/>
+<area shape="rect" id="node4" href="$classMeshControlPainter.html#a3ddce4455d2e32de45b743438d037867" title="MeshControlPainter\l::_paintShape" alt="" coords="209,136,349,177"/>
+<area shape="rect" id="node5" href="$classShapeControlPainter.html#a8774237d93d0630b7f71116142840f6f" title="ShapeControlPainter\l::_paintVertices" alt="" coords="205,201,352,243"/>
+<area shape="rect" id="node6" href="$classShapeControlPainter.html#a545518ded9e831c05a008f08f4f58a0b" title="ShapeControlPainter\l::paint" alt="" coords="405,201,552,243"/>
 </map>

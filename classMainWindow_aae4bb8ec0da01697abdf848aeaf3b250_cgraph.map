@@ -1,0 +1,7 @@
+<map id="MainWindow::paintListEditEnd" name="MainWindow::paintListEditEnd">
+<area shape="rect" id="node2" href="$classMainWindow.html#a6eed84404b7bab6b22016d00499b49f7" title="MainWindow::getItemId" alt="" coords="1015,19,1177,45"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a65612b34234ca1d1f74f8f71b1a47c17" title="MainWindow::renamePaint" alt="" coords="255,31,439,57"/>
+<area shape="rect" id="node4" href="$classMappingManager.html#a7c9b912e3c84f7d7ab3b2d604986d73a" title="Returns paint with given uid. " alt="" coords="487,31,697,57"/>
+<area shape="rect" id="node5" href="$classMainWindow.html#aeb868c14b8b36df1001736b97529dfb1" title="MainWindow::getItemFromId" alt="" coords="495,81,689,108"/>
+<area shape="rect" id="node6" href="$classMainWindow.html#a4658dbe8953b4536ec18c3bb22d493ac" title="MainWindow::getItemRowFromId" alt="" coords="745,56,967,83"/>
+</map>

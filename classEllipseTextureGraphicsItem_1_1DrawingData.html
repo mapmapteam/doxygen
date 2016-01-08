@@ -63,8 +63,6 @@
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
 <div class="center"><img src="classEllipseTextureGraphicsItem_1_1DrawingData__coll__graph.png" border="0" usemap="#EllipseTextureGraphicsItem_1_1DrawingData_coll__map" alt="Collaboration graph"/></div>
-<map name="EllipseTextureGraphicsItem_1_1DrawingData_coll__map" id="EllipseTextureGraphicsItem_1_1DrawingData_coll__map">
-</map>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
@@ -93,7 +91,7 @@ Public Attributes</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p>Definition at line <a class="el" href="ShapeGraphicsItem_8h_source.html#l00255">255</a> of file <a class="el" href="ShapeGraphicsItem_8h_source.html">ShapeGraphicsItem.h</a>.</p>
+<p>Definition at line <a class="el" href="ShapeGraphicsItem_8h_source.html#l00248">248</a> of file <a class="el" href="ShapeGraphicsItem_8h_source.html">ShapeGraphicsItem.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a class="anchor" id="a44b9651c250892927e4e58b3c8136f4e"></a>
 <div class="memitem">
@@ -109,32 +107,32 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00481">481</a> of file <a class="el" href="ShapeGraphicsItem_8cpp_source.html">ShapeGraphicsItem.cpp</a>.</p>
+<p>Definition at line <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00476">476</a> of file <a class="el" href="ShapeGraphicsItem_8cpp_source.html">ShapeGraphicsItem.cpp</a>.</p>
 
-<p>References <a class="el" href="ShapeGraphicsItem_8h_source.html#l00257">center</a>, <a class="el" href="ShapeGraphicsItem_8h_source.html#l00258">controlCenter</a>, <a class="el" href="ShapeGraphicsItem_8h_source.html#l00259">horizontalRadius</a>, <a class="el" href="ShapeGraphicsItem_8h_source.html#l00262">quarterAngles</a>, <a class="el" href="ShapeGraphicsItem_8h_source.html#l00261">rotation</a>, and <a class="el" href="ShapeGraphicsItem_8h_source.html#l00260">verticalRadius</a>.</p>
-<div class="fragment"><div class="line"><a name="l00482"></a><span class="lineno">  482</span>&#160;{</div>
-<div class="line"><a name="l00483"></a><span class="lineno">  483</span>&#160;  <span class="comment">// Gather basic definitions.</span></div>
-<div class="line"><a name="l00484"></a><span class="lineno">  484</span>&#160;  <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a92f76fd20201855839cfad786178f367">center</a>           = ellipse-&gt;getCenter();</div>
-<div class="line"><a name="l00485"></a><span class="lineno">  485</span>&#160;  <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#acc431660fafb09fa212eaeb0ca67059b">controlCenter</a>    = ellipse-&gt;getVertex(4);</div>
-<div class="line"><a name="l00486"></a><span class="lineno">  486</span>&#160;  <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#af752ce12507a7e478f1770a0c4ad226f">horizontalRadius</a> = ellipse-&gt;getHorizontalRadius();</div>
-<div class="line"><a name="l00487"></a><span class="lineno">  487</span>&#160;  <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a8b071e504ca0384b75344a0beb4ded9a">verticalRadius</a>   = ellipse-&gt;getVerticalRadius();</div>
-<div class="line"><a name="l00488"></a><span class="lineno">  488</span>&#160;  <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a87d7100b4b0099ad0fde52483d56446e">rotation</a>         = ellipse-&gt;getRotationRadians();</div>
-<div class="line"><a name="l00489"></a><span class="lineno">  489</span>&#160;</div>
-<div class="line"><a name="l00490"></a><span class="lineno">  490</span>&#160;  <span class="comment">// Compute quarter angles.</span></div>
-<div class="line"><a name="l00491"></a><span class="lineno">  491</span>&#160;  <span class="keyword">const</span> QPointF&amp; unitControlCenter  = ellipse-&gt;toUnitCircle().map(<a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#acc431660fafb09fa212eaeb0ca67059b">controlCenter</a>);</div>
-<div class="line"><a name="l00492"></a><span class="lineno">  492</span>&#160;  <span class="keywordtype">float</span> inputAngle1 = asin(unitControlCenter.y());</div>
-<div class="line"><a name="l00493"></a><span class="lineno">  493</span>&#160;  <span class="keywordtype">float</span> inputAngle2 = acos(unitControlCenter.x());</div>
-<div class="line"><a name="l00494"></a><span class="lineno">  494</span>&#160;  <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a308251fcdf274d5ffb09b1cd436d9861">quarterAngles</a>[0] = inputAngle1;</div>
-<div class="line"><a name="l00495"></a><span class="lineno">  495</span>&#160;  quarterAngles[1] = inputAngle2;</div>
-<div class="line"><a name="l00496"></a><span class="lineno">  496</span>&#160;  quarterAngles[2] = M_PI   - inputAngle1;</div>
-<div class="line"><a name="l00497"></a><span class="lineno">  497</span>&#160;  quarterAngles[3] = 2*M_PI - inputAngle2;</div>
-<div class="line"><a name="l00498"></a><span class="lineno">  498</span>&#160;}</div>
-<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_af752ce12507a7e478f1770a0c4ad226f"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#af752ce12507a7e478f1770a0c4ad226f">EllipseTextureGraphicsItem::DrawingData::horizontalRadius</a></div><div class="ttdeci">float horizontalRadius</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00259">ShapeGraphicsItem.h:259</a></div></div>
-<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_a87d7100b4b0099ad0fde52483d56446e"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a87d7100b4b0099ad0fde52483d56446e">EllipseTextureGraphicsItem::DrawingData::rotation</a></div><div class="ttdeci">float rotation</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00261">ShapeGraphicsItem.h:261</a></div></div>
-<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_acc431660fafb09fa212eaeb0ca67059b"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#acc431660fafb09fa212eaeb0ca67059b">EllipseTextureGraphicsItem::DrawingData::controlCenter</a></div><div class="ttdeci">QPointF controlCenter</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00258">ShapeGraphicsItem.h:258</a></div></div>
-<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_a92f76fd20201855839cfad786178f367"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a92f76fd20201855839cfad786178f367">EllipseTextureGraphicsItem::DrawingData::center</a></div><div class="ttdeci">QPointF center</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00257">ShapeGraphicsItem.h:257</a></div></div>
-<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_a308251fcdf274d5ffb09b1cd436d9861"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a308251fcdf274d5ffb09b1cd436d9861">EllipseTextureGraphicsItem::DrawingData::quarterAngles</a></div><div class="ttdeci">float quarterAngles[N_QUARTERS]</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00262">ShapeGraphicsItem.h:262</a></div></div>
-<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_a8b071e504ca0384b75344a0beb4ded9a"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a8b071e504ca0384b75344a0beb4ded9a">EllipseTextureGraphicsItem::DrawingData::verticalRadius</a></div><div class="ttdeci">float verticalRadius</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00260">ShapeGraphicsItem.h:260</a></div></div>
+<p>References <a class="el" href="ShapeGraphicsItem_8h_source.html#l00250">center</a>, <a class="el" href="ShapeGraphicsItem_8h_source.html#l00251">controlCenter</a>, <a class="el" href="ShapeGraphicsItem_8h_source.html#l00252">horizontalRadius</a>, <a class="el" href="ShapeGraphicsItem_8h_source.html#l00255">quarterAngles</a>, <a class="el" href="ShapeGraphicsItem_8h_source.html#l00254">rotation</a>, and <a class="el" href="ShapeGraphicsItem_8h_source.html#l00253">verticalRadius</a>.</p>
+<div class="fragment"><div class="line"><a name="l00477"></a><span class="lineno">  477</span>&#160;{</div>
+<div class="line"><a name="l00478"></a><span class="lineno">  478</span>&#160;  <span class="comment">// Gather basic definitions.</span></div>
+<div class="line"><a name="l00479"></a><span class="lineno">  479</span>&#160;  <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a92f76fd20201855839cfad786178f367">center</a>           = ellipse-&gt;getCenter();</div>
+<div class="line"><a name="l00480"></a><span class="lineno">  480</span>&#160;  <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#acc431660fafb09fa212eaeb0ca67059b">controlCenter</a>    = ellipse-&gt;getVertex(4);</div>
+<div class="line"><a name="l00481"></a><span class="lineno">  481</span>&#160;  <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#af752ce12507a7e478f1770a0c4ad226f">horizontalRadius</a> = ellipse-&gt;getHorizontalRadius();</div>
+<div class="line"><a name="l00482"></a><span class="lineno">  482</span>&#160;  <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a8b071e504ca0384b75344a0beb4ded9a">verticalRadius</a>   = ellipse-&gt;getVerticalRadius();</div>
+<div class="line"><a name="l00483"></a><span class="lineno">  483</span>&#160;  <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a87d7100b4b0099ad0fde52483d56446e">rotation</a>         = ellipse-&gt;getRotationRadians();</div>
+<div class="line"><a name="l00484"></a><span class="lineno">  484</span>&#160;</div>
+<div class="line"><a name="l00485"></a><span class="lineno">  485</span>&#160;  <span class="comment">// Compute quarter angles.</span></div>
+<div class="line"><a name="l00486"></a><span class="lineno">  486</span>&#160;  <span class="keyword">const</span> QPointF&amp; unitControlCenter  = ellipse-&gt;toUnitCircle().map(<a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#acc431660fafb09fa212eaeb0ca67059b">controlCenter</a>);</div>
+<div class="line"><a name="l00487"></a><span class="lineno">  487</span>&#160;  <span class="keywordtype">float</span> inputAngle1 = asin(unitControlCenter.y());</div>
+<div class="line"><a name="l00488"></a><span class="lineno">  488</span>&#160;  <span class="keywordtype">float</span> inputAngle2 = acos(unitControlCenter.x());</div>
+<div class="line"><a name="l00489"></a><span class="lineno">  489</span>&#160;  <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a308251fcdf274d5ffb09b1cd436d9861">quarterAngles</a>[0] = inputAngle1;</div>
+<div class="line"><a name="l00490"></a><span class="lineno">  490</span>&#160;  quarterAngles[1] = inputAngle2;</div>
+<div class="line"><a name="l00491"></a><span class="lineno">  491</span>&#160;  quarterAngles[2] = M_PI   - inputAngle1;</div>
+<div class="line"><a name="l00492"></a><span class="lineno">  492</span>&#160;  quarterAngles[3] = 2*M_PI - inputAngle2;</div>
+<div class="line"><a name="l00493"></a><span class="lineno">  493</span>&#160;}</div>
+<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_af752ce12507a7e478f1770a0c4ad226f"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#af752ce12507a7e478f1770a0c4ad226f">EllipseTextureGraphicsItem::DrawingData::horizontalRadius</a></div><div class="ttdeci">float horizontalRadius</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00252">ShapeGraphicsItem.h:252</a></div></div>
+<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_a87d7100b4b0099ad0fde52483d56446e"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a87d7100b4b0099ad0fde52483d56446e">EllipseTextureGraphicsItem::DrawingData::rotation</a></div><div class="ttdeci">float rotation</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00254">ShapeGraphicsItem.h:254</a></div></div>
+<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_acc431660fafb09fa212eaeb0ca67059b"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#acc431660fafb09fa212eaeb0ca67059b">EllipseTextureGraphicsItem::DrawingData::controlCenter</a></div><div class="ttdeci">QPointF controlCenter</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00251">ShapeGraphicsItem.h:251</a></div></div>
+<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_a92f76fd20201855839cfad786178f367"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a92f76fd20201855839cfad786178f367">EllipseTextureGraphicsItem::DrawingData::center</a></div><div class="ttdeci">QPointF center</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00250">ShapeGraphicsItem.h:250</a></div></div>
+<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_a308251fcdf274d5ffb09b1cd436d9861"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a308251fcdf274d5ffb09b1cd436d9861">EllipseTextureGraphicsItem::DrawingData::quarterAngles</a></div><div class="ttdeci">float quarterAngles[N_QUARTERS]</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00255">ShapeGraphicsItem.h:255</a></div></div>
+<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_a8b071e504ca0384b75344a0beb4ded9a"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a8b071e504ca0384b75344a0beb4ded9a">EllipseTextureGraphicsItem::DrawingData::verticalRadius</a></div><div class="ttdeci">float verticalRadius</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00253">ShapeGraphicsItem.h:253</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -153,18 +151,18 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00500">500</a> of file <a class="el" href="ShapeGraphicsItem_8cpp_source.html">ShapeGraphicsItem.cpp</a>.</p>
+<p>Definition at line <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00495">495</a> of file <a class="el" href="ShapeGraphicsItem_8cpp_source.html">ShapeGraphicsItem.cpp</a>.</p>
 
-<p>References <a class="el" href="ShapeGraphicsItem_8h_source.html#l00253">EllipseTextureGraphicsItem::N_QUARTERS</a>.</p>
+<p>References <a class="el" href="ShapeGraphicsItem_8h_source.html#l00246">EllipseTextureGraphicsItem::N_QUARTERS</a>.</p>
 
-<p>Referenced by <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00539">EllipseTextureGraphicsItem::_doDrawOutput()</a>.</p>
-<div class="fragment"><div class="line"><a name="l00501"></a><span class="lineno">  501</span>&#160;{</div>
-<div class="line"><a name="l00502"></a><span class="lineno">  502</span>&#160;  <span class="keywordtype">float</span> angleSpan = <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a308251fcdf274d5ffb09b1cd436d9861">quarterAngles</a>[(quarter+1)%<a class="code" href="classEllipseTextureGraphicsItem.html#a3ebe1c77392f70d2c2e65fb241069945">N_QUARTERS</a>] - <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a308251fcdf274d5ffb09b1cd436d9861">quarterAngles</a>[quarter];</div>
-<div class="line"><a name="l00503"></a><span class="lineno">  503</span>&#160;  <span class="keywordflow">while</span> (angleSpan &lt; 0) angleSpan += 2*M_PI;</div>
-<div class="line"><a name="l00504"></a><span class="lineno">  504</span>&#160;  <span class="keywordflow">return</span> angleSpan;</div>
-<div class="line"><a name="l00505"></a><span class="lineno">  505</span>&#160;}</div>
-<div class="ttc" id="classEllipseTextureGraphicsItem_html_a3ebe1c77392f70d2c2e65fb241069945"><div class="ttname"><a href="classEllipseTextureGraphicsItem.html#a3ebe1c77392f70d2c2e65fb241069945">EllipseTextureGraphicsItem::N_QUARTERS</a></div><div class="ttdeci">static const int N_QUARTERS</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00253">ShapeGraphicsItem.h:253</a></div></div>
-<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_a308251fcdf274d5ffb09b1cd436d9861"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a308251fcdf274d5ffb09b1cd436d9861">EllipseTextureGraphicsItem::DrawingData::quarterAngles</a></div><div class="ttdeci">float quarterAngles[N_QUARTERS]</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00262">ShapeGraphicsItem.h:262</a></div></div>
+<p>Referenced by <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00534">EllipseTextureGraphicsItem::_doDrawOutput()</a>.</p>
+<div class="fragment"><div class="line"><a name="l00496"></a><span class="lineno">  496</span>&#160;{</div>
+<div class="line"><a name="l00497"></a><span class="lineno">  497</span>&#160;  <span class="keywordtype">float</span> angleSpan = <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a308251fcdf274d5ffb09b1cd436d9861">quarterAngles</a>[(quarter+1)%<a class="code" href="classEllipseTextureGraphicsItem.html#a3ebe1c77392f70d2c2e65fb241069945">N_QUARTERS</a>] - <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a308251fcdf274d5ffb09b1cd436d9861">quarterAngles</a>[quarter];</div>
+<div class="line"><a name="l00498"></a><span class="lineno">  498</span>&#160;  <span class="keywordflow">while</span> (angleSpan &lt; 0) angleSpan += 2*M_PI;</div>
+<div class="line"><a name="l00499"></a><span class="lineno">  499</span>&#160;  <span class="keywordflow">return</span> angleSpan;</div>
+<div class="line"><a name="l00500"></a><span class="lineno">  500</span>&#160;}</div>
+<div class="ttc" id="classEllipseTextureGraphicsItem_html_a3ebe1c77392f70d2c2e65fb241069945"><div class="ttname"><a href="classEllipseTextureGraphicsItem.html#a3ebe1c77392f70d2c2e65fb241069945">EllipseTextureGraphicsItem::N_QUARTERS</a></div><div class="ttdeci">static const int N_QUARTERS</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00246">ShapeGraphicsItem.h:246</a></div></div>
+<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_a308251fcdf274d5ffb09b1cd436d9861"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a308251fcdf274d5ffb09b1cd436d9861">EllipseTextureGraphicsItem::DrawingData::quarterAngles</a></div><div class="ttdeci">float quarterAngles[N_QUARTERS]</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00255">ShapeGraphicsItem.h:255</a></div></div>
 </div><!-- fragment -->
 <p><div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-1-trigger" src="closed.png" alt="+"/> Here is the caller graph for this function:</div>
@@ -203,21 +201,21 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00507">507</a> of file <a class="el" href="ShapeGraphicsItem_8cpp_source.html">ShapeGraphicsItem.cpp</a>.</p>
+<p>Definition at line <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00502">502</a> of file <a class="el" href="ShapeGraphicsItem_8cpp_source.html">ShapeGraphicsItem.cpp</a>.</p>
 
-<p>Referenced by <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00539">EllipseTextureGraphicsItem::_doDrawOutput()</a>.</p>
-<div class="fragment"><div class="line"><a name="l00508"></a><span class="lineno">  508</span>&#160;{</div>
-<div class="line"><a name="l00509"></a><span class="lineno">  509</span>&#160;  <span class="keywordtype">float</span> xCirc = cos(circularAngle) * <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#af752ce12507a7e478f1770a0c4ad226f">horizontalRadius</a>; <span class="comment">// this looks really weird...</span></div>
-<div class="line"><a name="l00510"></a><span class="lineno">  510</span>&#160;  <span class="keywordtype">float</span> yCirc = sin(circularAngle) * <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a8b071e504ca0384b75344a0beb4ded9a">verticalRadius</a>;</div>
-<div class="line"><a name="l00511"></a><span class="lineno">  511</span>&#160;  <span class="keywordtype">float</span> distance = sqrt( xCirc*xCirc + yCirc*yCirc );</div>
-<div class="line"><a name="l00512"></a><span class="lineno">  512</span>&#160;  <span class="keywordtype">float</span> angle    = atan2( yCirc, xCirc );</div>
-<div class="line"><a name="l00513"></a><span class="lineno">  513</span>&#160;  point.setX( cos(angle + <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a87d7100b4b0099ad0fde52483d56446e">rotation</a>) * distance + <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a92f76fd20201855839cfad786178f367">center</a>.x() );</div>
-<div class="line"><a name="l00514"></a><span class="lineno">  514</span>&#160;  point.setY( sin(angle + <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a87d7100b4b0099ad0fde52483d56446e">rotation</a>) * distance + <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a92f76fd20201855839cfad786178f367">center</a>.y() );</div>
-<div class="line"><a name="l00515"></a><span class="lineno">  515</span>&#160;}</div>
-<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_af752ce12507a7e478f1770a0c4ad226f"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#af752ce12507a7e478f1770a0c4ad226f">EllipseTextureGraphicsItem::DrawingData::horizontalRadius</a></div><div class="ttdeci">float horizontalRadius</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00259">ShapeGraphicsItem.h:259</a></div></div>
-<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_a87d7100b4b0099ad0fde52483d56446e"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a87d7100b4b0099ad0fde52483d56446e">EllipseTextureGraphicsItem::DrawingData::rotation</a></div><div class="ttdeci">float rotation</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00261">ShapeGraphicsItem.h:261</a></div></div>
-<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_a92f76fd20201855839cfad786178f367"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a92f76fd20201855839cfad786178f367">EllipseTextureGraphicsItem::DrawingData::center</a></div><div class="ttdeci">QPointF center</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00257">ShapeGraphicsItem.h:257</a></div></div>
-<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_a8b071e504ca0384b75344a0beb4ded9a"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a8b071e504ca0384b75344a0beb4ded9a">EllipseTextureGraphicsItem::DrawingData::verticalRadius</a></div><div class="ttdeci">float verticalRadius</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00260">ShapeGraphicsItem.h:260</a></div></div>
+<p>Referenced by <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00534">EllipseTextureGraphicsItem::_doDrawOutput()</a>.</p>
+<div class="fragment"><div class="line"><a name="l00503"></a><span class="lineno">  503</span>&#160;{</div>
+<div class="line"><a name="l00504"></a><span class="lineno">  504</span>&#160;  <span class="keywordtype">float</span> xCirc = cos(circularAngle) * <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#af752ce12507a7e478f1770a0c4ad226f">horizontalRadius</a>; <span class="comment">// this looks really weird...</span></div>
+<div class="line"><a name="l00505"></a><span class="lineno">  505</span>&#160;  <span class="keywordtype">float</span> yCirc = sin(circularAngle) * <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a8b071e504ca0384b75344a0beb4ded9a">verticalRadius</a>;</div>
+<div class="line"><a name="l00506"></a><span class="lineno">  506</span>&#160;  <span class="keywordtype">float</span> distance = sqrt( xCirc*xCirc + yCirc*yCirc );</div>
+<div class="line"><a name="l00507"></a><span class="lineno">  507</span>&#160;  <span class="keywordtype">float</span> angle    = atan2( yCirc, xCirc );</div>
+<div class="line"><a name="l00508"></a><span class="lineno">  508</span>&#160;  point.setX( cos(angle + <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a87d7100b4b0099ad0fde52483d56446e">rotation</a>) * distance + <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a92f76fd20201855839cfad786178f367">center</a>.x() );</div>
+<div class="line"><a name="l00509"></a><span class="lineno">  509</span>&#160;  point.setY( sin(angle + <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a87d7100b4b0099ad0fde52483d56446e">rotation</a>) * distance + <a class="code" href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a92f76fd20201855839cfad786178f367">center</a>.y() );</div>
+<div class="line"><a name="l00510"></a><span class="lineno">  510</span>&#160;}</div>
+<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_af752ce12507a7e478f1770a0c4ad226f"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#af752ce12507a7e478f1770a0c4ad226f">EllipseTextureGraphicsItem::DrawingData::horizontalRadius</a></div><div class="ttdeci">float horizontalRadius</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00252">ShapeGraphicsItem.h:252</a></div></div>
+<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_a87d7100b4b0099ad0fde52483d56446e"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a87d7100b4b0099ad0fde52483d56446e">EllipseTextureGraphicsItem::DrawingData::rotation</a></div><div class="ttdeci">float rotation</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00254">ShapeGraphicsItem.h:254</a></div></div>
+<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_a92f76fd20201855839cfad786178f367"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a92f76fd20201855839cfad786178f367">EllipseTextureGraphicsItem::DrawingData::center</a></div><div class="ttdeci">QPointF center</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00250">ShapeGraphicsItem.h:250</a></div></div>
+<div class="ttc" id="classEllipseTextureGraphicsItem_1_1DrawingData_html_a8b071e504ca0384b75344a0beb4ded9a"><div class="ttname"><a href="classEllipseTextureGraphicsItem_1_1DrawingData.html#a8b071e504ca0384b75344a0beb4ded9a">EllipseTextureGraphicsItem::DrawingData::verticalRadius</a></div><div class="ttdeci">float verticalRadius</div><div class="ttdef"><b>Definition:</b> <a href="ShapeGraphicsItem_8h_source.html#l00253">ShapeGraphicsItem.h:253</a></div></div>
 </div><!-- fragment -->
 <p><div id="dynsection-2" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-2-trigger" src="closed.png" alt="+"/> Here is the caller graph for this function:</div>
@@ -243,9 +241,9 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="ShapeGraphicsItem_8h_source.html#l00257">257</a> of file <a class="el" href="ShapeGraphicsItem_8h_source.html">ShapeGraphicsItem.h</a>.</p>
+<p>Definition at line <a class="el" href="ShapeGraphicsItem_8h_source.html#l00250">250</a> of file <a class="el" href="ShapeGraphicsItem_8h_source.html">ShapeGraphicsItem.h</a>.</p>
 
-<p>Referenced by <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00481">DrawingData()</a>.</p>
+<p>Referenced by <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00476">DrawingData()</a>.</p>
 
 </div>
 </div>
@@ -259,9 +257,9 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="ShapeGraphicsItem_8h_source.html#l00258">258</a> of file <a class="el" href="ShapeGraphicsItem_8h_source.html">ShapeGraphicsItem.h</a>.</p>
+<p>Definition at line <a class="el" href="ShapeGraphicsItem_8h_source.html#l00251">251</a> of file <a class="el" href="ShapeGraphicsItem_8h_source.html">ShapeGraphicsItem.h</a>.</p>
 
-<p>Referenced by <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00539">EllipseTextureGraphicsItem::_doDrawOutput()</a>, and <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00481">DrawingData()</a>.</p>
+<p>Referenced by <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00534">EllipseTextureGraphicsItem::_doDrawOutput()</a>, and <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00476">DrawingData()</a>.</p>
 
 </div>
 </div>
@@ -275,9 +273,9 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="ShapeGraphicsItem_8h_source.html#l00259">259</a> of file <a class="el" href="ShapeGraphicsItem_8h_source.html">ShapeGraphicsItem.h</a>.</p>
+<p>Definition at line <a class="el" href="ShapeGraphicsItem_8h_source.html#l00252">252</a> of file <a class="el" href="ShapeGraphicsItem_8h_source.html">ShapeGraphicsItem.h</a>.</p>
 
-<p>Referenced by <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00481">DrawingData()</a>.</p>
+<p>Referenced by <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00476">DrawingData()</a>.</p>
 
 </div>
 </div>
@@ -291,9 +289,9 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="ShapeGraphicsItem_8h_source.html#l00260">260</a> of file <a class="el" href="ShapeGraphicsItem_8h_source.html">ShapeGraphicsItem.h</a>.</p>
+<p>Definition at line <a class="el" href="ShapeGraphicsItem_8h_source.html#l00253">253</a> of file <a class="el" href="ShapeGraphicsItem_8h_source.html">ShapeGraphicsItem.h</a>.</p>
 
-<p>Referenced by <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00481">DrawingData()</a>.</p>
+<p>Referenced by <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00476">DrawingData()</a>.</p>
 
 </div>
 </div>
@@ -307,9 +305,9 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="ShapeGraphicsItem_8h_source.html#l00261">261</a> of file <a class="el" href="ShapeGraphicsItem_8h_source.html">ShapeGraphicsItem.h</a>.</p>
+<p>Definition at line <a class="el" href="ShapeGraphicsItem_8h_source.html#l00254">254</a> of file <a class="el" href="ShapeGraphicsItem_8h_source.html">ShapeGraphicsItem.h</a>.</p>
 
-<p>Referenced by <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00481">DrawingData()</a>.</p>
+<p>Referenced by <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00476">DrawingData()</a>.</p>
 
 </div>
 </div>
@@ -323,9 +321,9 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="ShapeGraphicsItem_8h_source.html#l00262">262</a> of file <a class="el" href="ShapeGraphicsItem_8h_source.html">ShapeGraphicsItem.h</a>.</p>
+<p>Definition at line <a class="el" href="ShapeGraphicsItem_8h_source.html#l00255">255</a> of file <a class="el" href="ShapeGraphicsItem_8h_source.html">ShapeGraphicsItem.h</a>.</p>
 
-<p>Referenced by <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00539">EllipseTextureGraphicsItem::_doDrawOutput()</a>, and <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00481">DrawingData()</a>.</p>
+<p>Referenced by <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00534">EllipseTextureGraphicsItem::_doDrawOutput()</a>, and <a class="el" href="ShapeGraphicsItem_8cpp_source.html#l00476">DrawingData()</a>.</p>
 
 </div>
 </div>
@@ -336,7 +334,7 @@ Public Attributes</h2></td></tr>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Thu Dec 31 2015 20:28:05 for MapMap by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Fri Jan 8 2016 09:37:02 for MapMap by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.8
 </small></address>

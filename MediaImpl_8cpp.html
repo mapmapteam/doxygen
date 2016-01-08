@@ -59,7 +59,7 @@
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
 <div class="center"><img src="MediaImpl_8cpp__incl.png" border="0" usemap="#MediaImpl_8cpp" alt=""/></div>
 <map name="MediaImpl_8cpp" id="MediaImpl_8cpp">
-<area shape="rect" id="node2" href="MediaImpl_8h.html" title="MediaImpl.h" alt="" coords="414,80,509,107"/></map>
+<area shape="rect" id="node2" href="MediaImpl_8h.html" title="MediaImpl.h" alt="" coords="521,80,615,107"/></map>
 </div>
 </div>
 <p><a href="MediaImpl_8cpp_source.html">Go to the source code of this file.</a></p>
@@ -84,31 +84,31 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="MediaImpl_8cpp_source.html#l00329">329</a> of file <a class="el" href="MediaImpl_8cpp_source.html">MediaImpl.cpp</a>.</p>
+<p>Definition at line <a class="el" href="MediaImpl_8cpp_source.html#l00338">338</a> of file <a class="el" href="MediaImpl_8cpp_source.html">MediaImpl.cpp</a>.</p>
 
-<p>References <a class="el" href="MediaImpl_8cpp_source.html#l00074">MediaImpl::getAttached()</a>, <a class="el" href="MediaImpl_8cpp_source.html#l00069">MediaImpl::getUri()</a>, <a class="el" href="MediaImpl_8cpp_source.html#l00079">MediaImpl::setAttached()</a>, and <a class="el" href="MediaImpl_8cpp_source.html#l00591">MediaImpl::setPlayState()</a>.</p>
+<p>References <a class="el" href="MediaImpl_8cpp_source.html#l00076">MediaImpl::getAttached()</a>, <a class="el" href="MediaImpl_8cpp_source.html#l00071">MediaImpl::getUri()</a>, <a class="el" href="MediaImpl_8cpp_source.html#l00081">MediaImpl::setAttached()</a>, and <a class="el" href="MediaImpl_8cpp_source.html#l00680">MediaImpl::setPlayState()</a>.</p>
 
-<p>Referenced by <a class="el" href="MediaImpl_8cpp_source.html#l00346">MediaImpl::loadMovie()</a>.</p>
-<div class="fragment"><div class="line"><a name="l00330"></a><span class="lineno">  330</span>&#160;{</div>
-<div class="line"><a name="l00331"></a><span class="lineno">  331</span>&#160;  <a class="code" href="classMediaImpl.html">MediaImpl</a> *p = (<a class="code" href="classMediaImpl.html">MediaImpl</a>*) user_data;</div>
-<div class="line"><a name="l00332"></a><span class="lineno">  332</span>&#160;  <span class="keywordflow">if</span> (g_file_test(p-&gt;<a class="code" href="classMediaImpl.html#a265a9c862f55511b35a903a9346b86c2">getUri</a>().toUtf8().constData(), G_FILE_TEST_EXISTS) &amp;&amp;</div>
-<div class="line"><a name="l00333"></a><span class="lineno">  333</span>&#160;    ! p-&gt;<a class="code" href="classMediaImpl.html#a6f3fc5fba4b1152ed0adeec327a5dc94">getAttached</a>())</div>
-<div class="line"><a name="l00334"></a><span class="lineno">  334</span>&#160;  {</div>
-<div class="line"><a name="l00335"></a><span class="lineno">  335</span>&#160;    <span class="keywordflow">if</span> (! p-&gt;<a class="code" href="classMediaImpl.html#ae4aa888270e1b711a72012dad8066d0c">setPlayState</a>(<span class="keyword">true</span>))</div>
-<div class="line"><a name="l00336"></a><span class="lineno">  336</span>&#160;    {</div>
-<div class="line"><a name="l00337"></a><span class="lineno">  337</span>&#160;      qDebug() &lt;&lt; <span class="stringliteral">&quot;tried to attach, but starting pipeline failed!&quot;</span> &lt;&lt; endl;</div>
-<div class="line"><a name="l00338"></a><span class="lineno">  338</span>&#160;      <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a name="l00339"></a><span class="lineno">  339</span>&#160;    }</div>
-<div class="line"><a name="l00340"></a><span class="lineno">  340</span>&#160;    <span class="comment">//qDebug() &lt;&lt; &quot;attached, started pipeline!&quot; &lt;&lt; endl;</span></div>
-<div class="line"><a name="l00341"></a><span class="lineno">  341</span>&#160;    p-&gt;<a class="code" href="classMediaImpl.html#a617aadbf02013ca3bd1f481049cd7cbe">setAttached</a>(<span class="keyword">true</span>);</div>
-<div class="line"><a name="l00342"></a><span class="lineno">  342</span>&#160;  }</div>
-<div class="line"><a name="l00343"></a><span class="lineno">  343</span>&#160;  <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a name="l00344"></a><span class="lineno">  344</span>&#160;}</div>
-<div class="ttc" id="classMediaImpl_html_a265a9c862f55511b35a903a9346b86c2"><div class="ttname"><a href="classMediaImpl.html#a265a9c862f55511b35a903a9346b86c2">MediaImpl::getUri</a></div><div class="ttdeci">QString getUri() const </div><div class="ttdoc">Returns the path to the media file being played. </div><div class="ttdef"><b>Definition:</b> <a href="MediaImpl_8cpp_source.html#l00069">MediaImpl.cpp:69</a></div></div>
-<div class="ttc" id="classMediaImpl_html_a6f3fc5fba4b1152ed0adeec327a5dc94"><div class="ttname"><a href="classMediaImpl.html#a6f3fc5fba4b1152ed0adeec327a5dc94">MediaImpl::getAttached</a></div><div class="ttdeci">bool getAttached()</div><div class="ttdoc">When using the shared memory source, returns whether or not we are attached to a shared memory socket...</div><div class="ttdef"><b>Definition:</b> <a href="MediaImpl_8cpp_source.html#l00074">MediaImpl.cpp:74</a></div></div>
-<div class="ttc" id="classMediaImpl_html_ae4aa888270e1b711a72012dad8066d0c"><div class="ttname"><a href="classMediaImpl.html#ae4aa888270e1b711a72012dad8066d0c">MediaImpl::setPlayState</a></div><div class="ttdeci">bool setPlayState(bool play)</div><div class="ttdef"><b>Definition:</b> <a href="MediaImpl_8cpp_source.html#l00591">MediaImpl.cpp:591</a></div></div>
-<div class="ttc" id="classMediaImpl_html_a617aadbf02013ca3bd1f481049cd7cbe"><div class="ttname"><a href="classMediaImpl.html#a617aadbf02013ca3bd1f481049cd7cbe">MediaImpl::setAttached</a></div><div class="ttdeci">void setAttached(bool attach)</div><div class="ttdoc">Tells the MediaImpl that we are actually reading from a shmsrc. </div><div class="ttdef"><b>Definition:</b> <a href="MediaImpl_8cpp_source.html#l00079">MediaImpl.cpp:79</a></div></div>
-<div class="ttc" id="classMediaImpl_html"><div class="ttname"><a href="classMediaImpl.html">MediaImpl</a></div><div class="ttdoc">Private declaration of the video player. </div><div class="ttdef"><b>Definition:</b> <a href="MediaImpl_8h_source.html#l00050">MediaImpl.h:50</a></div></div>
+<p>Referenced by <a class="el" href="MediaImpl_8cpp_source.html#l00355">MediaImpl::loadMovie()</a>.</p>
+<div class="fragment"><div class="line"><a name="l00339"></a><span class="lineno">  339</span>&#160;{</div>
+<div class="line"><a name="l00340"></a><span class="lineno">  340</span>&#160;  <a class="code" href="classMediaImpl.html">MediaImpl</a> *p = (<a class="code" href="classMediaImpl.html">MediaImpl</a>*) user_data;</div>
+<div class="line"><a name="l00341"></a><span class="lineno">  341</span>&#160;  <span class="keywordflow">if</span> (g_file_test(p-&gt;<a class="code" href="classMediaImpl.html#a265a9c862f55511b35a903a9346b86c2">getUri</a>().toUtf8().constData(), G_FILE_TEST_EXISTS) &amp;&amp;</div>
+<div class="line"><a name="l00342"></a><span class="lineno">  342</span>&#160;    ! p-&gt;<a class="code" href="classMediaImpl.html#a6f3fc5fba4b1152ed0adeec327a5dc94">getAttached</a>())</div>
+<div class="line"><a name="l00343"></a><span class="lineno">  343</span>&#160;  {</div>
+<div class="line"><a name="l00344"></a><span class="lineno">  344</span>&#160;    <span class="keywordflow">if</span> (! p-&gt;<a class="code" href="classMediaImpl.html#ae4aa888270e1b711a72012dad8066d0c">setPlayState</a>(<span class="keyword">true</span>))</div>
+<div class="line"><a name="l00345"></a><span class="lineno">  345</span>&#160;    {</div>
+<div class="line"><a name="l00346"></a><span class="lineno">  346</span>&#160;      qDebug() &lt;&lt; <span class="stringliteral">&quot;tried to attach, but starting pipeline failed!&quot;</span> &lt;&lt; endl;</div>
+<div class="line"><a name="l00347"></a><span class="lineno">  347</span>&#160;      <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a name="l00348"></a><span class="lineno">  348</span>&#160;    }</div>
+<div class="line"><a name="l00349"></a><span class="lineno">  349</span>&#160;    <span class="comment">//qDebug() &lt;&lt; &quot;attached, started pipeline!&quot; &lt;&lt; endl;</span></div>
+<div class="line"><a name="l00350"></a><span class="lineno">  350</span>&#160;    p-&gt;<a class="code" href="classMediaImpl.html#a617aadbf02013ca3bd1f481049cd7cbe">setAttached</a>(<span class="keyword">true</span>);</div>
+<div class="line"><a name="l00351"></a><span class="lineno">  351</span>&#160;  }</div>
+<div class="line"><a name="l00352"></a><span class="lineno">  352</span>&#160;  <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a name="l00353"></a><span class="lineno">  353</span>&#160;}</div>
+<div class="ttc" id="classMediaImpl_html_a265a9c862f55511b35a903a9346b86c2"><div class="ttname"><a href="classMediaImpl.html#a265a9c862f55511b35a903a9346b86c2">MediaImpl::getUri</a></div><div class="ttdeci">QString getUri() const </div><div class="ttdoc">Returns the path to the media file being played. </div><div class="ttdef"><b>Definition:</b> <a href="MediaImpl_8cpp_source.html#l00071">MediaImpl.cpp:71</a></div></div>
+<div class="ttc" id="classMediaImpl_html_a6f3fc5fba4b1152ed0adeec327a5dc94"><div class="ttname"><a href="classMediaImpl.html#a6f3fc5fba4b1152ed0adeec327a5dc94">MediaImpl::getAttached</a></div><div class="ttdeci">bool getAttached()</div><div class="ttdoc">When using the shared memory source, returns whether or not we are attached to a shared memory socket...</div><div class="ttdef"><b>Definition:</b> <a href="MediaImpl_8cpp_source.html#l00076">MediaImpl.cpp:76</a></div></div>
+<div class="ttc" id="classMediaImpl_html_ae4aa888270e1b711a72012dad8066d0c"><div class="ttname"><a href="classMediaImpl.html#ae4aa888270e1b711a72012dad8066d0c">MediaImpl::setPlayState</a></div><div class="ttdeci">bool setPlayState(bool play)</div><div class="ttdef"><b>Definition:</b> <a href="MediaImpl_8cpp_source.html#l00680">MediaImpl.cpp:680</a></div></div>
+<div class="ttc" id="classMediaImpl_html_a617aadbf02013ca3bd1f481049cd7cbe"><div class="ttname"><a href="classMediaImpl.html#a617aadbf02013ca3bd1f481049cd7cbe">MediaImpl::setAttached</a></div><div class="ttdeci">void setAttached(bool attach)</div><div class="ttdoc">Tells the MediaImpl that we are actually reading from a shmsrc. </div><div class="ttdef"><b>Definition:</b> <a href="MediaImpl_8cpp_source.html#l00081">MediaImpl.cpp:81</a></div></div>
+<div class="ttc" id="classMediaImpl_html"><div class="ttname"><a href="classMediaImpl.html">MediaImpl</a></div><div class="ttdoc">Private declaration of the video player. </div><div class="ttdef"><b>Definition:</b> <a href="MediaImpl_8h_source.html#l00051">MediaImpl.h:51</a></div></div>
 </div><!-- fragment -->
 <p><div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-1-trigger" src="closed.png" alt="+"/> Here is the call graph for this function:</div>
@@ -137,7 +137,7 @@ Functions</h2></td></tr>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Thu Dec 31 2015 20:28:04 for MapMap by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Fri Jan 8 2016 09:37:01 for MapMap by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.8
 </small></address>

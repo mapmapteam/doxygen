@@ -1,13 +1,14 @@
 <map id="MainWindow::importMediaFile" name="MainWindow::importMediaFile">
 <area shape="rect" id="node2" href="$classMainWindow.html#aadc615244c4f281a6e5f926cbe9fbf31" title="Create or replace a media paint (or image). " alt="" coords="257,275,472,301"/>
 <area shape="rect" id="node5" href="$classMappingManager.html#a7c9b912e3c84f7d7ab3b2d604986d73a" title="Returns paint with given uid. " alt="" coords="785,5,996,32"/>
-<area shape="rect" id="node27" href="$classMainWindow.html#a9bb932590c18df00ee7645eff7b2930e" title="MainWindow::setCurrentVideo" alt="" coords="262,452,467,479"/>
+<area shape="rect" id="node27" href="$classMainWindow.html#a263750ef0987e6dc48b59d6e2083d516" title="MainWindow::fileSupported" alt="" coords="271,376,458,403"/>
+<area shape="rect" id="node28" href="$classMainWindow.html#a9bb932590c18df00ee7645eff7b2930e" title="MainWindow::setCurrentVideo" alt="" coords="262,325,467,352"/>
 <area shape="rect" id="node3" href="$classMappingManager.html#a654e0527c33034cd725a7de17f9fe780" title="Adds a paint and returns its uid. " alt="" coords="528,173,717,200"/>
 <area shape="rect" id="node4" href="$classMainWindow.html#af8ee33b7b46265fdc557e6d99cf74e2a" title="MainWindow::addPaintItem" alt="" coords="529,224,716,251"/>
 <area shape="rect" id="node8" href="$classMainWindow.html#a1d6f21aca555b13f6a122f63838bc95d" title="MainWindow::createFileIcon" alt="" coords="1075,107,1269,133"/>
 <area shape="rect" id="node9" href="$classMainWindow.html#a471c0a0202f839508a6204ff4d7f43cf" title="MainWindow::createImageIcon" alt="" coords="1067,528,1277,555"/>
 <area shape="rect" id="node17" href="$classMainWindow.html#a37bcca7fc7bf0b871d99913c447c237f" title="MainWindow::strippedName" alt="" coords="1077,579,1267,605"/>
-<area shape="rect" id="node23" href="$classMainWindow.html#ae51c798d3bd8c40fd7aea97e1dc68950" title="MainWindow::fileExists" alt="" coords="543,477,703,504"/>
+<area shape="rect" id="node23" href="$classMainWindow.html#aae1d27d172a528d8204180a520aa6c21" title="MainWindow::fileExists" alt="" coords="543,477,703,504"/>
 <area shape="rect" id="node24" href="$classPaint.html#a208998b017844226fc0a9279d4bed02b" title="Paint::getUidAllocator" alt="" coords="547,528,699,555"/>
 <area shape="rect" id="node25" href="$classMainWindow.html#afe75f32bbda1df2a9249d5035a37b4de" title="MainWindow::locateMediaFile" alt="" coords="520,72,725,99"/>
 <area shape="rect" id="node26" href="$classTexture.html#a59953f856e37a6350b58bb02087a8724" title="Texture::setPosition" alt="" coords="551,123,694,149"/>
@@ -25,5 +26,5 @@
 <area shape="rect" id="node16" href="$classMainWindow.html#a6eed84404b7bab6b22016d00499b49f7" title="MainWindow::getItemId" alt="" coords="1860,183,2023,209"/>
 <area shape="rect" id="node19" href="$classMainWindow.html#aeb868c14b8b36df1001736b97529dfb1" title="MainWindow::getItemFromId" alt="" coords="1342,157,1537,184"/>
 <area shape="rect" id="node21" href="$classMainWindow.html#ad62e8427ddc79384e22bccaa2eb1fa1b" title="MainWindow::updateStatusBar" alt="" coords="1598,107,1805,133"/>
-<area shape="rect" id="node28" href="$classMainWindow.html#acef373bab5d075a62cb95daec37b8bd8" title="MainWindow::updateRecent\lVideoActions" alt="" coords="795,571,986,613"/>
+<area shape="rect" id="node29" href="$classMainWindow.html#acef373bab5d075a62cb95daec37b8bd8" title="MainWindow::updateRecent\lVideoActions" alt="" coords="795,571,986,613"/>
 </map>

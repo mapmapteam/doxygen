@@ -1,4 +1,4 @@
 <map id="Mapping" name="Mapping">
-<area shape="rect" id="node2" href="$classColorMapping.html" title="Mapping of a Color paint into a shape. " alt="" coords="5,446,132,538"/>
-<area shape="rect" id="node3" href="$classTextureMapping.html" title="Object whose paint is an image texture. " alt="" coords="156,424,296,560"/>
+<area shape="rect" id="node2" href="$classColorMapping.html" title="Mapping of a Color paint into a shape. " alt="" coords="5,461,132,553"/>
+<area shape="rect" id="node3" href="$classTextureMapping.html" title="Object whose paint is an image texture. " alt="" coords="156,439,296,575"/>
 </map>

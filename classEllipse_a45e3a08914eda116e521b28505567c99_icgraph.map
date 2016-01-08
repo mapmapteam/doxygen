@@ -1,5 +1,5 @@
 <map id="Ellipse::getCenter" name="Ellipse::getCenter">
-<area shape="rect" id="node2" href="$classEllipseControlPainter.html#ad858b1c8f52a54245ca047619c4cef9e" title="EllipseControlPainter\l::_paintShape" alt="" coords="201,5,348,47"/>
+<area shape="rect" id="node2" href="$classEllipseControlPainter.html#a527e17b7b43f7bacb6ab4cee31d0e76c" title="EllipseControlPainter\l::_paintShape" alt="" coords="201,5,348,47"/>
 <area shape="rect" id="node3" href="$namespaceUtil.html#a402d544da53b6fbee636acb6b9d2be1b" title="Util::drawControlsEllipse" alt="" coords="191,71,358,98"/>
 <area shape="rect" id="node4" href="$classEllipse.html#ab1e89c0f12a6272812776f0885c1bcc9" title="Ellipse::Ellipse" alt="" coords="221,122,329,149"/>
 <area shape="rect" id="node5" href="$classEllipse.html#a032b92370ae42a55292cc1a0b2395e50" title="Remaps points so as to make sure this is a correct ellipse, keeping vertices 0 and 2 as reference for..." alt="" coords="848,147,963,174"/>

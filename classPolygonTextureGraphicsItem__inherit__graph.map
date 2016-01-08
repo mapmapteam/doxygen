@@ -1,7 +1,7 @@
 <map id="PolygonTextureGraphicsItem" name="PolygonTextureGraphicsItem">
-<area shape="rect" id="node5" href="$classMeshTextureGraphicsItem.html" title="Graphics item for textured mesh. " alt="" coords="5,917,215,1097"/>
-<area shape="rect" id="node6" href="$classTriangleTextureGraphicsItem.html" title="Graphics item for textured triangles. " alt="" coords="239,954,466,1061"/>
-<area shape="rect" id="node2" href="$classTextureGraphicsItem.html" title="Abstract class for texture graphics items. " alt="" coords="143,505,319,700"/>
-<area shape="rect" id="node3" href="$classShapeGraphicsItem.html" title="Represents a shape as part of a scene graph in one of the GL canvas. " alt="" coords="133,131,330,457"/>
+<area shape="rect" id="node5" href="$classMeshTextureGraphicsItem.html" title="Graphics item for textured mesh. " alt="" coords="5,903,215,1083"/>
+<area shape="rect" id="node6" href="$classTriangleTextureGraphicsItem.html" title="Graphics item for textured triangles. " alt="" coords="239,939,466,1046"/>
+<area shape="rect" id="node2" href="$classTextureGraphicsItem.html" title="Abstract class for texture graphics items. " alt="" coords="143,491,319,685"/>
+<area shape="rect" id="node3" href="$classShapeGraphicsItem.html" title="Represents a shape as part of a scene graph in one of the GL canvas. " alt="" coords="147,131,315,443"/>
 <area shape="rect" id="node4" href="$classQGraphicsItem.html" title="{QGraphicsItem\n||}" alt="" coords="176,5,287,83"/>
 </map>
